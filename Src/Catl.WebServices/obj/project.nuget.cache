@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n8j4/Jqi2ec=",
+  "dgSpecHash": "9EegQdhkslc=",
   "success": true,
-  "projectFilePath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\Catl.WebServices.csproj",
+  "projectFilePath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\Catl.WebServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hongyang.xia\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.0\\microsoft.bcl.asyncinterfaces.9.0.0.nupkg.sha512",
     "C:\\Users\\hongyang.xia\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.0\\microsoft.bcl.cryptography.9.0.0.nupkg.sha512",

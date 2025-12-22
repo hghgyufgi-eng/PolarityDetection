@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7vlyjkt6nwA=",
+  "dgSpecHash": "cqzxFrpBcxw=",
   "success": true,
-  "projectFilePath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
+  "projectFilePath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hongyang.xia\\.nuget\\packages\\aszero.core\\0.2.0\\aszero.core.0.2.0.nupkg.sha512",
     "C:\\Users\\hongyang.xia\\.nuget\\packages\\catl.hostcomputer.commonservices\\0.2.0\\catl.hostcomputer.commonservices.0.2.0.nupkg.sha512",
@@ -119,9 +119,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "包 \"SharpZipLib\" 1.2.0 具有已知的 高 严重性漏洞，https://github.com/advisories/GHSA-m22m-h4rf-pwq3",
-      "projectPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
+      "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
       "warningLevel": 1,
-      "filePath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
+      "filePath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
       "libraryId": "SharpZipLib",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -131,9 +131,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "包 \"SharpZipLib\" 1.2.0 具有已知的 中 严重性漏洞，https://github.com/advisories/GHSA-mm6g-mmq6-53ff",
-      "projectPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
+      "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
       "warningLevel": 1,
-      "filePath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
+      "filePath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
       "libraryId": "SharpZipLib",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -143,9 +143,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "包 \"System.Text.RegularExpressions\" 4.3.0 具有已知的 高 严重性漏洞，https://github.com/advisories/GHSA-cmhx-cq75-c4mj",
-      "projectPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
+      "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
       "warningLevel": 1,
-      "filePath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
+      "filePath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
       "libraryId": "System.Text.RegularExpressions",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"

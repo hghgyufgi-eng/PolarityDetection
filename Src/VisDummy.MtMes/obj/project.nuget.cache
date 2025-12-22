@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SgJG5q3fgGs=",
+  "dgSpecHash": "WsV4fZ3wOwE=",
   "success": true,
-  "projectFilePath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
+  "projectFilePath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hongyang.xia\\.nuget\\packages\\aszero.core\\0.2.0\\aszero.core.0.2.0.nupkg.sha512",
     "C:\\Users\\hongyang.xia\\.nuget\\packages\\catl.hostcomputer.commonservices\\0.2.0\\catl.hostcomputer.commonservices.0.2.0.nupkg.sha512",
@@ -66,6 +66,7 @@
     "C:\\Users\\hongyang.xia\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
     "C:\\Users\\hongyang.xia\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512",
     "C:\\Users\\hongyang.xia\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.135\\microsoft.xaml.behaviors.wpf.1.1.135.nupkg.sha512",
+    "C:\\Users\\hongyang.xia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\hongyang.xia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\hongyang.xia\\.nuget\\packages\\npoi\\2.5.1\\npoi.2.5.1.nupkg.sha512",
     "C:\\Users\\hongyang.xia\\.nuget\\packages\\open-xml-sdk\\2.9.1\\open-xml-sdk.2.9.1.nupkg.sha512",
@@ -166,9 +167,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "包 \"SharpZipLib\" 1.2.0 具有已知的 高 严重性漏洞，https://github.com/advisories/GHSA-m22m-h4rf-pwq3",
-      "projectPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
+      "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
       "warningLevel": 1,
-      "filePath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
+      "filePath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
       "libraryId": "SharpZipLib",
       "targetGraphs": [
         ".NETFramework,Version=v4.7.2"
@@ -178,9 +179,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "包 \"SharpZipLib\" 1.2.0 具有已知的 中 严重性漏洞，https://github.com/advisories/GHSA-mm6g-mmq6-53ff",
-      "projectPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
+      "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
       "warningLevel": 1,
-      "filePath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
+      "filePath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
       "libraryId": "SharpZipLib",
       "targetGraphs": [
         ".NETFramework,Version=v4.7.2"
