@@ -111,7 +111,7 @@ namespace VisDummy.VMs.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VisDummy.VMs;V1.0.0.0;component/views/visrtview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VisDummy.VMs;component/views/visrtview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\VisRtView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

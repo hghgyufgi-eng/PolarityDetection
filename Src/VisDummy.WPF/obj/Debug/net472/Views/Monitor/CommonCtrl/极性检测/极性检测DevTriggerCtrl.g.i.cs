@@ -63,8 +63,8 @@ namespace VisDummy.WPF.Views.Monitor.CommonCtrl.极性检测 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;V1.0.0.0;component/views/monitor/commonctrl/%e6%9e%81%e6%80%a7%e6%a" +
-                    "3%80%e6%b5%8b/%e6%9e%81%e6%80%a7%e6%a3%80%e6%b5%8bdevtriggerctrl.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;component/views/monitor/commonctrl/%e6%9e%81%e6%80%a7%e6%a3%80%e6%b" +
+                    "5%8b/%e6%9e%81%e6%80%a7%e6%a3%80%e6%b5%8bdevtriggerctrl.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\..\..\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

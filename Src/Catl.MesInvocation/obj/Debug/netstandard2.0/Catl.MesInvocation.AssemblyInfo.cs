@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Catl.MesInvocation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f03d1127f784b61cd287a804baa2ce164c01dd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Catl.MesInvocation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Catl.MesInvocation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

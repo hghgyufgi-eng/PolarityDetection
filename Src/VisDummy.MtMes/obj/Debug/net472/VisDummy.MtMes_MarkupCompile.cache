@@ -4,7 +4,7 @@
 library
 C#
 .cs
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.MtMes\obj\Debug\net472\
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.MtMes\obj\Debug\net472\
 VisDummy.MtMes
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NETFRAMEWORK;NET472;;NET30_OR_GREATER;NET35_OR_GREATER;NET40_OR_GREA
 374786981
 
 8822486801
-24812453681
+2482121403686
 CatlMes\CatlMesEditor.xaml;CatlMes\DataCollectForResourceFAICtrl.xaml;MtMes\MtMesCtrl.xaml;
 
 False

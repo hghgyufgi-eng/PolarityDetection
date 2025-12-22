@@ -285257,3 +285257,327 @@ variable index: all
 
 2025-12-13 16:29:04.913 INFO  [52520] [VM_M_UnInitialize@224] [Deinit][End]
 
+2025-12-22 14:13:00.985 INFO  [43164] [VM_M_Initialize@54] [Init][Begin]SDK Version: win64 v4.3.0 build Nov  8 2023, 14:00:59
+
+2025-12-22 14:13:00.985 INFO  [43164] [VM_M_Initialize@55] [Init] Log Mode Async
+
+2025-12-22 14:13:00.985 INFO  [43164] [VM_M_Initialize@60] [Init]LoadModuleData path[C:\Users\hongyang.xia\AppData\Local\Temp\VM52360ImgSrcTemp]
+
+2025-12-22 14:13:00.985 INFO  [43164] [VM_M_Initialize@75] [Init]Set the module path: D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64
+
+2025-12-22 14:13:00.985 INFO  [43164] [VM_M_Initialize@87] [Init] CallbackMgr
+
+2025-12-22 14:13:00.985 INFO  [43164] [CShareMemoryResMgr::ReleaseMemoryRes@21] ReleaseMemoryRes start 
+
+2025-12-22 14:13:00.985 INFO  [43164] [VM_M_Initialize@95] [Init] TopoDataMgr
+
+2025-12-22 14:13:00.985 INFO  [43164] [VM_M_Initialize@101] [Init] ThreadPool
+
+2025-12-22 14:13:00.985 INFO  [43164] [CVmThreadPool::Init@26] Processor num is 8
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@108] [Init] ModuleRstCache
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@115] [Init] ModuleGlobalVarCache
+
+2025-12-22 14:13:00.988 INFO  [23788] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [1]
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@122] [Init] UserInputCache
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@129] [Init] ModuleLoader
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@136] [Init] SubscribeMappingMgr
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@143] [Init] ModuleStatusRecord
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@150] [Init] MemPoolForProcess
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@157] [Init] FrameRuntimeInfo
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@164] [Init] ProcedureLinkage
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@171] [Init] ReentrantObjMgr
+
+2025-12-22 14:13:00.988 INFO  [43164] [CModuleRstDispatcher::PromotePriority@554] Set thread[tid=28] sched param: policy=0, priority=15
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@180] [Init] Singleton
+
+2025-12-22 14:13:00.988 INFO  [46944] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [1]
+
+2025-12-22 14:13:00.988 INFO  [43164] [CRunningPolicy::SetProcedureRunningPolicy@60] Running policy mode=1, ensure time stability is false
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@183] [Init] GlobalVarRWLock
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@191] [Init]Module path: D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64, char set=1, version=10, preload=1
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_Initialize@192] [Init][End]Initialize finished, VmVersion=10
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_EnableSharedMemGlobalPrefix@1924] Shared memory global preifx is not enabled
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_EnableReentrant@2603] VM_M_EnableReentrant(enable=false)
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_EnableReentrant@2607] return code: 0x00000000
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_SetBufferNodeNum@2639] VM_M_SetBufferNodeNum(bufferNum=2)
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_SetBufferNodeNum@2643] return code: 0x00000000
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_SetUnsupportReentrantModules@2615] VM_M_SetUnsupportReentrantModules(pData=ImageSourceModule)
+
+2025-12-22 14:13:00.988 INFO  [43164] [CReentrantObjMgr::SetUnsupportReentrantModules@393] Unsupport reenrant module list, size=1:
+
+2025-12-22 14:13:00.988 INFO  [43164] [CReentrantObjMgr::SetUnsupportReentrantModules@396] [0]:ImageSourceModule
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_SetUnsupportReentrantModules@2619] return code: 0x00000000
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_SetReentrantMaxTimes@2627] VM_M_SetReentrantMaxTimes(nMaxTimes=5)
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_SetReentrantMaxTimes@2631] return code: 0x00000000
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_ForceDeepCopyImage@2707] VM_M_ForceDeepCopyImage(force=true)
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_ForceDeepCopyImage@2711] return code: 0x00000000
+
+2025-12-22 14:13:00.988 INFO  [43164] [VM_M_SetExcludeModuleName@2719] SetExcludeModuleName ImageCollectModu
+
+2025-12-22 14:13:00.991 INFO  [40884] [CModulePathResolver::Init@25] CModulePathResolver Init Begin
+
+2025-12-22 14:13:00.991 INFO  [25016] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [2]
+
+2025-12-22 14:13:00.991 INFO  [45960] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [3]
+
+2025-12-22 14:13:00.992 INFO  [47196] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [4]
+
+2025-12-22 14:13:00.992 INFO  [8992] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [5]
+
+2025-12-22 14:13:00.992 INFO  [50332] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [6]
+
+2025-12-22 14:13:00.992 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Calculation\CalculatorModule\CalculatorModuleAlgorithm.xml
+
+2025-12-22 14:13:00.993 INFO  [43968] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [7]
+
+2025-12-22 14:13:00.993 INFO  [32300] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [8]
+
+2025-12-22 14:13:00.993 INFO  [42832] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [9]
+
+2025-12-22 14:13:00.994 INFO  [35452] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [10]
+
+2025-12-22 14:13:00.994 INFO  [48416] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [11]
+
+2025-12-22 14:13:00.995 INFO  [37916] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [12]
+
+2025-12-22 14:13:00.995 INFO  [28696] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [13]
+
+2025-12-22 14:13:00.995 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Calculation\IMVSSinglePointAlignModu\IMVSSinglePointAlignModuAlgorithm.xml
+
+2025-12-22 14:13:00.995 INFO  [41104] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [14]
+
+2025-12-22 14:13:00.995 INFO  [33456] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [15]
+
+2025-12-22 14:13:00.996 INFO  [14168] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [16]
+
+2025-12-22 14:13:00.996 INFO  [27704] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [2]
+
+2025-12-22 14:13:00.996 INFO  [42908] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [3]
+
+2025-12-22 14:13:00.997 INFO  [36504] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [4]
+
+2025-12-22 14:13:00.997 INFO  [39364] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [5]
+
+2025-12-22 14:13:00.997 INFO  [46736] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [6]
+
+2025-12-22 14:13:00.997 INFO  [39356] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [7]
+
+2025-12-22 14:13:00.998 INFO  [43608] [CConcurrentThreadPoolImpl::DoWork@200] [ThreadPool] Thread start,curNum = [8]
+
+2025-12-22 14:13:00.998 INFO  [41052] [DispatchThread@13] Module result dispatcher, tid=28
+
+2025-12-22 14:13:01.002 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Collection\ImageBufferModule\ImageBufferModuleAlgorithm.xml
+
+2025-12-22 14:13:01.013 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\DefectDetection\IMVSEdgeInspGroupModu\IMVSEdgeInspGroupModuAlgorithm.xml
+
+2025-12-22 14:13:01.019 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Global\GlobalTriggerModule\GlobalTriggerModuleAlgorithm.xml
+
+2025-12-22 14:13:01.019 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Global\GlobalVariableModule\GlobalVariableModuleAlgorithm.xml
+
+2025-12-22 14:13:01.020 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Global\LightControl\LightControlAlgorithm.xml
+
+2025-12-22 14:13:01.020 ERROR [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@98] Open file 'D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Global\ProcedureModule\ProcedureModuleAlgorithm.xml' failed
+
+2025-12-22 14:13:01.020 ERROR [40884] [CModulePathResolver::Init@92] modulename[ProcedureModule] xmlfile[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Global\ProcedureModule\ProcedureModuleAlgorithm.xml] can not find
+
+2025-12-22 14:13:01.021 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\ImageGeneration\GeometryCreate\GeometryCreateAlgorithm.xml
+
+2025-12-22 14:13:01.024 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\ImageProcessing\IMVSImageCombineProcessModu\IMVSImageCombineProcessModuAlgorithm.xml
+
+2025-12-22 14:13:01.025 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\ImageProcessing\IMVSImageFixtureModu\IMVSImageFixtureModuAlgorithm.xml
+
+2025-12-22 14:13:01.030 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Location\IMVSAngleBisectorFindModu\IMVSAngleBisectorFindModuAlgorithm.xml
+
+2025-12-22 14:13:01.039 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Location\IMVSMedianLineFindModu\IMVSMedianLineFindModuAlgorithm.xml
+
+2025-12-22 14:13:01.039 INFO  [27132] [VM_M_UnInitialize@200] [Deinit][Begin]
+
+2025-12-22 14:13:01.039 INFO  [27132] [VM_M_UnInitialize@201] [Deinit] ControlDelegate
+
+2025-12-22 14:13:01.039 INFO  [27132] [CProcedure::WaitDoWorkFinish@132] Procedure 10999 work finish
+
+2025-12-22 14:13:01.039 INFO  [27132] [CProcedure::WaitDoWorkFinish@132] Procedure 100000 work finish
+
+2025-12-22 14:13:01.039 INFO  [27132] [CTopoDataMgr::CleanUp@232] Delete procedure [10999, #Global#]
+
+2025-12-22 14:13:01.039 INFO  [27132] [CProcedure::WaitDoWorkFinish@132] Procedure 10999 work finish
+
+2025-12-22 14:13:01.040 INFO  [27132] [CTopoDataMgr::CleanUp@232] Delete procedure [100000, #ProcedureThatGroupBelongTo#]
+
+2025-12-22 14:13:01.040 INFO  [27132] [CProcedure::WaitDoWorkFinish@132] Procedure 100000 work finish
+
+2025-12-22 14:13:01.040 INFO  [27132] [VM_M_UnInitialize@205] [Deinit] ModuleLoader
+
+2025-12-22 14:13:01.040 INFO  [27132] [VM_M_UnInitialize@207] [Deinit] PreLoadResource
+
+2025-12-22 14:13:01.042 ERROR [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@98] Open file 'D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Location\IMVSStringLocationModu\IMVSStringLocationModuAlgorithm.xml' failed
+
+2025-12-22 14:13:01.042 ERROR [40884] [CModulePathResolver::Init@92] modulename[IMVSStringLocationModu] xmlfile[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Location\IMVSStringLocationModu\IMVSStringLocationModuAlgorithm.xml] can not find
+
+2025-12-22 14:13:01.044 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Logic\DataSetModule\DataSetModuleAlgorithm.xml
+
+2025-12-22 14:13:01.044 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Logic\FormatModule\FormatModuleAlgorithm.xml
+
+2025-12-22 14:13:01.044 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Logic\GraphicsSetModule\GraphicsSetModuleAlgorithm.xml
+
+2025-12-22 14:13:01.045 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Logic\IfBranchModule\IfBranchModuleAlgorithm.xml
+
+2025-12-22 14:13:01.046 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Logic\PyShellModule\PyShellModuleAlgorithm.xml
+
+2025-12-22 14:13:01.047 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\Logic\ShellModule\ShellModuleAlgorithm.xml
+
+2025-12-22 14:13:01.059 ERROR [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@115] Root element is null
+
+2025-12-22 14:13:01.059 ERROR [40884] [CModulePathResolver::Init@92] modulename[IMVSBoxOverlapCalculationModu] xmlfile[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\SplitCombination\IMVSBoxOverlapCalculationModu\IMVSBoxOverlapCalculationModuAlgorithm.xml] can not find
+
+2025-12-22 14:13:01.060 INFO  [40884] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64\SplitCombination\IMVSMultiLabelFilterModu\IMVSMultiLabelFilterModuAlgorithm.xml
+
+2025-12-22 14:13:01.061 INFO  [40884] [CModulePathResolver::Init@111] CModulePathResolver Init End
+
+2025-12-22 14:13:01.949 INFO  [27132] [VM_M_UnInitialize@209] [Deinit] ThreadPool
+
+2025-12-22 14:13:01.949 INFO  [27132] [CConcurrentThreadPoolImpl::ShutDown@130] [ThreadPool] thread shutdown Start
+
+2025-12-22 14:13:01.949 WARN  [25016] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.949 WARN  [8992] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.949 WARN  [45960] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.949 WARN  [43968] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.949 WARN  [50332] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.949 INFO  [25016] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [16]
+
+2025-12-22 14:13:01.949 INFO  [8992] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [16]
+
+2025-12-22 14:13:01.949 INFO  [45960] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [16]
+
+2025-12-22 14:13:01.949 WARN  [35452] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.949 INFO  [43968] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [13]
+
+2025-12-22 14:13:01.949 INFO  [50332] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [12]
+
+2025-12-22 14:13:01.949 WARN  [47196] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.949 WARN  [32300] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.949 WARN  [42832] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.949 WARN  [37916] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.949 INFO  [35452] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [11]
+
+2025-12-22 14:13:01.949 WARN  [48416] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.949 WARN  [41104] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.949 WARN  [28696] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.950 INFO  [47196] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [10]
+
+2025-12-22 14:13:01.950 INFO  [32300] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [9]
+
+2025-12-22 14:13:01.950 WARN  [33456] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.950 INFO  [42832] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [8]
+
+2025-12-22 14:13:01.950 INFO  [37916] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [7]
+
+2025-12-22 14:13:01.950 INFO  [48416] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [7]
+
+2025-12-22 14:13:01.950 INFO  [41104] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [5]
+
+2025-12-22 14:13:01.950 WARN  [23788] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.950 INFO  [28696] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [4]
+
+2025-12-22 14:13:01.950 INFO  [23788] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [3]
+
+2025-12-22 14:13:01.950 INFO  [33456] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [3]
+
+2025-12-22 14:13:01.950 WARN  [14168] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.950 INFO  [14168] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [1]
+
+2025-12-22 14:13:01.956 INFO  [27132] [CConcurrentThreadPoolImpl::ShutDown@194] [ThreadPool] thread shutdown End
+
+2025-12-22 14:13:01.956 INFO  [27132] [CConcurrentThreadPoolImpl::ShutDown@130] [ThreadPool] thread shutdown Start
+
+2025-12-22 14:13:01.956 WARN  [39364] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.956 WARN  [46944] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.956 WARN  [39356] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.956 WARN  [46736] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.956 WARN  [42908] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.956 WARN  [36504] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.956 WARN  [27704] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.956 INFO  [39364] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [8]
+
+2025-12-22 14:13:01.956 INFO  [46944] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [8]
+
+2025-12-22 14:13:01.956 INFO  [39356] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [8]
+
+2025-12-22 14:13:01.956 INFO  [46736] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [8]
+
+2025-12-22 14:13:01.956 INFO  [42908] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [7]
+
+2025-12-22 14:13:01.956 INFO  [36504] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [6]
+
+2025-12-22 14:13:01.956 INFO  [27704] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [2]
+
+2025-12-22 14:13:01.956 WARN  [43608] [CConcurrentThreadPoolImpl::DoWork@243] recv signal SIG_SHUTDOWN=====!!!!
+
+2025-12-22 14:13:01.956 INFO  [43608] [CConcurrentThreadPoolImpl::DoWork@254] [ThreadPool] Thread stop, curNum = [1]
+
+2025-12-22 14:13:01.960 INFO  [27132] [CConcurrentThreadPoolImpl::ShutDown@194] [ThreadPool] thread shutdown End
+
+2025-12-22 14:13:01.960 INFO  [27132] [VM_M_UnInitialize@211] [Deinit] LogLevelWatcher
+
+2025-12-22 14:13:01.961 INFO  [27132] [CLogLevelWatcher::Stop@85] Watch log level thread exit normally
+
+2025-12-22 14:13:01.961 INFO  [27132] [VM_M_UnInitialize@213] [Deinit] ModuleRstDispatcher
+
+2025-12-22 14:13:01.961 INFO  [27132] [VM_M_UnInitialize@215] [Deinit] MemPoolForProcess
+
+2025-12-22 14:13:01.962 INFO  [27132] [VM_M_UnInitialize@217] [Deinit] GlobalVarRWLock
+
+2025-12-22 14:13:01.962 INFO  [27132] [VM_M_UnInitialize@219] [Deinit] ModulePathResolver
+
+2025-12-22 14:13:01.962 INFO  [27132] [VM_M_UnInitialize@221] [Deinit] CallbackMgr
+
+2025-12-22 14:13:01.962 INFO  [27132] [VM_M_UnInitialize@224] [Deinit][End]
+
