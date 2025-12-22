@@ -38,16 +38,6 @@ D:\新建文件夹\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebService
 D:\新建文件夹\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
 D:\新建文件夹\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
 D:\新建文件夹\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
@@ -68,3 +58,13 @@ E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代�
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb

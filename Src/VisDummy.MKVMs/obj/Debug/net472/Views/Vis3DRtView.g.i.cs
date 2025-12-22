@@ -125,7 +125,7 @@ namespace VisDummy.MKVMs.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VisDummy.MKVMs;component/views/vis3drtview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VisDummy.MKVMs;V1.0.0.0;component/views/vis3drtview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\Vis3DRtView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

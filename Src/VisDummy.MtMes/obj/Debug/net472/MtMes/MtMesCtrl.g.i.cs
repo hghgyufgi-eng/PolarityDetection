@@ -78,7 +78,7 @@ namespace VisDummy.MtMes.MtMes {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VisDummy.MtMes;component/mtmes/mtmesctrl.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VisDummy.MtMes;V1.0.0.0;component/mtmes/mtmesctrl.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\MtMes\MtMesCtrl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

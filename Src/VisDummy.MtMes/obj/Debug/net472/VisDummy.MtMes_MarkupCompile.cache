@@ -1,10 +1,10 @@
 ﻿VisDummy.MtMes
-
+1.0.0.0
 
 library
 C#
 .cs
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.MtMes\obj\Debug\net472\
+e:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.MtMes\obj\Debug\net472\
 VisDummy.MtMes
 none
 false
@@ -12,9 +12,9 @@ TRACE;DEBUG;NETFRAMEWORK;NET472;;NET30_OR_GREATER;NET35_OR_GREATER;NET40_OR_GREA
 
 374786981
 
-8822486801
-2482121403686
+102093711965
+248482523590
 CatlMes\CatlMesEditor.xaml;CatlMes\DataCollectForResourceFAICtrl.xaml;MtMes\MtMesCtrl.xaml;
 
-False
+True
 

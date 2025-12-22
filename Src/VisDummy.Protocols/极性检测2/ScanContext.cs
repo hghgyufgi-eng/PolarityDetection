@@ -27,19 +27,13 @@ namespace VisDummy.Protocols.极性检测2
         /// 只读属性
         /// </summary>
         public DevMsg DevMsg { get; }
-        /// <summary>
-        /// 只读属性2
-        /// </summary>
-        public 极性检测.Model.DevMsg DevMsg2 { get; }
+
 
         /// <summary>
         /// 只读属性
         /// </summary>
         public MstMsg MstMsg { get; }
-        /// <summary>
-        /// 只读属性2
-        /// </summary>
-        public 极性检测.Model.MstMsg MstMsg2 { get; }
+
 
         [JsonIgnore]
         public IServiceProvider ServiceProvider { get; }

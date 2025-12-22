@@ -70,24 +70,6 @@ D:\新建文件夹\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Asse
 D:\新建文件夹\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.CoreCompileInputs.cache
 D:\新建文件夹\Src\VisDummy.Lang\obj\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
 D:\新建文件夹\Src\VisDummy.Lang\obj\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.deps.json
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.dll
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.pdb
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\bin\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\bin\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.AssemblyReference.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.resources
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.en-GB.resources
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.id.resources
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.GenerateResource.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.GeneratedMSBuildEditorConfig.editorconfig
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfoInputs.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfo.cs
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.CoreCompileInputs.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.dll
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.pdb
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.deps.json
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.pdb
@@ -124,3 +106,23 @@ E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代�
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Lang\obj\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.deps.json
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\bin\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\bin\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.resources
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.en-GB.resources
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.id.resources
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.GenerateResource.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\id\VisDummy.Lang.resources.cs

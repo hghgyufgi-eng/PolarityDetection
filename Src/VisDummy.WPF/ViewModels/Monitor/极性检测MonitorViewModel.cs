@@ -37,5 +37,6 @@ namespace VisDummy.WPF.ViewModels.Monitor
         [ObservableAsProperty]
         public MstMsg_2DStation MstMsg_2DStation { get; }
 
+
     }
 }

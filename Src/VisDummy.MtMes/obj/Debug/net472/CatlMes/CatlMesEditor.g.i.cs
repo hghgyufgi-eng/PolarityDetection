@@ -62,7 +62,7 @@ namespace VisDummy.MtMes.CatlMes {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VisDummy.MtMes;component/catlmes/catlmeseditor.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VisDummy.MtMes;V1.0.0.0;component/catlmes/catlmeseditor.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\CatlMes\CatlMesEditor.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

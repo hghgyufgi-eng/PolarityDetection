@@ -44,18 +44,6 @@ D:\新建文件夹\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.
 D:\新建文件夹\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.CoreCompileInputs.cache
 D:\新建文件夹\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.CopyLocal.cache
 D:\新建文件夹\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.RuntimeCopyLocal.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.deps.json
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.dll
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.pdb
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.AssemblyReference.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.GeneratedMSBuildEditorConfig.editorconfig
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfoInputs.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfo.cs
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.CoreCompileInputs.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.CopyLocal.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.RuntimeCopyLocal.cache
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.dll
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.pdb
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.deps.json
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.pdb
@@ -80,3 +68,15 @@ E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代�
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.RuntimeCopyLocal.cache
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.deps.json
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.CopyLocal.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.RuntimeCopyLocal.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj": {}
+    "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj": {}
   },
   "projects": {
-    "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj": {
+    "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
+        "projectUniqueName": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
         "projectName": "Catl.MesInvocation",
-        "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
+        "projectPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj",
         "packagesPath": "C:\\Users\\hongyang.xia\\.nuget\\packages\\",
-        "outputPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\obj\\",
+        "outputPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,13 +33,19 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\Catl.WebServices.csproj": {
-                "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\Catl.WebServices.csproj"
+              "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\Catl.WebServices.csproj": {
+                "projectPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\Catl.WebServices.csproj"
               }
             }
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1604",
+            "NU1605",
+            "NU1608"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -214,7 +220,8 @@
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.3, )"
+              "version": "[2.0.3, )",
+              "autoReferenced": true
             },
             "NPOI": {
               "target": "Package",
@@ -464,14 +471,14 @@
         }
       }
     },
-    "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\Catl.WebServices.csproj": {
+    "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\Catl.WebServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\Catl.WebServices.csproj",
+        "projectUniqueName": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\Catl.WebServices.csproj",
         "projectName": "Catl.WebServices",
-        "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\Catl.WebServices.csproj",
+        "projectPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\Catl.WebServices.csproj",
         "packagesPath": "C:\\Users\\hongyang.xia\\.nuget\\packages\\",
-        "outputPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\obj\\",
+        "outputPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.WebServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -496,6 +503,12 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1604",
+            "NU1605",
+            "NU1608"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -609,14 +622,14 @@
         }
       }
     },
-    "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj": {
+    "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj",
+        "projectUniqueName": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj",
         "projectName": "VisDummy.Lang",
-        "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj",
+        "projectPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj",
         "packagesPath": "C:\\Users\\hongyang.xia\\.nuget\\packages\\",
-        "outputPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\obj\\",
+        "outputPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -641,6 +654,12 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1604",
+            "NU1605",
+            "NU1608"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -678,14 +697,14 @@
         }
       }
     },
-    "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj": {
+    "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
+        "projectUniqueName": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
         "projectName": "VisDummy.MtMes",
-        "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
+        "projectPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\VisDummy.MtMes.csproj",
         "packagesPath": "C:\\Users\\hongyang.xia\\.nuget\\packages\\",
-        "outputPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\obj\\",
+        "outputPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.MtMes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -707,11 +726,11 @@
           "net472": {
             "targetAlias": "net472",
             "projectReferences": {
-              "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj": {
-                "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj"
+              "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj": {
+                "projectPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\Catl.MesInvocation\\Catl.MesInvocation.csproj"
               },
-              "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj": {
-                "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj"
+              "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj": {
+                "projectPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj"
               },
               "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Shared\\VisDummy.Shared.csproj": {
                 "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Shared\\VisDummy.Shared.csproj"
@@ -720,6 +739,12 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1604",
+            "NU1605",
+            "NU1608"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -927,10 +952,6 @@
               "target": "Package",
               "version": "[1.1.135, )"
             },
-            "NETStandard.Library": {
-              "target": "Package",
-              "version": "[2.0.3, )"
-            },
             "NPOI": {
               "target": "Package",
               "version": "[2.5.1, )"
@@ -1003,13 +1024,13 @@
               "target": "Package",
               "version": "[15.2.22, )"
             },
-            "StdUnit.One.Shared": {
-              "target": "Package",
-              "version": "[0.2.20, )"
-            },
             "StdUnit.Zero.Shared": {
               "target": "Package",
               "version": "[0.2.19, )"
+            },
+            "Stdunit.One.Shared": {
+              "target": "Package",
+              "version": "[0.2.20, )"
             },
             "System.Buffers": {
               "target": "Package",
@@ -1140,6 +1161,12 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1604",
+            "NU1605",
+            "NU1608"
+          ],
           "warnAsError": [
             "NU1605"
           ]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj": {}
+    "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj": {}
   },
   "projects": {
-    "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj": {
+    "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj",
+        "projectUniqueName": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj",
         "projectName": "VisDummy.Lang",
-        "projectPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj",
+        "projectPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj",
         "packagesPath": "C:\\Users\\hongyang.xia\\.nuget\\packages\\",
-        "outputPath": "E:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\obj\\",
+        "outputPath": "e:\\Github_Project\\Gitea_Projects\\印尼Pl04\\Politeray\\Src\\VisDummy.Lang\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -36,6 +36,12 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1604",
+            "NU1605",
+            "NU1608"
+          ],
           "warnAsError": [
             "NU1605"
           ]

@@ -36,6 +36,12 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1604",
+            "NU1605",
+            "NU1608"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -96,6 +102,12 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1604",
+            "NU1605",
+            "NU1608"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -172,6 +184,12 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1604",
+            "NU1605",
+            "NU1608"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -351,10 +369,6 @@
               "target": "Package",
               "version": "[13.0.3, )"
             },
-            "StdUnit.One": {
-              "target": "Package",
-              "version": "[0.2.20, )"
-            },
             "StdUnit.One.Shared": {
               "target": "Package",
               "version": "[0.2.20, )"
@@ -374,6 +388,10 @@
             "StdUnit.Zero.Shared": {
               "target": "Package",
               "version": "[0.2.19, )"
+            },
+            "Stdunit.One": {
+              "target": "Package",
+              "version": "[0.2.20, )"
             },
             "System.Buffers": {
               "target": "Package",

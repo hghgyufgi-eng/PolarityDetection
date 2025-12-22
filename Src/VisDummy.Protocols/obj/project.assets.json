@@ -3485,12 +3485,12 @@
       "Microsoft.NETCore.Platforms >= 7.0.4",
       "Microsoft.Win32.Registry >= 5.0.0",
       "Newtonsoft.Json >= 13.0.3",
-      "StdUnit.One >= 0.2.20",
       "StdUnit.One.Shared >= 0.2.20",
       "StdUnit.Sharp7 >= 0.6.3",
       "StdUnit.Sharp7.Options >= 0.6.3",
       "StdUnit.Zero >= 0.2.19",
       "StdUnit.Zero.Shared >= 0.2.19",
+      "Stdunit.One >= 0.2.20",
       "System.Buffers >= 4.5.1",
       "System.ComponentModel >= 4.3.0",
       "System.ComponentModel.Annotations >= 5.0.0",
@@ -3557,6 +3557,12 @@
         }
       },
       "warningProperties": {
+        "noWarn": [
+          "NU1603",
+          "NU1604",
+          "NU1605",
+          "NU1608"
+        ],
         "warnAsError": [
           "NU1605"
         ]
@@ -3736,10 +3742,6 @@
             "target": "Package",
             "version": "[13.0.3, )"
           },
-          "StdUnit.One": {
-            "target": "Package",
-            "version": "[0.2.20, )"
-          },
           "StdUnit.One.Shared": {
             "target": "Package",
             "version": "[0.2.20, )"
@@ -3759,6 +3761,10 @@
           "StdUnit.Zero.Shared": {
             "target": "Package",
             "version": "[0.2.19, )"
+          },
+          "Stdunit.One": {
+            "target": "Package",
+            "version": "[0.2.20, )"
           },
           "System.Buffers": {
             "target": "Package",
