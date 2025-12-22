@@ -1,0 +1,33 @@
+WindowsBase.ni			2023-08-26 07:06:11
+clr			2023-08-26 06:03:32
+mscorlib.ni			2023-08-26 06:02:42
+
+ExceptionCode : STACK_OVERFLOW
+
+CallStack:
+
+Frame 0: WindowsBase.ni.dll!  Unknow
+
+Frame 1: WindowsBase.ni.dll!  Unknow
+
+Frame 2: WindowsBase.ni.dll!  Unknow
+
+Frame 3: WindowsBase.ni.dll!  Unknow
+
+Frame 4: clr.dll!  DllCanUnloadNowInternal
+
+Frame 5: clr.dll!  StrongNameTokenFromPublicKey
+
+Frame 6: clr.dll!  StrongNameTokenFromPublicKey
+
+Frame 7: clr.dll!  StrongNameTokenFromPublicKey
+
+Frame 8: mscorlib.ni.dll!  Unknow
+
+Frame 9: mscorlib.ni.dll!  Unknow
+
+Frame 10: mscorlib.ni.dll!  Unknow
+
+Frame 11: Unknow.dll!  Unknow
+
+Frame 12: Unknow.dll!  Unknow

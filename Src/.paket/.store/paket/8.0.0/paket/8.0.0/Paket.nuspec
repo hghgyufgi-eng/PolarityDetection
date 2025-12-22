@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Paket</id>
+    <version>8.0.0</version>
+    <authors>Paket team</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>logo.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>http://fsprojects.github.io/Paket</projectUrl>
+    <description>A dependency manager for .NET with support for NuGet packages and git repositories.</description>
+    <releaseNotes>Support for .NET 8.0
+Support for net481 - https://github.com/fsprojects/Paket/pull/4227
+paket init: Default framework restriction - https://github.com/fsprojects/Paket/pull/4228</releaseNotes>
+    <tags>nuget bundler F#</tags>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" url="https://github.com/fsprojects/Paket.git" commit="6bcb14ec191f11e984ff0e58016f5987a5cfa8f6" />
+  </metadata>
+</package>

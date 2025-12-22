@@ -1,0 +1,637 @@
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\FSharp.Core.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\FutureTech.Protocols.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.FSharpExtensions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.Middlewares.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\MediatR.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Newtonsoft.Json.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.Shared.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.Shared.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Buffers.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Formats.Asn1.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.IO.Pipelines.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Memory.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Reactive.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.AccessControl.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Json.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.ValueTuple.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\cs\FSharp.Core.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\de\FSharp.Core.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\es\FSharp.Core.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\fr\FSharp.Core.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\it\FSharp.Core.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\ja\FSharp.Core.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\ko\FSharp.Core.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\pl\FSharp.Core.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\ru\FSharp.Core.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\tr\FSharp.Core.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.AssemblyReference.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfoInputs.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfo.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.CoreCompileInputs.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\FSharp.Core.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\FutureTech.Protocols.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.Middlewares.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\MediatR.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\Newtonsoft.Json.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Buffers.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Formats.Asn1.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.IO.Pipelines.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Memory.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Reactive.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.AccessControl.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Json.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\System.ValueTuple.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\cs\FSharp.Core.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\de\FSharp.Core.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\es\FSharp.Core.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\fr\FSharp.Core.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\it\FSharp.Core.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\ja\FSharp.Core.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\ko\FSharp.Core.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\pl\FSharp.Core.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\ru\FSharp.Core.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\tr\FSharp.Core.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.AssemblyReference.cache
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfoInputs.cache
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfo.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.CoreCompileInputs.cache
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\FSharp.Core.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\FutureTech.Protocols.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.Middlewares.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\MediatR.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\Newtonsoft.Json.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.Buffers.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.Formats.Asn1.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.IO.Pipelines.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.Memory.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.Reactive.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.AccessControl.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Json.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\System.ValueTuple.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\cs\FSharp.Core.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\de\FSharp.Core.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\es\FSharp.Core.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\fr\FSharp.Core.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\it\FSharp.Core.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\ja\FSharp.Core.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\ko\FSharp.Core.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\pl\FSharp.Core.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\ru\FSharp.Core.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\tr\FSharp.Core.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.pdb
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\ShiJue\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.AssemblyReference.cache
+D:\ShiJue\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShiJue\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfoInputs.cache
+D:\ShiJue\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfo.cs
+D:\ShiJue\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.CoreCompileInputs.cache
+D:\ShiJue\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
+D:\ShiJue\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
+D:\ShiJue\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb
+D:\新建文件夹\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
+D:\新建文件夹\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\FSharp.Core.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\FutureTech.Protocols.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.Middlewares.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\MediatR.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\Newtonsoft.Json.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.Buffers.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.Formats.Asn1.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.IO.Pipelines.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.Memory.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.Reactive.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.AccessControl.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Json.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\System.ValueTuple.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\cs\FSharp.Core.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\de\FSharp.Core.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\es\FSharp.Core.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\fr\FSharp.Core.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\it\FSharp.Core.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\ja\FSharp.Core.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\ko\FSharp.Core.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\pl\FSharp.Core.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\ru\FSharp.Core.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\tr\FSharp.Core.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.pdb
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\新建文件夹\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.AssemblyReference.cache
+D:\新建文件夹\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfoInputs.cache
+D:\新建文件夹\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfo.cs
+D:\新建文件夹\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.CoreCompileInputs.cache
+D:\新建文件夹\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.dll
+D:\新建文件夹\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\FSharp.Core.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\FutureTech.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.FSharpExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.Middlewares.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\MediatR.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\Newtonsoft.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.Buffers.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.Formats.Asn1.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.IO.Pipelines.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.Memory.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.Reactive.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.AccessControl.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\System.ValueTuple.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\cs\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\de\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\es\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\fr\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\it\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\ja\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\ko\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\pl\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\ru\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\tr\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\FSharp.Core.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\FutureTech.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.FSharpExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.Middlewares.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\MediatR.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\Newtonsoft.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.Buffers.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.Formats.Asn1.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.IO.Pipelines.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.Memory.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.Reactive.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.AccessControl.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\System.ValueTuple.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\cs\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\de\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\es\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\fr\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\it\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\ja\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\ko\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\pl\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\ru\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\tr\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\FSharp.Core.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\FutureTech.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.FSharpExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.Middlewares.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\MediatR.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\Newtonsoft.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.Buffers.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.Formats.Asn1.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.IO.Pipelines.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.Memory.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.Reactive.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.AccessControl.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\System.ValueTuple.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\cs\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\de\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\es\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\fr\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\it\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\ja\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\ko\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\pl\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\ru\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\tr\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb

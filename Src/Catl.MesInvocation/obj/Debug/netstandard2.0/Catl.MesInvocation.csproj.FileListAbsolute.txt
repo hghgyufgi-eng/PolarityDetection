@@ -1,0 +1,91 @@
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.deps.json
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.AssemblyReference.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfoInputs.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfo.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.CoreCompileInputs.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.Mes.7E1DADA1.Up2Date
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.deps.json
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.AssemblyReference.cache
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfoInputs.cache
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfo.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.CoreCompileInputs.cache
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.Mes.7E1DADA1.Up2Date
+D:\ShiJue\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.deps.json
+D:\ShiJue\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.dll
+D:\ShiJue\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.pdb
+D:\ShiJue\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.dll
+D:\ShiJue\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\ShiJue\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.AssemblyReference.cache
+D:\ShiJue\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShiJue\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfoInputs.cache
+D:\ShiJue\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfo.cs
+D:\ShiJue\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.CoreCompileInputs.cache
+D:\ShiJue\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.Mes.7E1DADA1.Up2Date
+D:\ShiJue\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.dll
+D:\ShiJue\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.pdb
+D:\新建文件夹\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.dll
+D:\新建文件夹\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.pdb
+D:\新建文件夹\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.deps.json
+D:\新建文件夹\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.dll
+D:\新建文件夹\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.pdb
+D:\新建文件夹\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.dll
+D:\新建文件夹\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\新建文件夹\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.AssemblyReference.cache
+D:\新建文件夹\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfoInputs.cache
+D:\新建文件夹\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfo.cs
+D:\新建文件夹\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.CoreCompileInputs.cache
+D:\新建文件夹\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.Mes.7E1DADA1.Up2Date
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.deps.json
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.Mes.7E1DADA1.Up2Date
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.deps.json
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.Mes.7E1DADA1.Up2Date
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.deps.json
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.MesInvocation.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.MesInvocation\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.Mes.7E1DADA1.Up2Date
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.pdb

@@ -1,0 +1,334 @@
+﻿2025-09-20 15:28:05.608 ERROR [20] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-20 15:28:09.724 ERROR [20] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-22 13:51:19.819 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-22 13:51:23.412 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-22 15:46:50.039 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-22 15:46:53.779 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-22 17:49:01.701 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-22 17:49:01.932 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 09:25:33.430 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 09:25:33.653 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 09:26:26.196 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 09:26:26.376 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 09:27:02.118 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 09:27:02.291 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 09:31:23.856 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 09:31:25.275 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 09:40:02.961 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 09:40:03.146 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 09:43:43.195 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 09:43:43.390 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 09:46:53.603 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 09:46:53.826 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 09:48:17.102 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 09:48:17.295 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 09:59:30.777 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 09:59:31.933 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 10:04:43.308 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 10:04:43.493 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 10:52:47.175 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 10:52:47.371 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 10:59:36.722 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 10:59:36.905 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 11:02:19.451 ERROR [20] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 11:02:19.630 ERROR [20] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 11:30:14.000 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 11:30:14.203 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-23 14:00:29.760 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-23 14:00:29.956 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-24 13:54:51.003 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-24 13:54:52.141 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-25 16:44:25.158 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-25 16:44:25.615 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-25 18:28:21.985 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-25 18:28:22.466 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-26 09:54:33.355 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-26 09:54:33.823 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-26 11:40:07.250 ERROR [17] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-26 11:40:07.501 ERROR [17] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-26 16:14:35.501 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-26 16:14:36.098 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-09-27 10:01:30.084 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-09-27 10:01:31.057 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-08 16:27:52.069 ERROR [25] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-10-08 16:27:52.250 ERROR [25] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-13 15:00:41.213 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-10-13 15:00:41.990 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-13 15:24:25.457 ERROR [17] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-10-13 15:24:25.642 ERROR [17] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-13 15:55:47.867 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-10-13 15:55:48.051 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-13 16:03:04.874 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-10-13 16:03:05.061 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-13 16:04:49.992 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-10-13 16:04:50.177 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-24 17:06:03.824 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::InitPlatformSDKEx@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-10-24 17:06:05.699 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-29 08:50:18.122 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-29 08:52:57.668 ERROR [10] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-29 08:59:40.614 ERROR [7] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-29 09:18:39.892 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-29 10:09:26.573 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-29 10:39:15.145 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-29 10:45:48.769 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-29 11:29:59.903 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-29 18:36:33.469 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-30 08:54:48.313 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-30 08:56:04.482 ERROR [10] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-10-30 10:11:09.612 ERROR [20] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-11-14 15:38:11.604 ERROR [7] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-11-18 17:22:59.034 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-11-18 18:34:44.585 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-11-18 18:38:12.095 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-11-18 18:38:53.313 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-11-19 14:47:49.328 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-03 13:50:32.603 ERROR [6] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-09 18:50:46.647 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-09 18:50:50.543 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-10 09:04:22.501 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-10 09:04:23.418 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-10 09:33:40.732 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-10 09:33:41.688 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-10 10:28:05.457 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-10 10:28:07.825 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-10 16:23:54.514 ERROR [12] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-10 16:23:56.315 ERROR [12] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-10 16:31:09.742 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-10 16:31:10.659 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-10 16:44:03.516 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-10 16:44:04.391 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-10 16:58:48.714 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-10 16:58:49.590 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-10 16:59:46.644 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-10 16:59:47.500 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-11 09:18:43.514 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-11 09:18:44.479 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-11 11:47:39.568 ERROR [11] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-11 11:47:40.497 ERROR [11] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-11 11:50:50.560 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-11 11:50:51.464 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-11 15:56:13.319 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-11 15:56:14.269 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-11 16:03:04.619 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-11 16:03:05.584 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-11 16:05:41.383 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-11 16:05:42.292 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-11 16:25:55.835 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-11 16:25:58.139 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-11 16:29:40.974 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-11 16:29:41.858 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-11 16:40:35.016 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-11 16:40:35.930 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-11 17:19:24.143 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-11 17:19:25.112 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 10:53:38.129 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 10:53:45.943 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 10:56:31.764 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 10:56:37.549 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 12:54:16.840 ERROR [11] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 12:54:19.266 ERROR [11] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 13:27:32.334 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 13:27:34.688 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 13:31:36.747 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 13:31:39.047 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 14:34:00.560 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 14:34:01.649 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 14:51:21.096 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 14:51:22.041 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 15:10:45.291 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 15:10:46.468 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 15:13:36.180 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 15:13:37.278 ERROR [3] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 15:15:08.991 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 15:15:10.141 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 15:20:41.954 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 15:20:44.498 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 15:24:07.114 ERROR [5] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 15:24:08.055 ERROR [5] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 15:25:51.794 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 15:25:52.740 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 15:30:38.242 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 15:30:39.177 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 15:32:10.621 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 15:32:11.513 ERROR [4] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 15:55:51.224 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 15:56:00.249 ERROR [13] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 16:04:48.616 ERROR [11] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 16:04:49.517 ERROR [11] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 16:23:27.395 ERROR [11] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 16:23:28.482 ERROR [11] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 17:10:44.750 ERROR [20] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 17:10:45.763 ERROR [20] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-12 17:27:13.250 ERROR [20] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-12 17:27:14.233 ERROR [20] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-13 11:10:20.336 ERROR [18] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-13 11:10:22.841 ERROR [18] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+
+2025-12-13 16:29:10.067 ERROR [14] [VM.GlobalScript.Methods.PlatformSdkFunction::RegesiterResultBack@0] IMVS_PF_RegisterResultCallBack_P_CS faild,e0000006
+
+2025-12-13 16:29:12.567 ERROR [14] [VM.GlobalScript.Methods.PlatformSdkFunction::GetAllProcess@0] IMVS_PF_GetAllProcessList_CS faild
+

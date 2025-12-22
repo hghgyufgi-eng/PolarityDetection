@@ -1,0 +1,35 @@
+******************************************************
+System memory: 
+	9,577,800K/66,880,632K(14.321%, physical)
+	11,597,572K/76,842,104K(15.093%, virtual)
+
+Current process:
+	[1800,TApp.exe] private byte:4,788,176K
+
+Top:
+	[1800,TApp.exe] private byte:4,788,176K
+	[5936,Shameless.exe] private byte:396,896K
+	[7768,vServerApp.exe] private byte:238,068K
+******************************************************
+
+KERNELBASE			2015-11-22 09:20:20
+PresentationFramework.ni			2025-07-17 12:41:49
+clr			2025-03-20 07:11:46
+
+ExceptionCode : CLR_CCR_EXCEPTION
+
+CallStack:
+
+Frame 0: KERNELBASE.dll!  RaiseException
+
+Frame 1: clr.dll!  IEE
+
+Frame 2: clr.dll!  IEE
+
+Frame 3: PresentationFramework.ni.dll!  Unknow
+
+Frame 4: PresentationFramework.ni.dll!  Unknow
+
+Frame 5: Unknow.dll!  Unknow
+
+Frame 6: Unknow.dll!  Unknow

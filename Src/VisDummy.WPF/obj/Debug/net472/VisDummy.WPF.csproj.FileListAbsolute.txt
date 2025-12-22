@@ -1,0 +1,1505 @@
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.AssemblyReference.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.lref
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\AsZero.Core.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Catl.HostComputer.CommonServices.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\DynamicData.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\FSharp.Core.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\FutureTech.Protocols.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FSharpExtensions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Itminus.Middlewares.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignColors.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignThemes.Wpf.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\MediatR.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.Scripting.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Http.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Xaml.Behaviors.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Newtonsoft.Json.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OOXML.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXml4Net.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXmlFormats.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\NPOI.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\DocumentFormat.OpenXml.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\BouncyCastle.Crypto.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Fody.Helpers.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Validation.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Wpf.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Refit.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Refit.HttpClientFactory.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Refit.Newtonsoft.Json.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.AspNetCore.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Hosting.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Logging.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Formatting.Compact.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Settings.Configuration.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Console.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Debug.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.File.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\ICSharpCode.SharpZipLib.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Splat.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.Shared.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.Shared.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Buffers.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Collections.Immutable.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.EventLog.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Drawing.Common.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Formats.Asn1.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Packaging.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Pipelines.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Memory.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Net.Http.Json.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Private.DataContractSerialization.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Private.ServiceModel.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Reactive.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.DispatchProxy.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.Metadata.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.TypeExtensions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.AccessControl.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Pkcs.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Permissions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Http.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Primitives.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Json.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Channels.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.ValueTuple.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.g.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.baml
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.g.resources
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfoInputs.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfo.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.CoreCompileInputs.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.CopyLocal.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.RuntimeCopyLocal.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\AsZero.Core.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Catl.HostComputer.CommonServices.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\DynamicData.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\FSharp.Core.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\FutureTech.Protocols.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Itminus.Middlewares.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignColors.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignThemes.Wpf.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\MediatR.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.Scripting.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Http.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Xaml.Behaviors.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Newtonsoft.Json.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OOXML.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXml4Net.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXmlFormats.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\NPOI.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\DocumentFormat.OpenXml.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\BouncyCastle.Crypto.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Fody.Helpers.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Validation.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Wpf.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Refit.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Refit.HttpClientFactory.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Refit.Newtonsoft.Json.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.AspNetCore.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Hosting.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Logging.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Formatting.Compact.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Settings.Configuration.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Console.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Debug.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.File.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\ICSharpCode.SharpZipLib.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Splat.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Buffers.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Collections.Immutable.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.EventLog.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Drawing.Common.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Formats.Asn1.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Packaging.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Pipelines.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Memory.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Net.Http.Json.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Private.DataContractSerialization.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Private.ServiceModel.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Reactive.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.DispatchProxy.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.Metadata.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.TypeExtensions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.AccessControl.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Pkcs.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Permissions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Http.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Primitives.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Json.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Channels.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\System.ValueTuple.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.AssemblyReference.cache
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.cache
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.lref
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.baml
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.g.resources
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfoInputs.cache
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfo.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.CoreCompileInputs.cache
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.CopyLocal.cache
+D:\CM-PR-NE252004-Module-Vision-main\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.RuntimeCopyLocal.cache
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.pdb
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\AsZero.Core.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Catl.HostComputer.CommonServices.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\DynamicData.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\FSharp.Core.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\FutureTech.Protocols.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.Abstractions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Itminus.Middlewares.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignColors.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignThemes.Wpf.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\MediatR.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.Scripting.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Http.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Xaml.Behaviors.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Newtonsoft.Json.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OOXML.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXml4Net.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXmlFormats.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\NPOI.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\DocumentFormat.OpenXml.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\BouncyCastle.Crypto.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Fody.Helpers.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Validation.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Wpf.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Refit.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Refit.HttpClientFactory.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Refit.Newtonsoft.Json.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Serilog.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Serilog.AspNetCore.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Hosting.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Logging.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Formatting.Compact.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Settings.Configuration.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Console.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Debug.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.File.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\ICSharpCode.SharpZipLib.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Splat.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Buffers.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Collections.Immutable.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.EventLog.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Drawing.Common.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Formats.Asn1.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Packaging.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Pipelines.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Memory.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Net.Http.Json.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Private.DataContractSerialization.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Private.ServiceModel.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Reactive.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.DispatchProxy.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.Metadata.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.TypeExtensions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Security.AccessControl.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Pkcs.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Permissions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Http.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Primitives.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Json.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Channels.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\System.ValueTuple.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.pdb
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.pdb
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.pdb
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.pdb
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.pdb
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.pdb
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.pdb
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\ShiJue\Src\VisDummy.WPF\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.AssemblyReference.cache
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.cache
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.lref
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.baml
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.g.resources
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfoInputs.cache
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfo.cs
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.CoreCompileInputs.cache
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.CopyLocal.cache
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.RuntimeCopyLocal.cache
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
+D:\ShiJue\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.pdb
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\AsZero.Core.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Catl.HostComputer.CommonServices.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\DynamicData.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\FSharp.Core.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\FutureTech.Protocols.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Itminus.Middlewares.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignColors.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignThemes.Wpf.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\MediatR.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.Scripting.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Http.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Xaml.Behaviors.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Newtonsoft.Json.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OOXML.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXml4Net.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXmlFormats.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\NPOI.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\DocumentFormat.OpenXml.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\BouncyCastle.Crypto.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Fody.Helpers.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Validation.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Wpf.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Refit.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Refit.HttpClientFactory.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Refit.Newtonsoft.Json.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Serilog.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Serilog.AspNetCore.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Hosting.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Logging.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Formatting.Compact.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Settings.Configuration.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Console.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Debug.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.File.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\ICSharpCode.SharpZipLib.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Splat.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Buffers.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Collections.Immutable.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.EventLog.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Drawing.Common.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Formats.Asn1.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Packaging.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Pipelines.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Memory.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Net.Http.Json.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Private.DataContractSerialization.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Private.ServiceModel.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Reactive.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.DispatchProxy.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.Metadata.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.TypeExtensions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Security.AccessControl.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Pkcs.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Permissions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Http.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Primitives.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Json.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Channels.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\System.ValueTuple.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.pdb
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.pdb
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.pdb
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.pdb
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.pdb
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.pdb
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.pdb
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\新建文件夹\Src\VisDummy.WPF\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.AssemblyReference.cache
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.cache
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.lref
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.baml
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.g.resources
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfoInputs.cache
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfo.cs
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.CoreCompileInputs.cache
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.CopyLocal.cache
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.RuntimeCopyLocal.cache
+D:\新建文件夹\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.lref
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\AsZero.Core.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Catl.HostComputer.CommonServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\DynamicData.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\FSharp.Core.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\FutureTech.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FSharpExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Itminus.Middlewares.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignColors.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignThemes.Wpf.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\MediatR.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.Scripting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Http.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Xaml.Behaviors.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Newtonsoft.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OOXML.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXml4Net.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXmlFormats.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\NPOI.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\DocumentFormat.OpenXml.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\BouncyCastle.Crypto.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Fody.Helpers.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Validation.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Wpf.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Refit.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Refit.HttpClientFactory.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Refit.Newtonsoft.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Serilog.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Serilog.AspNetCore.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Hosting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Logging.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Formatting.Compact.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Settings.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Console.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Debug.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.File.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\ICSharpCode.SharpZipLib.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Splat.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Buffers.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Collections.Immutable.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.EventLog.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Drawing.Common.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Formats.Asn1.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Packaging.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Pipelines.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Memory.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Net.Http.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Private.DataContractSerialization.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Private.ServiceModel.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Reactive.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.DispatchProxy.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.Metadata.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.TypeExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Security.AccessControl.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Pkcs.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Permissions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Http.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Primitives.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Channels.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\System.ValueTuple.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.g.resources
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.CopyLocal.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.RuntimeCopyLocal.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\AsZero.Core.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Catl.HostComputer.CommonServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\DynamicData.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\FSharp.Core.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\FutureTech.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FSharpExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Itminus.Middlewares.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignColors.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignThemes.Wpf.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\MediatR.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.Scripting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Http.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Xaml.Behaviors.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Newtonsoft.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OOXML.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXml4Net.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXmlFormats.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\NPOI.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\DocumentFormat.OpenXml.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\BouncyCastle.Crypto.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Fody.Helpers.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Validation.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Wpf.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Refit.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Refit.HttpClientFactory.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Refit.Newtonsoft.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Serilog.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Serilog.AspNetCore.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Hosting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Logging.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Formatting.Compact.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Settings.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Console.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Debug.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.File.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\ICSharpCode.SharpZipLib.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Splat.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Buffers.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Collections.Immutable.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.EventLog.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Drawing.Common.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Formats.Asn1.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Packaging.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Pipelines.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Memory.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Net.Http.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Private.DataContractSerialization.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Private.ServiceModel.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Reactive.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.DispatchProxy.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.Metadata.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.TypeExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Security.AccessControl.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Pkcs.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Permissions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Http.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Primitives.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Channels.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\System.ValueTuple.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.lref
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.g.resources
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.CopyLocal.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.RuntimeCopyLocal.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\AsZero.Core.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Catl.HostComputer.CommonServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\DynamicData.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\FSharp.Core.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\FutureTech.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FSharpExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Itminus.Middlewares.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignColors.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignThemes.Wpf.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\MediatR.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.Scripting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Http.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Xaml.Behaviors.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Newtonsoft.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OOXML.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXml4Net.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXmlFormats.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\NPOI.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\DocumentFormat.OpenXml.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\BouncyCastle.Crypto.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Fody.Helpers.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Validation.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Wpf.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Refit.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Refit.HttpClientFactory.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Refit.Newtonsoft.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Serilog.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Serilog.AspNetCore.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Hosting.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Logging.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Formatting.Compact.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Settings.Configuration.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Console.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Debug.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.File.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\ICSharpCode.SharpZipLib.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Splat.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Buffers.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Collections.Immutable.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.EventLog.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Drawing.Common.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Formats.Asn1.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Packaging.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Pipelines.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Memory.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Net.Http.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Private.DataContractSerialization.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Private.ServiceModel.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Reactive.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.DispatchProxy.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.Metadata.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.TypeExtensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Security.AccessControl.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Pkcs.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Permissions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Http.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Primitives.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Json.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Channels.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\System.ValueTuple.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.lref
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测DevTriggerCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstReplyCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\大面贴胶检测MonitorView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\极性检测MonitorView.baml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.g.resources
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.CopyLocal.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.RuntimeCopyLocal.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb

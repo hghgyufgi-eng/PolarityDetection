@@ -1,0 +1,70 @@
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Modul-Vision(视觉框架软件)\CM-PR-NE252004-Module-Vision-main\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+D:\CM-PR-NE252004-Module-Vision-main\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+D:\ShiJue\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+D:\ShiJue\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+D:\ShiJue\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\ShiJue\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+D:\ShiJue\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShiJue\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+D:\ShiJue\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+D:\ShiJue\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+D:\ShiJue\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+D:\ShiJue\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\新建文件夹\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+D:\新建文件夹\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\新建文件夹\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+D:\新建文件夹\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+D:\新建文件夹\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\新建文件夹\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+D:\新建文件夹\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+D:\新建文件夹\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+D:\新建文件夹\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray - 副本\极性检测代码-多线程备份\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb

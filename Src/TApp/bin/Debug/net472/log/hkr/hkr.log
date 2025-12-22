@@ -1,0 +1,3308 @@
+2025-10-30 10:11:05.094 INFO  [7348] [Hkr_InitLog@184] ------------------- hkr init logger: D:\ShiJue\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-10-30 10:11:05.094 INFO  [7348] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-10-30 10:11:05.094 INFO  [7348] [Hkr_InitLog@186] hkr version: hkr.version: build 20250702-1563734
+
+2025-10-30 10:11:05.094 INFO  [7348] [Hkr_InitLog@187] hkr init count: 1
+
+2025-10-30 10:12:16.900 INFO  [7512] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:16.900 INFO  [7512] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:16.901 INFO  [14716] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:16.901 INFO  [14716] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:16.949 INFO  [8512] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:16.949 INFO  [8512] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:16.950 INFO  [14508] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:16.950 INFO  [14508] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:16.951 INFO  [16276] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:16.951 INFO  [16276] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:16.951 INFO  [5008] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:16.951 INFO  [5008] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:16.951 INFO  [10936] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:16.951 INFO  [10936] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:16.953 INFO  [14200] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:16.953 INFO  [14200] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:16.953 INFO  [1668] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:16.953 INFO  [1668] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:16.953 INFO  [2032] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:16.953 INFO  [2032] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:16.961 INFO  [14348] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:16.961 INFO  [14348] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:17.103 INFO  [16136] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:17.103 INFO  [16136] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:17.103 INFO  [16136] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 10:12:17.151 INFO  [16136] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:17.151 INFO  [16136] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:17.151 INFO  [16136] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 10:12:17.249 INFO  [14792] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:12:17.249 INFO  [14792] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:12:17.249 INFO  [14792] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-10-30 10:13:13.312 INFO  [7348] [ReadDebugFlagThread@70] ReadDebugFlag thread exit
+
+2025-10-30 10:13:16.902 INFO  [16216] [Hkr_InitLog@184] ------------------- hkr init logger: D:\ShiJue\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-10-30 10:13:16.902 INFO  [16216] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-10-30 10:13:16.902 INFO  [16216] [Hkr_InitLog@186] hkr version: hkr.version: build 20250702-1563734
+
+2025-10-30 10:13:16.902 INFO  [16216] [Hkr_InitLog@187] hkr init count: 1
+
+2025-10-30 10:13:17.874 INFO  [6352] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:17.874 INFO  [6352] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:17.917 INFO  [12128] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:17.917 INFO  [12128] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:18.529 INFO  [17744] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:18.529 INFO  [17744] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:18.529 INFO  [16600] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:18.529 INFO  [16600] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:18.645 INFO  [17744] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:18.645 INFO  [17744] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:18.645 INFO  [16600] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:18.645 INFO  [16600] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:18.673 INFO  [17744] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:18.673 INFO  [17744] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:18.693 INFO  [16600] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:18.693 INFO  [16600] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:18.697 INFO  [14300] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:18.697 INFO  [14300] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:18.697 INFO  [5172] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:18.697 INFO  [5172] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:18.733 INFO  [692] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:18.733 INFO  [692] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:18.837 INFO  [13348] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:18.837 INFO  [13348] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:18.837 INFO  [13348] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 10:13:19.160 INFO  [13348] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:19.160 INFO  [13348] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:19.160 INFO  [13348] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 10:13:19.320 INFO  [2776] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:13:19.320 INFO  [2776] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:13:19.320 INFO  [2776] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-10-30 10:14:31.627 INFO  [7652] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\前端盖1\渲染图\NG
+
+2025-10-30 10:14:31.810 INFO  [7652] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\前端盖1\原图\NG
+
+2025-10-30 10:15:33.067 INFO  [7652] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\NG
+
+2025-10-30 10:15:33.099 INFO  [7652] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\NG
+
+2025-10-30 10:16:07.236 INFO  [16216] [ReadDebugFlagThread@70] ReadDebugFlag thread exit
+
+2025-10-30 10:30:15.430 INFO  [21276] [Hkr_InitLog@184] ------------------- hkr init logger: D:\ShiJue\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-10-30 10:30:15.430 INFO  [21276] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-10-30 10:30:15.430 INFO  [21276] [Hkr_InitLog@186] hkr version: hkr.version: build 20250702-1563734
+
+2025-10-30 10:30:15.430 INFO  [21276] [Hkr_InitLog@187] hkr init count: 1
+
+2025-10-30 10:30:16.924 INFO  [11872] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:16.924 INFO  [11872] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:16.958 INFO  [10604] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:16.958 INFO  [10604] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:17.802 INFO  [10604] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:17.802 INFO  [10604] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:17.918 INFO  [10604] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:17.918 INFO  [10604] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:18.024 INFO  [14408] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:18.024 INFO  [14408] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:18.050 INFO  [10604] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:18.050 INFO  [10604] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:18.085 INFO  [14408] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:18.085 INFO  [14408] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:18.123 INFO  [10604] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:18.123 INFO  [10604] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:18.126 INFO  [14408] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:18.126 INFO  [14408] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:18.181 INFO  [10604] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:18.181 INFO  [10604] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:18.325 INFO  [18404] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:18.325 INFO  [18404] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:18.512 INFO  [20124] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:18.512 INFO  [20124] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:18.512 INFO  [20124] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 10:30:19.387 INFO  [20124] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:19.387 INFO  [20124] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:19.387 INFO  [20124] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 10:30:19.995 INFO  [22248] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 10:30:19.995 INFO  [22248] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 10:30:19.995 INFO  [22248] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-10-30 11:36:54.279 INFO  [18000] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\NG
+
+2025-10-30 11:36:54.479 INFO  [18000] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\NG
+
+2025-10-30 11:41:30.227 INFO  [18000] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\OK
+
+2025-10-30 11:41:30.255 INFO  [18000] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\OK
+
+2025-10-30 11:57:50.789 INFO  [15824] [Hkr_InitLog@184] ------------------- hkr init logger: D:\ShiJue\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-10-30 11:57:50.789 INFO  [15824] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-10-30 11:57:50.789 INFO  [15824] [Hkr_InitLog@186] hkr version: hkr.version: build 20250702-1563734
+
+2025-10-30 11:57:50.789 INFO  [15824] [Hkr_InitLog@187] hkr init count: 1
+
+2025-10-30 11:57:53.700 INFO  [13400] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:57:53.700 INFO  [13400] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:57:54.442 INFO  [22308] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:57:54.442 INFO  [22308] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:57:56.892 INFO  [18084] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:57:56.892 INFO  [18084] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:57:56.892 INFO  [21208] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:57:56.892 INFO  [21208] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:57:57.222 INFO  [18084] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:57:57.222 INFO  [18084] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:57:58.198 INFO  [21208] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:57:58.198 INFO  [21208] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:57:58.208 INFO  [18084] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:57:58.208 INFO  [18084] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:57:58.667 INFO  [18596] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:57:58.667 INFO  [18596] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:57:58.667 INFO  [21580] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:57:58.667 INFO  [21580] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:57:58.667 INFO  [13032] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:57:58.667 INFO  [13032] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:57:58.801 INFO  [20072] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:57:58.801 INFO  [20072] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:57:59.077 INFO  [13400] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:57:59.077 INFO  [13400] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:57:59.077 INFO  [13400] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 11:57:59.985 INFO  [13400] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:57:59.985 INFO  [13400] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:57:59.985 INFO  [13400] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 11:58:00.397 INFO  [15124] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 11:58:00.397 INFO  [15124] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 11:58:00.397 INFO  [15124] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-10-30 11:59:02.901 INFO  [18120] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\OK
+
+2025-10-30 11:59:03.096 INFO  [18120] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\OK
+
+2025-10-30 13:09:35.001 INFO  [18120] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\NG
+
+2025-10-30 13:09:35.189 INFO  [18120] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\NG
+
+2025-10-30 13:52:41.715 INFO  [15824] [ReadDebugFlagThread@70] ReadDebugFlag thread exit
+
+2025-10-30 13:53:34.683 INFO  [14080] [Hkr_InitLog@184] ------------------- hkr init logger: D:\ShiJue\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-10-30 13:53:34.683 INFO  [14080] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-10-30 13:53:34.683 INFO  [14080] [Hkr_InitLog@186] hkr version: hkr.version: build 20250702-1563734
+
+2025-10-30 13:53:34.683 INFO  [14080] [Hkr_InitLog@187] hkr init count: 1
+
+2025-10-30 13:53:35.574 INFO  [6856] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:35.574 INFO  [6856] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:35.621 INFO  [21156] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:35.621 INFO  [21156] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:36.199 INFO  [18596] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:36.199 INFO  [18596] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:36.386 INFO  [18596] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:36.386 INFO  [18596] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:36.480 INFO  [15124] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:36.480 INFO  [15124] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:36.480 INFO  [18596] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:36.480 INFO  [18596] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:36.480 INFO  [21536] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:36.480 INFO  [21536] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:36.480 INFO  [7520] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:36.480 INFO  [18320] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:36.480 INFO  [7520] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:36.480 INFO  [18320] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:36.527 INFO  [16320] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:36.527 INFO  [16320] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:36.636 INFO  [18320] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:36.636 INFO  [18320] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:36.761 INFO  [15124] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:36.761 INFO  [15124] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:36.761 INFO  [15124] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 13:53:37.043 INFO  [15124] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:37.043 INFO  [15124] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:37.043 INFO  [15124] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 13:53:37.214 INFO  [21536] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 13:53:37.214 INFO  [21536] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 13:53:37.214 INFO  [21536] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-10-30 13:53:57.877 INFO  [18316] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\OK
+
+2025-10-30 13:53:58.080 INFO  [18316] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\OK
+
+2025-10-30 14:14:15.474 INFO  [14080] [ReadDebugFlagThread@70] ReadDebugFlag thread exit
+
+2025-10-30 14:14:27.741 INFO  [5272] [Hkr_InitLog@184] ------------------- hkr init logger: D:\ShiJue\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-10-30 14:14:27.741 INFO  [5272] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-10-30 14:14:27.741 INFO  [5272] [Hkr_InitLog@186] hkr version: hkr.version: build 20250702-1563734
+
+2025-10-30 14:14:27.741 INFO  [5272] [Hkr_InitLog@187] hkr init count: 1
+
+2025-10-30 14:14:28.428 INFO  [11004] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:28.428 INFO  [11004] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:28.475 INFO  [17160] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:28.475 INFO  [17160] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:29.131 INFO  [21292] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:29.131 INFO  [21292] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:29.178 INFO  [5952] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:29.178 INFO  [5952] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:29.225 INFO  [21292] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:29.225 INFO  [21292] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:29.256 INFO  [16700] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:29.256 INFO  [16700] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:29.256 INFO  [16760] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:29.256 INFO  [12532] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:29.256 INFO  [16760] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:29.256 INFO  [12532] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:29.256 INFO  [14732] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:29.256 INFO  [14732] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:29.256 INFO  [19124] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:29.256 INFO  [19124] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:29.365 INFO  [19376] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:29.365 INFO  [19376] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:29.444 INFO  [4236] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:29.444 INFO  [4236] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:29.444 INFO  [4236] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 14:14:29.897 INFO  [4236] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:29.897 INFO  [4236] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:29.897 INFO  [4236] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 14:14:30.100 INFO  [17568] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 14:14:30.100 INFO  [17568] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 14:14:30.100 INFO  [17568] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-10-30 14:15:06.080 INFO  [12712] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\OK
+
+2025-10-30 14:15:06.270 INFO  [12712] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\OK
+
+2025-10-30 15:04:26.543 INFO  [15156] [Hkr_InitLog@184] ------------------- hkr init logger: D:\ShiJue\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-10-30 15:04:26.543 INFO  [15156] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-10-30 15:04:26.543 INFO  [15156] [Hkr_InitLog@186] hkr version: hkr.version: build 20250702-1563734
+
+2025-10-30 15:04:26.543 INFO  [15156] [Hkr_InitLog@187] hkr init count: 1
+
+2025-10-30 15:04:27.253 INFO  [22020] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:27.253 INFO  [22020] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:27.281 INFO  [9580] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:27.281 INFO  [9580] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:27.820 INFO  [13408] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:27.820 INFO  [13408] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:27.837 INFO  [4616] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:27.837 INFO  [4616] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:27.867 INFO  [18484] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:27.867 INFO  [10684] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:27.867 INFO  [18484] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:27.867 INFO  [10684] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:27.867 INFO  [13448] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:27.867 INFO  [13448] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:27.868 INFO  [20452] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:27.868 INFO  [20452] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:27.868 INFO  [14472] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:27.868 INFO  [14472] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:27.868 INFO  [17772] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:27.869 INFO  [17772] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:27.921 INFO  [20096] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:27.921 INFO  [20096] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:28.018 INFO  [22020] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:28.018 INFO  [22020] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:28.018 INFO  [22020] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 15:04:28.300 INFO  [22020] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:28.300 INFO  [22020] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:28.300 INFO  [22020] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-30 15:04:28.427 INFO  [1812] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-30 15:04:28.427 INFO  [1812] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-30 15:04:28.427 INFO  [1812] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-10-30 16:09:13.739 INFO  [18944] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\OK
+
+2025-10-30 16:09:13.931 INFO  [18944] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\OK
+
+2025-10-31 09:08:54.099 INFO  [20096] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.099 INFO  [20096] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.101 INFO  [13448] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.101 INFO  [13448] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.115 INFO  [4556] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.115 INFO  [4556] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.116 INFO  [1812] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.116 INFO  [1812] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.116 INFO  [4616] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.116 INFO  [4616] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.116 INFO  [10828] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.116 INFO  [10828] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.117 INFO  [10684] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.117 INFO  [10684] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.117 INFO  [3040] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.117 INFO  [3040] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.117 INFO  [14472] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.117 INFO  [14472] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.118 INFO  [19064] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.118 INFO  [19064] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.129 INFO  [20096] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.129 INFO  [20096] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.133 INFO  [4556] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.133 INFO  [4556] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.161 INFO  [14472] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.161 INFO  [14472] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.170 INFO  [20096] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.170 INFO  [20096] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.224 INFO  [13408] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.224 INFO  [13408] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.224 INFO  [13408] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-31 09:08:54.313 INFO  [13408] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:08:54.313 INFO  [13408] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:08:54.313 INFO  [13408] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-31 09:08:54.479 INFO  [22020] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-10-31 09:10:14.562 INFO  [12948] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\NG
+
+2025-10-31 09:10:14.789 INFO  [12948] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\NG
+
+2025-10-31 09:15:09.444 INFO  [12948] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\OK
+
+2025-10-31 09:15:09.500 INFO  [12948] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\OK
+
+2025-10-31 09:26:21.934 INFO  [6600] [Hkr_InitLog@184] ------------------- hkr init logger: D:\ShiJue\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-10-31 09:26:21.934 INFO  [6600] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-10-31 09:26:21.934 INFO  [6600] [Hkr_InitLog@186] hkr version: hkr.version: build 20250702-1563734
+
+2025-10-31 09:26:21.934 INFO  [6600] [Hkr_InitLog@187] hkr init count: 1
+
+2025-10-31 09:26:27.027 INFO  [21488] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:27.027 INFO  [21488] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:27.105 INFO  [2832] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:27.105 INFO  [2832] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:28.402 INFO  [21696] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:28.402 INFO  [21696] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:28.402 INFO  [21428] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:28.402 INFO  [21428] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:28.620 INFO  [19292] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:28.620 INFO  [21696] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:28.620 INFO  [21696] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:28.620 INFO  [19292] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:28.730 INFO  [21428] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:28.730 INFO  [21428] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:28.808 INFO  [21696] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:28.808 INFO  [21696] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:29.417 INFO  [19292] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:29.417 INFO  [19292] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:29.426 INFO  [21428] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:29.426 INFO  [21428] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:29.551 INFO  [21696] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:29.551 INFO  [21696] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:29.761 INFO  [21428] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:29.761 INFO  [21428] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:29.812 INFO  [19292] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:29.812 INFO  [19292] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:29.813 INFO  [9196] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:29.813 INFO  [9196] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:30.017 INFO  [10960] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:30.017 INFO  [10960] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:30.017 INFO  [10960] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-31 09:26:30.643 INFO  [10960] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:30.643 INFO  [10960] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:30.643 INFO  [10960] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-31 09:26:31.055 INFO  [22220] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:26:31.055 INFO  [22220] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:26:31.055 INFO  [22220] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-10-31 09:27:08.850 INFO  [8592] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\OK
+
+2025-10-31 09:27:09.055 INFO  [8592] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\OK
+
+2025-10-31 09:36:53.566 INFO  [8592] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\NG
+
+2025-10-31 09:36:53.842 INFO  [8592] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\NG
+
+2025-10-31 09:46:34.166 INFO  [8592] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L205\电芯\渲染图\OK
+
+2025-10-31 09:48:57.645 INFO  [17840] [Hkr_InitLog@184] ------------------- hkr init logger: D:\ShiJue\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-10-31 09:48:57.645 INFO  [17840] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-10-31 09:48:57.645 INFO  [17840] [Hkr_InitLog@186] hkr version: hkr.version: build 20250702-1563734
+
+2025-10-31 09:48:57.645 INFO  [17840] [Hkr_InitLog@187] hkr init count: 1
+
+2025-10-31 09:48:58.564 INFO  [18748] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:58.564 INFO  [18748] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:58.592 INFO  [21000] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:58.592 INFO  [21000] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.144 INFO  [4916] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:59.144 INFO  [4916] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.195 INFO  [4916] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:59.195 INFO  [4916] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.278 INFO  [4916] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:59.278 INFO  [4916] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.307 INFO  [4916] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:59.307 INFO  [4916] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.342 INFO  [4916] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:59.342 INFO  [4916] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.359 INFO  [17588] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:59.359 INFO  [17588] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.359 INFO  [18216] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:59.359 INFO  [18216] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.359 INFO  [19480] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:59.359 INFO  [19480] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.395 INFO  [21380] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:59.395 INFO  [21380] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.400 INFO  [15008] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:59.400 INFO  [15008] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.438 INFO  [4916] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:59.438 INFO  [4916] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.441 INFO  [14876] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:59.441 INFO  [14876] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.497 INFO  [6708] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:48:59.497 INFO  [6708] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:48:59.497 INFO  [6708] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-31 09:49:00.115 INFO  [6708] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:49:00.115 INFO  [6708] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:49:00.115 INFO  [6708] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-31 09:49:00.312 INFO  [7216] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 09:49:00.312 INFO  [7216] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 09:49:00.312 INFO  [7216] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-10-31 09:49:50.048 INFO  [19728] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\OK
+
+2025-10-31 09:49:50.260 INFO  [19728] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\OK
+
+2025-10-31 09:50:12.166 INFO  [19728] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\NG
+
+2025-10-31 09:50:12.369 INFO  [19728] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\NG
+
+2025-10-31 10:00:45.364 INFO  [21316] [Hkr_InitLog@184] ------------------- hkr init logger: D:\ShiJue\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-10-31 10:00:45.364 INFO  [21316] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-10-31 10:00:45.364 INFO  [21316] [Hkr_InitLog@186] hkr version: hkr.version: build 20250702-1563734
+
+2025-10-31 10:00:45.364 INFO  [21316] [Hkr_InitLog@187] hkr init count: 1
+
+2025-10-31 10:00:45.968 INFO  [1476] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:45.968 INFO  [1476] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:46.089 INFO  [18696] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:46.089 INFO  [18696] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:46.640 INFO  [18696] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:46.640 INFO  [18696] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:46.687 INFO  [18696] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:46.687 INFO  [18696] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:46.737 INFO  [17432] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:46.737 INFO  [17432] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:46.737 INFO  [18056] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:46.737 INFO  [18056] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:46.737 INFO  [18696] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:46.737 INFO  [18696] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:46.783 INFO  [17432] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:46.783 INFO  [17432] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:46.810 INFO  [18056] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:46.810 INFO  [18056] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:46.811 INFO  [18696] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:46.811 INFO  [18696] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:46.967 INFO  [21024] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:46.967 INFO  [21024] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:46.972 INFO  [6556] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:46.972 INFO  [6556] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:46.992 INFO  [16472] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:46.992 INFO  [16472] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:46.996 INFO  [1476] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:46.996 INFO  [1476] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:47.181 INFO  [17212] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:47.181 INFO  [17212] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:47.181 INFO  [17212] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-31 10:00:47.596 INFO  [17212] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:47.596 INFO  [17212] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:47.596 INFO  [17212] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-10-31 10:00:47.829 INFO  [4916] [Hkr_GetAppPath@40] app path success D:\ShiJue\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-10-31 10:00:47.829 INFO  [4916] [Hkr_GetAppDir@55] app path  ---> app dir D:\ShiJue\Src\TApp\bin\Debug\net472
+
+2025-10-31 10:00:47.829 INFO  [4916] [Hkr_MkDir@286] hkr mkdir:D:\ShiJue\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-10-31 10:01:48.141 INFO  [8580] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\OK
+
+2025-10-31 10:01:48.172 INFO  [8580] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\OK
+
+2025-10-31 10:04:14.635 INFO  [8580] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\渲染图\NG
+
+2025-10-31 10:04:14.663 INFO  [8580] [Hkr_MkDir@286] hkr mkdir:E:\2D存图\扫码极性检测存图\L204\电芯\原图\NG
+
+2025-11-14 15:38:06.784 INFO  [11748] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-14 15:38:06.784 INFO  [11748] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-14 15:38:06.784 INFO  [11748] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-14 15:38:06.784 INFO  [11748] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-14 15:38:18.187 INFO  [11748] [ReadDebugFlagThread@70] ReadDebugFlag thread exit
+
+2025-11-18 17:22:53.987 INFO  [3140] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-18 17:22:53.987 INFO  [3140] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-18 17:22:53.987 INFO  [3140] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-18 17:22:53.987 INFO  [3140] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-18 17:23:00.456 INFO  [3140] [ReadDebugFlagThread@70] ReadDebugFlag thread exit
+
+2025-11-18 18:34:39.779 INFO  [10704] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-18 18:34:39.779 INFO  [10704] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-18 18:34:39.779 INFO  [10704] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-18 18:34:39.779 INFO  [10704] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-18 18:38:07.288 INFO  [8412] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-18 18:38:07.288 INFO  [8412] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-18 18:38:07.288 INFO  [8412] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-18 18:38:07.288 INFO  [8412] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-18 18:38:48.379 INFO  [15524] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-18 18:38:48.379 INFO  [15524] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-18 18:38:48.379 INFO  [15524] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-18 18:38:48.379 INFO  [15524] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-18 19:28:03.740 INFO  [15444] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-18 19:28:03.740 INFO  [15444] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-18 19:28:03.740 INFO  [15444] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-18 19:28:03.740 INFO  [15444] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-18 19:28:04.805 INFO  [15708] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:28:04.805 INFO  [15708] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:28:04.830 INFO  [1548] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:28:04.830 INFO  [1548] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:28:04.830 INFO  [1548] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:28:04.830 INFO  [1548] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:28:04.830 INFO  [1548] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:28:04.830 INFO  [1548] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:28:04.830 INFO  [1548] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:28:04.830 INFO  [1548] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:28:04.973 INFO  [15888] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:28:04.973 INFO  [15888] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:28:04.973 INFO  [15104] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:28:04.973 INFO  [15104] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:28:04.973 INFO  [14232] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:28:04.973 INFO  [14232] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:28:04.973 INFO  [1548] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:28:04.973 INFO  [1548] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:28:04.973 INFO  [14860] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:28:04.973 INFO  [14860] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:28:05.055 INFO  [12528] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:28:05.056 INFO  [12528] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:28:05.056 INFO  [12528] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 19:28:05.173 INFO  [12528] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:28:05.173 INFO  [12528] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:28:05.173 INFO  [12528] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 19:28:05.460 INFO  [13936] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:28:05.460 INFO  [13936] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:28:05.460 INFO  [13936] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-18 19:38:54.469 INFO  [12956] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-18 19:38:54.469 INFO  [12956] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-18 19:38:54.469 INFO  [12956] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-18 19:38:54.469 INFO  [12956] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-18 19:38:55.720 INFO  [6568] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:38:55.720 INFO  [6568] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:38:55.720 INFO  [5388] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:38:55.720 INFO  [5388] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:38:55.720 INFO  [5388] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:38:55.720 INFO  [5388] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:38:55.720 INFO  [5388] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:38:55.720 INFO  [5388] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:38:55.720 INFO  [5388] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:38:55.720 INFO  [5388] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:38:55.855 INFO  [9780] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:38:55.855 INFO  [9780] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:38:55.872 INFO  [9780] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:38:55.872 INFO  [9780] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:38:55.873 INFO  [14596] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:38:55.873 INFO  [14596] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:38:55.873 INFO  [13728] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:38:55.873 INFO  [13728] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:38:55.873 INFO  [12736] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:38:55.873 INFO  [12736] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:38:55.874 INFO  [15312] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:38:55.874 INFO  [15312] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:38:55.874 INFO  [15312] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 19:38:55.947 INFO  [15312] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:38:55.947 INFO  [15312] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:38:55.947 INFO  [15312] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 19:38:56.369 INFO  [1728] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:38:56.369 INFO  [1728] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:38:56.369 INFO  [1728] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-18 19:54:26.523 INFO  [12956] [ReadDebugFlagThread@70] ReadDebugFlag thread exit
+
+2025-11-18 19:54:50.817 INFO  [15300] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-18 19:54:50.817 INFO  [15300] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-18 19:54:50.817 INFO  [15300] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-18 19:54:50.817 INFO  [15300] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-18 19:54:51.952 INFO  [7068] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:54:51.952 INFO  [7068] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:54:51.989 INFO  [9596] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:54:51.989 INFO  [9596] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:54:51.989 INFO  [1832] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:54:51.989 INFO  [1832] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:54:51.989 INFO  [9596] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:54:51.989 INFO  [9596] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:54:51.989 INFO  [9596] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:54:51.989 INFO  [9596] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:54:52.033 INFO  [14200] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:54:52.033 INFO  [14200] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:54:52.042 INFO  [2740] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:54:52.042 INFO  [2740] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:54:52.042 INFO  [2740] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:54:52.042 INFO  [2740] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:54:52.042 INFO  [9596] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:54:52.042 INFO  [9596] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:54:52.042 INFO  [2740] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:54:52.042 INFO  [2740] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:54:52.057 INFO  [2740] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:54:52.057 INFO  [2740] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:54:52.057 INFO  [2740] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 19:54:52.168 INFO  [2740] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:54:52.168 INFO  [2740] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:54:52.168 INFO  [2740] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 19:54:52.570 INFO  [8684] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 19:54:52.570 INFO  [8684] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 19:54:52.570 INFO  [8684] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-18 20:08:14.142 INFO  [3356] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-18 20:08:14.142 INFO  [3356] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-18 20:08:14.142 INFO  [3356] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-18 20:08:14.142 INFO  [3356] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-18 20:08:15.260 INFO  [8568] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:08:15.260 INFO  [8568] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:08:15.260 INFO  [6716] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:08:15.260 INFO  [6716] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:08:15.260 INFO  [6716] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:08:15.260 INFO  [6716] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:08:15.276 INFO  [6716] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:08:15.276 INFO  [6716] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:08:15.276 INFO  [6716] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:08:15.276 INFO  [6716] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:08:15.356 INFO  [1500] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:08:15.356 INFO  [1500] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:08:15.376 INFO  [7032] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:08:15.376 INFO  [7032] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:08:15.376 INFO  [13804] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:08:15.376 INFO  [13804] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:08:15.376 INFO  [12956] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:08:15.376 INFO  [12956] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:08:15.376 INFO  [13804] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:08:15.376 INFO  [13804] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:08:15.391 INFO  [13804] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:08:15.391 INFO  [13804] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:08:15.391 INFO  [13804] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 20:08:15.491 INFO  [13804] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:08:15.491 INFO  [13804] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:08:15.491 INFO  [13804] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 20:08:15.869 INFO  [10740] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:08:15.870 INFO  [10740] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:08:15.870 INFO  [10740] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-18 20:16:43.515 INFO  [3356] [ReadDebugFlagThread@70] ReadDebugFlag thread exit
+
+2025-11-18 20:17:16.579 INFO  [12208] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-18 20:17:16.579 INFO  [12208] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-18 20:17:16.579 INFO  [12208] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-18 20:17:16.579 INFO  [12208] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-18 20:17:16.781 INFO  [2496] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:17:16.781 INFO  [2496] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:17:16.812 INFO  [11768] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:17:16.812 INFO  [11768] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:17:16.812 INFO  [11768] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:17:16.812 INFO  [11768] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:17:16.812 INFO  [11768] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:17:16.812 INFO  [11768] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:17:16.812 INFO  [11768] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:17:16.812 INFO  [11768] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:17:17.049 INFO  [14436] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:17:17.049 INFO  [14436] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:17:17.083 INFO  [10764] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:17:17.083 INFO  [10764] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:17:17.083 INFO  [10764] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:17:17.083 INFO  [10764] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:17:17.084 INFO  [10764] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:17:17.084 INFO  [10764] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:17:17.085 INFO  [10764] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:17:17.085 INFO  [10764] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:17:17.098 INFO  [10764] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:17:17.098 INFO  [10764] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:17:17.098 INFO  [10764] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 20:17:17.245 INFO  [10764] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:17:17.245 INFO  [10764] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:17:17.245 INFO  [10764] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 20:17:17.448 INFO  [11768] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:17:17.448 INFO  [11768] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:17:17.448 INFO  [11768] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-18 20:18:28.247 INFO  [10496] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\1\3\原图\NG
+
+2025-11-18 20:18:28.333 INFO  [10496] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\1\3\渲染图\NG
+
+2025-11-18 20:18:48.503 INFO  [10496] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\0\1\原图\OK
+
+2025-11-18 20:18:48.579 INFO  [10496] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\0\1\渲染图\OK
+
+2025-11-18 20:24:35.392 INFO  [15112] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-18 20:24:35.392 INFO  [15112] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-18 20:24:35.392 INFO  [15112] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-18 20:24:35.392 INFO  [15112] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-18 20:24:36.523 INFO  [10612] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:24:36.523 INFO  [10612] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:24:36.523 INFO  [11656] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:24:36.523 INFO  [11656] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:24:36.523 INFO  [11656] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:24:36.523 INFO  [11656] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:24:36.523 INFO  [11656] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:24:36.523 INFO  [11656] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:24:36.523 INFO  [11656] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:24:36.523 INFO  [11656] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:24:36.623 INFO  [14216] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:24:36.623 INFO  [14216] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:24:36.623 INFO  [5092] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:24:36.623 INFO  [5092] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:24:36.623 INFO  [3668] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:24:36.623 INFO  [3668] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:24:36.623 INFO  [9088] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:24:36.623 INFO  [9088] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:24:36.623 INFO  [13016] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:24:36.623 INFO  [13016] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:24:36.638 INFO  [15160] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:24:36.638 INFO  [15160] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:24:36.638 INFO  [15160] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 20:24:36.739 INFO  [15160] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:24:36.739 INFO  [15160] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:24:36.739 INFO  [15160] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 20:24:37.174 INFO  [13352] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:24:37.174 INFO  [13352] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:24:37.174 INFO  [13352] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-18 20:24:55.675 INFO  [2876] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\0\1\原图\OK
+
+2025-11-18 20:24:55.755 INFO  [2876] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\0\1\渲染图\OK
+
+2025-11-18 20:25:44.186 INFO  [2876] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251118\0\1\原图\OK
+
+2025-11-18 20:25:44.256 INFO  [2876] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251118\0\1\渲染图\OK
+
+2025-11-18 20:38:31.027 INFO  [13900] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-18 20:38:31.027 INFO  [13900] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-18 20:38:31.027 INFO  [13900] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-18 20:38:31.027 INFO  [13900] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-18 20:38:32.094 INFO  [13948] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:38:32.094 INFO  [13948] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:38:32.116 INFO  [10776] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:38:32.116 INFO  [10776] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:38:32.116 INFO  [10776] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:38:32.116 INFO  [10776] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:38:32.116 INFO  [10776] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:38:32.116 INFO  [10776] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:38:32.116 INFO  [10776] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:38:32.116 INFO  [10776] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:38:32.179 INFO  [13976] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:38:32.179 INFO  [13976] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:38:32.179 INFO  [13976] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:38:32.179 INFO  [13976] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:38:32.179 INFO  [13976] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:38:32.179 INFO  [13976] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:38:32.179 INFO  [13976] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:38:32.179 INFO  [13976] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:38:32.179 INFO  [12716] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:38:32.179 INFO  [12716] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:38:32.195 INFO  [13976] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:38:32.195 INFO  [13976] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:38:32.195 INFO  [13976] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 20:38:32.383 INFO  [13976] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:38:32.383 INFO  [13976] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:38:32.383 INFO  [13976] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-18 20:38:32.667 INFO  [13548] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-18 20:38:32.667 INFO  [13548] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-18 20:38:32.667 INFO  [13548] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-18 20:39:13.524 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251118\1\1\原图\OK
+
+2025-11-18 20:39:13.626 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251118\1\1\渲染图\OK
+
+2025-11-18 20:39:38.255 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\1\1\原图\OK
+
+2025-11-18 20:39:38.328 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\1\1\渲染图\OK
+
+2025-11-18 20:47:56.867 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\2\1\原图\OK
+
+2025-11-18 20:47:56.940 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\2\1\渲染图\OK
+
+2025-11-18 20:47:57.315 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251118\2\1\原图\OK
+
+2025-11-18 20:47:57.397 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251118\2\1\渲染图\OK
+
+2025-11-18 20:47:59.491 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\2\2\原图\NG
+
+2025-11-18 20:47:59.566 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\2\2\渲染图\NG
+
+2025-11-18 20:47:59.887 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251118\2\2\原图\NG
+
+2025-11-18 20:47:59.964 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251118\2\2\渲染图\NG
+
+2025-11-18 21:38:11.320 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\2\3\原图\NG
+
+2025-11-18 21:38:11.402 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\2\3\渲染图\NG
+
+2025-11-18 21:38:11.727 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251118\2\3\原图\NG
+
+2025-11-18 21:38:11.804 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251118\2\3\渲染图\NG
+
+2025-11-18 21:38:16.495 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\2\4\原图\NG
+
+2025-11-18 21:38:16.568 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251118\2\4\渲染图\NG
+
+2025-11-18 21:38:16.894 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251118\2\4\原图\NG
+
+2025-11-18 21:38:16.971 INFO  [13824] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251118\2\4\渲染图\NG
+
+2025-11-19 14:02:22.420 INFO  [11352] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-19 14:02:22.420 INFO  [11352] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-19 14:02:22.420 INFO  [11352] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-19 14:02:22.420 INFO  [11352] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-19 14:02:29.654 INFO  [11288] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:02:29.654 INFO  [11288] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:02:30.232 INFO  [9872] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:02:30.232 INFO  [9872] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:02:30.232 INFO  [11284] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:02:30.232 INFO  [11284] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:02:30.232 INFO  [9872] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:02:30.232 INFO  [9872] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:02:30.232 INFO  [11284] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:02:30.232 INFO  [11284] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:02:32.294 INFO  [9868] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:02:32.294 INFO  [9868] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:02:32.513 INFO  [11268] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:02:32.513 INFO  [11268] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:02:32.513 INFO  [10004] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:02:32.513 INFO  [10004] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:02:32.513 INFO  [9872] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:02:32.513 INFO  [9872] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:02:32.513 INFO  [9828] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:02:32.513 INFO  [9828] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:02:33.138 INFO  [9860] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:02:33.138 INFO  [9860] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:02:33.138 INFO  [9860] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-19 14:02:34.044 INFO  [9860] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:02:34.044 INFO  [9860] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:02:34.044 INFO  [9860] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-19 14:02:34.434 INFO  [11304] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:02:34.434 INFO  [11304] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:02:34.434 INFO  [11304] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-19 14:06:38.992 INFO  [11812] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\1\原图\OK
+
+2025-11-19 14:06:39.070 INFO  [11812] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\1\渲染图\OK
+
+2025-11-19 14:06:39.507 INFO  [11812] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\1\原图\OK
+
+2025-11-19 14:06:39.586 INFO  [11812] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\1\渲染图\OK
+
+2025-11-19 14:06:41.757 INFO  [11812] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\2\原图\NG
+
+2025-11-19 14:06:41.835 INFO  [11812] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\2\渲染图\NG
+
+2025-11-19 14:06:42.273 INFO  [11812] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\2\原图\NG
+
+2025-11-19 14:06:42.351 INFO  [11812] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\2\渲染图\NG
+
+2025-11-19 14:13:32.370 INFO  [11812] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\3\原图\NG
+
+2025-11-19 14:13:32.432 INFO  [11812] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\3\渲染图\NG
+
+2025-11-19 14:13:32.870 INFO  [11812] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\3\原图\NG
+
+2025-11-19 14:13:32.932 INFO  [11812] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\3\渲染图\NG
+
+2025-11-19 14:47:43.344 INFO  [12144] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-19 14:47:43.344 INFO  [12144] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-19 14:47:43.344 INFO  [12144] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-19 14:47:43.344 INFO  [12144] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-19 14:47:51.484 INFO  [12092] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:47:51.484 INFO  [12068] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:47:51.484 INFO  [12092] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:47:51.484 INFO  [12068] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:47:51.515 INFO  [12092] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:47:51.515 INFO  [12068] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:47:51.515 INFO  [12092] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:47:51.515 INFO  [12068] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:47:51.515 INFO  [12092] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:47:51.515 INFO  [12092] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:47:51.781 INFO  [12068] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:47:51.781 INFO  [12068] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:47:53.687 INFO  [12100] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:47:53.687 INFO  [12100] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:47:53.687 INFO  [12040] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:47:53.687 INFO  [12040] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:47:53.687 INFO  [12080] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:47:53.687 INFO  [12080] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:47:53.687 INFO  [12084] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:47:53.687 INFO  [12084] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:47:54.046 INFO  [12028] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:47:54.046 INFO  [12028] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:47:54.046 INFO  [12028] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-19 14:47:54.966 INFO  [12028] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:47:54.966 INFO  [12028] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:47:54.981 INFO  [12028] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-19 14:47:55.465 INFO  [12080] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-19 14:47:55.465 INFO  [12080] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-19 14:47:55.465 INFO  [12080] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-19 16:29:16.859 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\4\原图\NG
+
+2025-11-19 16:29:16.937 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\4\渲染图\NG
+
+2025-11-19 16:29:17.374 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\4\原图\NG
+
+2025-11-19 16:29:17.453 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\4\渲染图\NG
+
+2025-11-19 16:30:51.505 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\5\原图\NG
+
+2025-11-19 16:30:51.583 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\5\渲染图\NG
+
+2025-11-19 16:30:51.958 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\5\原图\NG
+
+2025-11-19 16:30:52.036 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\5\渲染图\NG
+
+2025-11-19 16:30:56.745 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\6\原图\NG
+
+2025-11-19 16:30:56.823 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\6\渲染图\NG
+
+2025-11-19 16:30:57.198 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\6\原图\NG
+
+2025-11-19 16:30:57.276 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\6\渲染图\NG
+
+2025-11-19 16:31:01.938 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\7\原图\NG
+
+2025-11-19 16:31:02.000 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\7\渲染图\NG
+
+2025-11-19 16:31:02.312 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\7\原图\NG
+
+2025-11-19 16:31:02.391 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\7\渲染图\NG
+
+2025-11-19 16:33:15.876 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\8\原图\NG
+
+2025-11-19 16:33:15.954 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\8\渲染图\NG
+
+2025-11-19 16:33:16.314 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\8\原图\NG
+
+2025-11-19 16:33:16.392 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\8\渲染图\NG
+
+2025-11-19 16:33:49.638 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\9\原图\NG
+
+2025-11-19 16:33:49.701 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\9\渲染图\NG
+
+2025-11-19 16:33:50.013 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\9\原图\NG
+
+2025-11-19 16:33:50.091 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\9\渲染图\NG
+
+2025-11-19 16:33:54.763 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\10\原图\NG
+
+2025-11-19 16:33:54.825 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\10\渲染图\NG
+
+2025-11-19 16:33:55.200 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\10\原图\NG
+
+2025-11-19 16:33:55.278 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\10\渲染图\NG
+
+2025-11-19 16:34:35.712 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\11\原图\NG
+
+2025-11-19 16:34:35.774 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\11\渲染图\NG
+
+2025-11-19 16:34:36.086 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\11\原图\NG
+
+2025-11-19 16:34:36.165 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\11\渲染图\NG
+
+2025-11-19 16:35:13.957 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\12\原图\NG
+
+2025-11-19 16:35:14.036 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\12\渲染图\NG
+
+2025-11-19 16:35:14.411 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\12\原图\NG
+
+2025-11-19 16:35:14.473 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\12\渲染图\NG
+
+2025-11-19 16:35:19.347 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\13\原图\OK
+
+2025-11-19 16:35:19.426 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\2\13\渲染图\OK
+
+2025-11-19 16:35:19.785 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\13\原图\OK
+
+2025-11-19 16:35:19.847 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\2\13\渲染图\OK
+
+2025-11-19 16:57:12.507 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\0\1\原图\OK
+
+2025-11-19 16:57:12.585 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\0\1\渲染图\OK
+
+2025-11-19 16:57:12.898 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\0\1\原图\OK
+
+2025-11-19 16:57:12.960 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\0\1\渲染图\OK
+
+2025-11-19 17:09:09.696 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\1\原图\OK
+
+2025-11-19 17:09:09.774 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\1\渲染图\OK
+
+2025-11-19 17:09:10.133 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\1\原图\OK
+
+2025-11-19 17:09:10.212 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\1\渲染图\OK
+
+2025-11-19 17:09:10.821 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\2\原图\NG
+
+2025-11-19 17:09:10.883 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\2\渲染图\NG
+
+2025-11-19 17:09:11.258 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\2\原图\NG
+
+2025-11-19 17:09:11.336 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\2\渲染图\NG
+
+2025-11-19 17:09:16.070 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\3\原图\NG
+
+2025-11-19 17:09:16.148 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\3\渲染图\NG
+
+2025-11-19 17:09:16.445 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\3\原图\NG
+
+2025-11-19 17:09:16.523 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\3\渲染图\NG
+
+2025-11-19 17:09:21.210 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\4\原图\NG
+
+2025-11-19 17:09:21.289 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\4\渲染图\NG
+
+2025-11-19 17:09:21.648 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\4\原图\NG
+
+2025-11-19 17:09:21.710 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\4\渲染图\NG
+
+2025-11-19 17:09:26.397 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\5\原图\NG
+
+2025-11-19 17:09:26.475 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\5\渲染图\NG
+
+2025-11-19 17:09:26.835 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\5\原图\NG
+
+2025-11-19 17:09:26.897 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\5\渲染图\NG
+
+2025-11-19 17:09:31.584 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\6\原图\NG
+
+2025-11-19 17:09:31.662 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\6\渲染图\NG
+
+2025-11-19 17:09:31.975 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\6\原图\NG
+
+2025-11-19 17:09:32.053 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\6\渲染图\NG
+
+2025-11-19 17:09:36.724 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\7\原图\NG
+
+2025-11-19 17:09:36.803 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\7\渲染图\NG
+
+2025-11-19 17:09:37.162 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\7\原图\NG
+
+2025-11-19 17:09:37.224 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\7\渲染图\NG
+
+2025-11-19 17:09:41.911 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\8\原图\NG
+
+2025-11-19 17:09:41.989 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\8\渲染图\NG
+
+2025-11-19 17:09:42.302 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\8\原图\NG
+
+2025-11-19 17:09:42.380 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\8\渲染图\NG
+
+2025-11-19 17:09:47.114 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\9\原图\NG
+
+2025-11-19 17:09:47.192 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\9\渲染图\NG
+
+2025-11-19 17:09:47.567 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\9\原图\NG
+
+2025-11-19 17:09:47.645 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\9\渲染图\NG
+
+2025-11-19 17:09:52.316 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\10\原图\NG
+
+2025-11-19 17:09:52.395 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\10\渲染图\NG
+
+2025-11-19 17:09:52.754 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\10\原图\NG
+
+2025-11-19 17:09:52.832 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\10\渲染图\NG
+
+2025-11-19 17:09:57.503 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\11\原图\NG
+
+2025-11-19 17:09:57.582 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\11\渲染图\NG
+
+2025-11-19 17:09:57.941 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\11\原图\NG
+
+2025-11-19 17:09:58.003 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\11\渲染图\NG
+
+2025-11-19 17:10:02.815 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\12\原图\NG
+
+2025-11-19 17:10:02.893 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\12\渲染图\NG
+
+2025-11-19 17:10:03.268 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\12\原图\NG
+
+2025-11-19 17:10:03.347 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\12\渲染图\NG
+
+2025-11-19 17:10:08.205 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\13\原图\OK
+
+2025-11-19 17:10:08.268 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251119\1\13\渲染图\OK
+
+2025-11-19 17:10:08.643 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\13\原图\OK
+
+2025-11-19 17:10:08.721 INFO  [9256] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251119\1\13\渲染图\OK
+
+2025-11-20 10:58:29.391 INFO  [11508] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-20 10:58:29.391 INFO  [11508] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-20 10:58:29.391 INFO  [11508] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-20 10:58:29.391 INFO  [11508] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-20 10:58:35.890 INFO  [11324] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-20 10:58:35.890 INFO  [11324] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-20 10:58:35.921 INFO  [11344] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-20 10:58:35.921 INFO  [11344] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-20 10:58:35.921 INFO  [11332] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-20 10:58:35.921 INFO  [11332] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-20 10:58:35.921 INFO  [11344] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-20 10:58:35.921 INFO  [11344] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-20 10:58:35.921 INFO  [11332] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-20 10:58:35.921 INFO  [11332] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-20 10:58:37.296 INFO  [11336] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-20 10:58:37.296 INFO  [11336] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-20 10:58:38.437 INFO  [11376] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-20 10:58:38.437 INFO  [11376] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-20 10:58:38.437 INFO  [11344] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-20 10:58:38.437 INFO  [11344] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-20 10:58:38.437 INFO  [11328] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-20 10:58:38.437 INFO  [11328] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-20 10:58:38.437 INFO  [11320] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-20 10:58:38.437 INFO  [11320] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-20 10:58:38.937 INFO  [11348] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-20 10:58:38.937 INFO  [11348] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-20 10:58:38.952 INFO  [11348] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-20 10:58:39.593 INFO  [11348] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-20 10:58:39.593 INFO  [11348] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-20 10:58:39.593 INFO  [11348] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-20 10:58:40.124 INFO  [11364] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-20 10:58:40.124 INFO  [11364] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-20 10:58:40.124 INFO  [11364] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-21 20:34:16.986 INFO  [11392] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-21 20:34:16.986 INFO  [11392] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-21 20:34:16.986 INFO  [11392] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-21 20:34:16.986 INFO  [11392] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-21 20:34:23.376 INFO  [11304] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-21 20:34:23.376 INFO  [11304] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-21 20:34:23.892 INFO  [11352] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-21 20:34:23.892 INFO  [11352] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-21 20:34:23.907 INFO  [11352] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-21 20:34:23.907 INFO  [11352] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-21 20:34:23.907 INFO  [11352] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-21 20:34:23.907 INFO  [11352] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-21 20:34:23.907 INFO  [11352] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-21 20:34:23.907 INFO  [11352] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-21 20:34:25.756 INFO  [11300] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-21 20:34:25.756 INFO  [11300] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-21 20:34:25.803 INFO  [11284] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-21 20:34:25.803 INFO  [11284] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-21 20:34:25.803 INFO  [11336] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-21 20:34:25.803 INFO  [11336] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-21 20:34:25.803 INFO  [11320] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-21 20:34:25.803 INFO  [11320] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-21 20:34:25.803 INFO  [11328] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-21 20:34:25.803 INFO  [11328] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-21 20:34:26.428 INFO  [11356] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-21 20:34:26.428 INFO  [11356] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-21 20:34:26.444 INFO  [11356] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-21 20:34:26.990 INFO  [11356] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-21 20:34:26.990 INFO  [11356] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-21 20:34:26.990 INFO  [11356] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-21 20:34:27.412 INFO  [11284] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-21 20:34:27.412 INFO  [11284] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-21 20:34:27.412 INFO  [11284] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-27 18:42:17.984 INFO  [10364] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-27 18:42:17.984 INFO  [10364] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-27 18:42:17.984 INFO  [10364] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-27 18:42:17.984 INFO  [10364] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-27 18:42:22.390 INFO  [4260] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-27 18:42:22.390 INFO  [7392] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-27 18:42:22.390 INFO  [10696] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-27 18:42:22.390 INFO  [4260] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-27 18:42:22.390 INFO  [7392] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-27 18:42:22.390 INFO  [10696] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-27 18:42:22.390 INFO  [10696] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-27 18:42:22.390 INFO  [10696] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-27 18:42:22.390 INFO  [7392] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-27 18:42:22.390 INFO  [7392] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-27 18:42:22.874 INFO  [5432] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-27 18:42:22.874 INFO  [5432] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-27 18:42:23.233 INFO  [6932] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-27 18:42:23.233 INFO  [6932] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-27 18:42:23.249 INFO  [5432] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-27 18:42:23.249 INFO  [5432] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-27 18:42:23.249 INFO  [4260] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-27 18:42:23.249 INFO  [4260] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-27 18:42:23.249 INFO  [7392] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-27 18:42:23.249 INFO  [7392] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-27 18:42:23.452 INFO  [1496] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-27 18:42:23.452 INFO  [1496] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-27 18:42:23.452 INFO  [1496] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-27 18:42:23.858 INFO  [1496] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-27 18:42:23.858 INFO  [1496] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-27 18:42:23.858 INFO  [1496] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-27 18:42:25.014 INFO  [5432] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-27 18:42:25.014 INFO  [5432] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-27 18:42:25.014 INFO  [5432] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-28 13:40:32.193 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\1\原图\OK
+
+2025-11-28 13:40:32.271 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\1\渲染图\OK
+
+2025-11-28 13:40:32.693 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\1\原图\OK
+
+2025-11-28 13:40:32.771 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\1\渲染图\OK
+
+2025-11-28 13:40:35.021 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\2\原图\NG
+
+2025-11-28 13:40:35.083 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\2\渲染图\NG
+
+2025-11-28 13:40:35.458 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\2\原图\NG
+
+2025-11-28 13:40:35.536 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\2\渲染图\NG
+
+2025-11-28 14:08:17.241 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\3\原图\NG
+
+2025-11-28 14:08:17.319 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\3\渲染图\NG
+
+2025-11-28 14:08:17.631 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\3\原图\NG
+
+2025-11-28 14:08:17.709 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\3\渲染图\NG
+
+2025-11-28 14:08:19.084 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\4\原图\NG
+
+2025-11-28 14:08:19.162 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\4\渲染图\NG
+
+2025-11-28 14:08:19.459 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\4\原图\NG
+
+2025-11-28 14:08:19.522 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\4\渲染图\NG
+
+2025-11-28 14:08:20.897 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\5\原图\NG
+
+2025-11-28 14:08:20.975 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\5\渲染图\NG
+
+2025-11-28 14:08:21.272 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\5\原图\NG
+
+2025-11-28 14:08:21.334 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\5\渲染图\NG
+
+2025-11-28 14:08:22.709 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\6\原图\NG
+
+2025-11-28 14:08:22.787 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\6\渲染图\NG
+
+2025-11-28 14:08:23.100 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\6\原图\NG
+
+2025-11-28 14:08:23.178 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\6\渲染图\NG
+
+2025-11-28 14:08:24.568 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\7\原图\NG
+
+2025-11-28 14:08:24.631 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\7\渲染图\NG
+
+2025-11-28 14:08:24.943 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\7\原图\NG
+
+2025-11-28 14:08:25.021 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\7\渲染图\NG
+
+2025-11-28 14:08:26.903 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\8\原图\NG
+
+2025-11-28 14:08:26.981 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\8\渲染图\NG
+
+2025-11-28 14:08:27.356 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\8\原图\NG
+
+2025-11-28 14:08:27.434 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\8\渲染图\NG
+
+2025-11-28 14:08:28.747 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\9\原图\NG
+
+2025-11-28 14:08:28.809 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\9\渲染图\NG
+
+2025-11-28 14:08:29.184 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\9\原图\NG
+
+2025-11-28 14:08:29.262 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\9\渲染图\NG
+
+2025-11-28 14:08:30.575 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\10\原图\NG
+
+2025-11-28 14:08:30.653 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\10\渲染图\NG
+
+2025-11-28 14:08:31.012 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\10\原图\NG
+
+2025-11-28 14:08:31.090 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\10\渲染图\NG
+
+2025-11-28 14:08:32.387 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\11\原图\NG
+
+2025-11-28 14:08:32.465 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\11\渲染图\NG
+
+2025-11-28 14:08:32.840 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\11\原图\NG
+
+2025-11-28 14:08:32.918 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\11\渲染图\NG
+
+2025-11-28 14:08:34.246 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\12\原图\NG
+
+2025-11-28 14:08:34.309 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\12\渲染图\NG
+
+2025-11-28 14:08:34.621 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\12\原图\NG
+
+2025-11-28 14:08:34.699 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\12\渲染图\NG
+
+2025-11-28 14:08:36.074 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\13\原图\OK
+
+2025-11-28 14:08:36.152 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251128\1\13\渲染图\OK
+
+2025-11-28 14:08:36.527 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\13\原图\OK
+
+2025-11-28 14:08:36.590 INFO  [10424] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251128\1\13\渲染图\OK
+
+2025-11-28 14:13:59.188 INFO  [10364] [ReadDebugFlagThread@70] ReadDebugFlag thread exit
+
+2025-11-28 18:45:04.599 INFO  [7116] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-28 18:45:04.599 INFO  [7116] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-28 18:45:04.599 INFO  [7116] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-28 18:45:04.599 INFO  [7116] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-28 18:45:06.755 INFO  [9336] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 18:45:06.755 INFO  [2020] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 18:45:06.755 INFO  [9336] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 18:45:06.755 INFO  [2020] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 18:45:06.755 INFO  [2792] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 18:45:06.755 INFO  [2792] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 18:45:06.755 INFO  [7248] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 18:45:06.755 INFO  [7248] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 18:45:06.755 INFO  [2584] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 18:45:06.755 INFO  [2584] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 18:45:06.755 INFO  [2584] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 18:45:06.755 INFO  [2584] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 18:45:06.880 INFO  [2584] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 18:45:06.880 INFO  [2584] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 18:45:06.880 INFO  [6932] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 18:45:06.880 INFO  [6932] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 18:45:06.880 INFO  [8536] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 18:45:06.880 INFO  [8536] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 18:45:06.880 INFO  [3728] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 18:45:06.880 INFO  [3728] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 18:45:06.990 INFO  [2584] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 18:45:06.990 INFO  [2584] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 18:45:06.990 INFO  [2584] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 18:45:07.068 INFO  [2584] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 18:45:07.068 INFO  [2584] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 18:45:07.068 INFO  [2584] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 18:45:07.536 INFO  [9704] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 18:45:07.536 INFO  [9704] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 18:45:07.536 INFO  [9704] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-28 18:45:42.994 INFO  [7116] [ReadDebugFlagThread@70] ReadDebugFlag thread exit
+
+2025-11-28 20:53:18.088 INFO  [9788] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-28 20:53:18.088 INFO  [9788] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-28 20:53:18.088 INFO  [9788] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-28 20:53:18.088 INFO  [9788] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-28 20:53:19.411 INFO  [14328] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.411 INFO  [14328] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.422 INFO  [14316] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.422 INFO  [14316] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.422 INFO  [14288] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.422 INFO  [14288] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.422 INFO  [13412] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.422 INFO  [13412] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.422 INFO  [14316] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.422 INFO  [14316] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.438 INFO  [14308] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.438 INFO  [14308] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.438 INFO  [14308] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.438 INFO  [14308] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.438 INFO  [14304] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.438 INFO  [14304] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.438 INFO  [14276] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.438 INFO  [14276] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.454 INFO  [14320] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.454 INFO  [14320] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.454 INFO  [14300] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.454 INFO  [14300] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.454 INFO  [14304] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.454 INFO  [14304] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.454 INFO  [14276] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.454 INFO  [14276] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.454 INFO  [14300] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.454 INFO  [14300] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.454 INFO  [14300] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 20:53:19.737 INFO  [14300] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:19.737 INFO  [14300] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:19.737 INFO  [14300] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 20:53:20.041 INFO  [14324] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:53:20.041 INFO  [14324] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:53:20.041 INFO  [14324] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-28 20:55:06.940 INFO  [9788] [ReadDebugFlagThread@70] ReadDebugFlag thread exit
+
+2025-11-28 20:55:17.465 INFO  [11184] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-28 20:55:17.465 INFO  [11184] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-28 20:55:17.465 INFO  [11184] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-28 20:55:17.465 INFO  [11184] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-28 20:55:18.645 INFO  [13764] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.645 INFO  [13764] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.697 INFO  [8352] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.697 INFO  [8352] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.697 INFO  [14040] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.697 INFO  [14040] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.697 INFO  [14080] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.697 INFO  [14080] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.698 INFO  [13940] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.698 INFO  [13940] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.712 INFO  [14072] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.712 INFO  [14072] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.712 INFO  [13792] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.712 INFO  [13792] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.713 INFO  [13864] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.713 INFO  [13864] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.714 INFO  [14072] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.714 INFO  [14072] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.863 INFO  [8352] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.863 INFO  [8352] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.863 INFO  [14076] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.863 INFO  [14076] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.863 INFO  [13756] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.863 INFO  [13756] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.863 INFO  [13808] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.863 INFO  [13808] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.872 INFO  [14040] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.872 INFO  [14040] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.872 INFO  [14040] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 20:55:18.978 INFO  [14040] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:18.978 INFO  [14040] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:18.978 INFO  [14040] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 20:55:19.304 INFO  [8352] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:55:19.304 INFO  [8352] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:55:19.304 INFO  [8352] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-28 20:58:59.991 INFO  [10672] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-28 20:58:59.991 INFO  [10672] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-28 20:58:59.991 INFO  [10672] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-28 20:58:59.991 INFO  [10672] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-28 20:59:01.071 INFO  [11852] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.071 INFO  [11852] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.102 INFO  [14460] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.102 INFO  [14460] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.102 INFO  [14460] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.102 INFO  [14460] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.102 INFO  [14460] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.102 INFO  [14460] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.102 INFO  [14460] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.102 INFO  [14460] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.151 INFO  [14460] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.151 INFO  [14460] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.151 INFO  [14460] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.151 INFO  [14460] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.153 INFO  [14460] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.153 INFO  [14460] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.164 INFO  [14076] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.164 INFO  [14076] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.267 INFO  [4876] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.267 INFO  [4876] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.268 INFO  [4876] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.268 INFO  [4876] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.268 INFO  [4876] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.268 INFO  [4876] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.269 INFO  [4876] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.269 INFO  [4876] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.318 INFO  [4876] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.318 INFO  [4876] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.318 INFO  [4876] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 20:59:01.418 INFO  [4876] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.418 INFO  [4876] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.418 INFO  [4876] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 20:59:01.706 INFO  [6712] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 20:59:01.706 INFO  [6712] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 20:59:01.706 INFO  [6712] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-28 21:04:06.308 INFO  [1980] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-28 21:04:06.308 INFO  [1980] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-28 21:04:06.308 INFO  [1980] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-28 21:04:06.308 INFO  [1980] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-28 21:04:07.484 INFO  [13088] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.484 INFO  [13088] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.512 INFO  [10912] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.512 INFO  [10912] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.512 INFO  [216] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.512 INFO  [216] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.512 INFO  [15340] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.512 INFO  [15340] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.512 INFO  [4784] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.512 INFO  [4784] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.512 INFO  [12940] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.512 INFO  [12940] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.512 INFO  [10912] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.512 INFO  [10912] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.512 INFO  [14092] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.512 INFO  [14092] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.512 INFO  [10912] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.512 INFO  [10912] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.512 INFO  [14092] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.512 INFO  [14092] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.512 INFO  [14300] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.512 INFO  [14300] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.512 INFO  [14092] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.512 INFO  [14092] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.512 INFO  [4784] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.512 INFO  [4784] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.541 INFO  [4784] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.541 INFO  [4784] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.541 INFO  [4784] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 21:04:07.816 INFO  [4784] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:07.816 INFO  [4784] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:07.816 INFO  [4784] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 21:04:08.142 INFO  [14300] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:04:08.142 INFO  [14300] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:04:08.142 INFO  [14300] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-28 21:05:53.864 INFO  [15344] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-28 21:05:53.864 INFO  [15344] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-28 21:05:53.864 INFO  [15344] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-28 21:05:53.864 INFO  [15344] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-28 21:05:55.079 INFO  [10496] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.079 INFO  [10496] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.138 INFO  [14644] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.138 INFO  [14644] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.138 INFO  [14644] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.138 INFO  [14644] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.138 INFO  [2092] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.138 INFO  [2092] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.138 INFO  [14644] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.138 INFO  [14644] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.138 INFO  [14880] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.138 INFO  [14880] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.138 INFO  [14880] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.138 INFO  [14880] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.138 INFO  [14880] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.138 INFO  [14880] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.263 INFO  [13384] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.263 INFO  [13384] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.278 INFO  [3676] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.278 INFO  [3676] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.278 INFO  [9372] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.278 INFO  [9372] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.278 INFO  [14880] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.278 INFO  [14880] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.278 INFO  [15052] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.278 INFO  [15052] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.278 INFO  [11564] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.278 INFO  [11564] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.278 INFO  [11564] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 21:05:55.407 INFO  [11564] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.407 INFO  [11564] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.407 INFO  [11564] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 21:05:55.708 INFO  [2844] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:05:55.708 INFO  [2844] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:05:55.708 INFO  [2844] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-28 21:12:22.912 INFO  [6348] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-28 21:12:22.912 INFO  [6348] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-28 21:12:22.912 INFO  [6348] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-28 21:12:22.912 INFO  [6348] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-28 21:12:24.010 INFO  [4884] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.010 INFO  [4884] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.085 INFO  [15668] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.085 INFO  [15668] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.086 INFO  [15668] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.086 INFO  [15668] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.086 INFO  [6736] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.086 INFO  [6736] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.087 INFO  [15668] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.087 INFO  [15668] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.089 INFO  [6964] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.089 INFO  [6964] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.090 INFO  [6964] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.090 INFO  [6964] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.091 INFO  [15284] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.091 INFO  [15284] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.164 INFO  [4448] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.164 INFO  [4448] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.179 INFO  [15284] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.179 INFO  [15284] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.179 INFO  [6964] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.179 INFO  [6964] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.180 INFO  [15532] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.180 INFO  [15532] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.180 INFO  [15668] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.180 INFO  [15668] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.190 INFO  [824] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.190 INFO  [824] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.190 INFO  [824] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 21:12:24.332 INFO  [824] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.332 INFO  [824] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.332 INFO  [824] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 21:12:24.630 INFO  [15668] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:12:24.630 INFO  [15668] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:12:24.630 INFO  [15668] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-28 21:14:45.798 INFO  [16368] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:14:45.798 INFO  [16368] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:14:45.798 INFO  [16368] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 21:26:34.532 INFO  [5524] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-28 21:26:34.532 INFO  [5524] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-28 21:26:34.532 INFO  [5524] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-28 21:26:34.532 INFO  [5524] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-28 21:26:35.615 INFO  [10700] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.615 INFO  [10700] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.662 INFO  [17268] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.662 INFO  [17268] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.662 INFO  [2588] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.662 INFO  [2588] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.662 INFO  [7776] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.662 INFO  [7776] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.662 INFO  [7776] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.662 INFO  [7776] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.721 INFO  [14888] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.721 INFO  [14888] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.721 INFO  [11652] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.721 INFO  [11652] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.722 INFO  [14888] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.722 INFO  [14888] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.723 INFO  [12752] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.723 INFO  [12752] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.726 INFO  [15340] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.726 INFO  [15340] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.726 INFO  [11652] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.726 INFO  [11652] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.727 INFO  [13340] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.727 INFO  [13340] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.727 INFO  [14960] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.727 INFO  [14960] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.731 INFO  [14960] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.731 INFO  [14960] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.731 INFO  [14960] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 21:26:35.932 INFO  [14960] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:35.932 INFO  [14960] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:35.932 INFO  [14960] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 21:26:36.278 INFO  [17284] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:26:36.278 INFO  [17284] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:26:36.278 INFO  [17284] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-28 21:27:42.645 INFO  [10448] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-28 21:27:42.645 INFO  [10448] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-28 21:27:42.645 INFO  [10448] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-28 21:27:42.645 INFO  [10448] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-28 21:27:43.832 INFO  [3740] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.832 INFO  [3740] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.876 INFO  [14872] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.876 INFO  [2708] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.876 INFO  [14872] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.876 INFO  [2708] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.876 INFO  [7964] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.876 INFO  [7964] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.876 INFO  [16392] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.876 INFO  [16392] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.876 INFO  [14776] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.876 INFO  [14776] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.876 INFO  [6864] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.876 INFO  [6864] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.876 INFO  [14392] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.876 INFO  [14392] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.876 INFO  [6864] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.876 INFO  [6864] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.876 INFO  [7964] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.876 INFO  [7964] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.876 INFO  [6864] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.876 INFO  [6864] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.876 INFO  [16392] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.876 INFO  [16392] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.876 INFO  [948] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.876 INFO  [948] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.891 INFO  [16392] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:43.891 INFO  [16392] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:43.891 INFO  [16392] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 21:27:44.163 INFO  [16392] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:44.163 INFO  [16392] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:44.163 INFO  [16392] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 21:27:44.467 INFO  [16392] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:27:44.467 INFO  [16392] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:27:44.467 INFO  [16392] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-28 21:28:49.924 INFO  [10336] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-11-28 21:28:49.924 INFO  [10336] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-11-28 21:28:49.924 INFO  [10336] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-11-28 21:28:49.924 INFO  [10336] [Hkr_InitLog@187] hkr init count: 1
+
+2025-11-28 21:28:51.273 INFO  [948] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.273 INFO  [948] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.292 INFO  [12720] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.292 INFO  [12720] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.292 INFO  [12720] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.292 INFO  [12720] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.308 INFO  [12720] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.308 INFO  [12720] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.308 INFO  [12720] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.308 INFO  [12720] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.308 INFO  [5284] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.308 INFO  [5284] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.308 INFO  [13496] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.308 INFO  [13496] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.308 INFO  [11896] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.308 INFO  [11896] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.308 INFO  [11896] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.308 INFO  [11896] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.308 INFO  [15424] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.308 INFO  [17268] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.308 INFO  [17268] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.308 INFO  [15424] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.308 INFO  [13496] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.308 INFO  [13496] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.308 INFO  [14984] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.308 INFO  [14984] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.332 INFO  [13496] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.332 INFO  [13496] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.332 INFO  [13496] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 21:28:51.555 INFO  [13496] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.555 INFO  [13496] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.555 INFO  [13496] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-11-28 21:28:51.897 INFO  [5284] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-11-28 21:28:51.897 INFO  [5284] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-11-28 21:28:51.898 INFO  [5284] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-11-29 14:41:26.828 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251129\1\1\原图\OK
+
+2025-11-29 14:41:26.903 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251129\1\1\渲染图\OK
+
+2025-11-29 14:41:27.385 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251129\1\1\原图\OK
+
+2025-11-29 14:41:27.454 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251129\1\1\渲染图\OK
+
+2025-11-29 14:41:29.353 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251129\1\2\原图\NG
+
+2025-11-29 14:41:29.427 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251129\1\2\渲染图\NG
+
+2025-11-29 14:41:29.855 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251129\1\2\原图\NG
+
+2025-11-29 14:41:29.927 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251129\1\2\渲染图\NG
+
+2025-11-29 14:45:46.584 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251129\1\3\原图\NG
+
+2025-11-29 14:45:46.662 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251129\1\3\渲染图\NG
+
+2025-11-29 14:45:47.078 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251129\1\3\原图\NG
+
+2025-11-29 14:45:47.158 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251129\1\3\渲染图\NG
+
+2025-11-29 14:45:51.959 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251129\1\4\原图\NG
+
+2025-11-29 14:45:52.031 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251129\1\4\渲染图\NG
+
+2025-11-29 14:45:52.454 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251129\1\4\原图\NG
+
+2025-11-29 14:45:52.527 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251129\1\4\渲染图\NG
+
+2025-11-29 14:46:02.694 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251129\1\5\原图\NG
+
+2025-11-29 14:46:02.766 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251129\1\5\渲染图\NG
+
+2025-11-29 14:46:03.140 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251129\1\5\原图\NG
+
+2025-11-29 14:46:03.217 INFO  [9156] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251129\1\5\渲染图\NG
+
+2025-12-03 13:50:27.500 INFO  [2520] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-12-03 13:50:27.500 INFO  [2520] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-12-03 13:50:27.500 INFO  [2520] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-12-03 13:50:27.500 INFO  [2520] [Hkr_InitLog@187] hkr init count: 1
+
+2025-12-03 13:50:31.650 INFO  [3708] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:31.650 INFO  [3708] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:31.666 INFO  [10648] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:31.666 INFO  [10648] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:31.666 INFO  [10752] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:31.666 INFO  [10752] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:31.666 INFO  [10648] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:31.666 INFO  [10648] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:31.666 INFO  [10752] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:31.666 INFO  [10752] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:31.666 INFO  [10648] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:31.666 INFO  [10648] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:31.666 INFO  [10648] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:31.666 INFO  [10648] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:31.681 INFO  [3708] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:31.681 INFO  [3708] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:31.869 INFO  [2696] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:31.869 INFO  [2696] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:31.869 INFO  [10000] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:31.869 INFO  [10000] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:31.869 INFO  [9632] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:31.869 INFO  [9632] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:31.869 INFO  [3708] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:31.869 INFO  [3708] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:31.869 INFO  [6624] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:31.869 INFO  [6624] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:32.041 INFO  [4252] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:32.041 INFO  [4252] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:32.041 INFO  [4252] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-12-03 13:50:32.337 INFO  [4252] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:32.337 INFO  [4252] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:32.337 INFO  [4252] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-12-03 13:50:34.819 INFO  [10648] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 13:50:34.819 INFO  [10648] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 13:50:34.819 INFO  [10648] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-12-03 19:36:14.066 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\1\原图\OK
+
+2025-12-03 19:36:14.144 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\1\渲染图\OK
+
+2025-12-03 19:36:14.676 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\1\原图\OK
+
+2025-12-03 19:36:14.754 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\1\渲染图\OK
+
+2025-12-03 19:38:12.304 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\3\原图\NG
+
+2025-12-03 19:38:12.382 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\3\渲染图\NG
+
+2025-12-03 19:38:12.819 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\3\原图\NG
+
+2025-12-03 19:38:12.882 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\3\渲染图\NG
+
+2025-12-03 19:38:17.569 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\4\原图\NG
+
+2025-12-03 19:38:17.647 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\4\渲染图\NG
+
+2025-12-03 19:38:18.147 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\4\原图\NG
+
+2025-12-03 19:38:18.209 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\4\渲染图\NG
+
+2025-12-03 19:38:25.646 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\5\原图\NG
+
+2025-12-03 19:38:25.724 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\5\渲染图\NG
+
+2025-12-03 19:38:26.084 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\5\原图\NG
+
+2025-12-03 19:38:26.146 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\5\渲染图\NG
+
+2025-12-03 19:38:30.708 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\6\原图\NG
+
+2025-12-03 19:38:30.786 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\6\渲染图\NG
+
+2025-12-03 19:38:31.146 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\6\原图\NG
+
+2025-12-03 19:38:31.208 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\6\渲染图\NG
+
+2025-12-03 19:39:09.454 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\8\原图\NG
+
+2025-12-03 19:39:09.532 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\8\渲染图\NG
+
+2025-12-03 19:39:09.907 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\8\原图\NG
+
+2025-12-03 19:39:09.985 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\8\渲染图\NG
+
+2025-12-03 19:39:11.797 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\9\原图\NG
+
+2025-12-03 19:39:11.876 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\9\渲染图\NG
+
+2025-12-03 19:39:12.235 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\9\原图\NG
+
+2025-12-03 19:39:12.297 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\9\渲染图\NG
+
+2025-12-03 19:39:14.110 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\10\原图\NG
+
+2025-12-03 19:39:14.188 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\10\渲染图\NG
+
+2025-12-03 19:39:14.625 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\10\原图\NG
+
+2025-12-03 19:39:14.703 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\10\渲染图\NG
+
+2025-12-03 19:39:16.391 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\11\原图\NG
+
+2025-12-03 19:39:16.453 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\11\渲染图\NG
+
+2025-12-03 19:39:16.844 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\11\原图\NG
+
+2025-12-03 19:39:16.922 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\11\渲染图\NG
+
+2025-12-03 19:39:41.919 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\12\原图\NG
+
+2025-12-03 19:39:41.997 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\12\渲染图\NG
+
+2025-12-03 19:39:42.435 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\12\原图\NG
+
+2025-12-03 19:39:42.497 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\12\渲染图\NG
+
+2025-12-03 19:39:44.185 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\13\原图\OK
+
+2025-12-03 19:39:44.247 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\13\渲染图\OK
+
+2025-12-03 19:39:44.622 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\13\原图\OK
+
+2025-12-03 19:39:44.685 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\13\渲染图\OK
+
+2025-12-03 19:40:55.240 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\2\原图\NG
+
+2025-12-03 19:40:55.318 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\2\渲染图\NG
+
+2025-12-03 19:40:55.693 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\2\原图\NG
+
+2025-12-03 19:40:55.771 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\2\渲染图\NG
+
+2025-12-03 19:45:12.681 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\7\原图\NG
+
+2025-12-03 19:45:12.759 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\7\渲染图\NG
+
+2025-12-03 19:45:13.134 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\7\原图\NG
+
+2025-12-03 19:45:13.196 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\7\渲染图\NG
+
+2025-12-03 20:12:47.773 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\1\14\原图\NG
+
+2025-12-03 20:12:47.835 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\1\14\渲染图\NG
+
+2025-12-03 20:55:44.497 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\13\原图\NG
+
+2025-12-03 20:55:44.564 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\13\渲染图\NG
+
+2025-12-03 20:55:47.363 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\14\原图\NG
+
+2025-12-03 20:55:47.425 INFO  [11080] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\14\渲染图\NG
+
+2025-12-03 21:00:46.517 INFO  [9396] [Hkr_InitLog@184] ------------------- hkr init logger: D:\新建文件夹\Src\TApp\bin\Debug\net472\log/hkr/hkr.log ---------------------------
+
+2025-12-03 21:00:46.517 INFO  [9396] [Hkr_InitLog@185] hkr path: D:\VisionMaster4.4.0\Applications\PublicFile\x64\hkr.dll
+
+2025-12-03 21:00:46.517 INFO  [9396] [Hkr_InitLog@186] hkr version: hkr.version: build 20250527-1558434
+
+2025-12-03 21:00:46.517 INFO  [9396] [Hkr_InitLog@187] hkr init count: 1
+
+2025-12-03 21:00:47.611 INFO  [364] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.611 INFO  [364] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.626 INFO  [5780] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.626 INFO  [5780] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.626 INFO  [6288] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.626 INFO  [6288] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.626 INFO  [7320] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.626 INFO  [7320] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.626 INFO  [5564] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.626 INFO  [5564] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.642 INFO  [7320] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.642 INFO  [7320] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.642 INFO  [7320] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.642 INFO  [7320] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.642 INFO  [8004] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.642 INFO  [8004] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.642 INFO  [7320] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.642 INFO  [7320] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.642 INFO  [7244] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.642 INFO  [7244] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.642 INFO  [6288] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.642 INFO  [6288] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.642 INFO  [8004] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.642 INFO  [8004] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.642 INFO  [6676] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.642 INFO  [6676] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.689 INFO  [2656] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.689 INFO  [2656] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.689 INFO  [2656] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-12-03 21:00:47.923 INFO  [2656] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:47.923 INFO  [2656] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:47.923 INFO  [2656] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\log\GateWay
+
+2025-12-03 21:00:48.361 INFO  [5564] [Hkr_GetAppPath@40] app path success D:\新建文件夹\Src\TApp\bin\Debug\net472\TApp.exe
+
+2025-12-03 21:00:48.361 INFO  [5564] [Hkr_GetAppDir@55] app path  ---> app dir D:\新建文件夹\Src\TApp\bin\Debug\net472
+
+2025-12-03 21:00:48.361 INFO  [5564] [Hkr_MkDir@286] hkr mkdir:D:\新建文件夹\Src\TApp\bin\Debug\net472\GwLoadSolution
+
+2025-12-03 21:03:01.631 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\2_Image\CCD1极性检测电芯\20251203\8\15\原图\OK
+
+2025-12-03 21:03:01.693 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\15\渲染图\OK
+
+2025-12-03 21:04:09.342 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\2_Image\CCD1极性检测电芯\20251203\8\1\原图\OK
+
+2025-12-03 21:04:09.404 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\1\渲染图\OK
+
+2025-12-03 21:04:09.857 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\1\原图\OK
+
+2025-12-03 21:04:09.935 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\1\渲染图\OK
+
+2025-12-03 21:04:12.373 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\3\原图\NG
+
+2025-12-03 21:04:12.451 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\3\渲染图\NG
+
+2025-12-03 21:04:12.892 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\3\原图\NG
+
+2025-12-03 21:04:12.970 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\3\渲染图\NG
+
+2025-12-03 21:04:14.959 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\4\原图\NG
+
+2025-12-03 21:04:15.037 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\4\渲染图\NG
+
+2025-12-03 21:04:15.488 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\4\原图\NG
+
+2025-12-03 21:04:15.556 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\4\渲染图\NG
+
+2025-12-03 21:04:17.493 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\5\原图\NG
+
+2025-12-03 21:04:17.572 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\5\渲染图\NG
+
+2025-12-03 21:04:17.927 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\5\原图\NG
+
+2025-12-03 21:04:17.990 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\5\渲染图\NG
+
+2025-12-03 21:04:19.978 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\6\原图\NG
+
+2025-12-03 21:04:20.040 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\6\渲染图\NG
+
+2025-12-03 21:04:20.415 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\6\原图\NG
+
+2025-12-03 21:04:20.493 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\6\渲染图\NG
+
+2025-12-03 21:04:22.493 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\7\原图\NG
+
+2025-12-03 21:04:22.571 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\7\渲染图\NG
+
+2025-12-03 21:04:22.946 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\7\原图\NG
+
+2025-12-03 21:04:23.024 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\7\渲染图\NG
+
+2025-12-03 21:04:24.954 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\8\原图\NG
+
+2025-12-03 21:04:25.032 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\8\渲染图\NG
+
+2025-12-03 21:04:25.407 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\8\原图\NG
+
+2025-12-03 21:04:25.485 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\8\渲染图\NG
+
+2025-12-03 21:04:27.727 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\9\原图\NG
+
+2025-12-03 21:04:27.806 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\9\渲染图\NG
+
+2025-12-03 21:04:28.165 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\9\原图\NG
+
+2025-12-03 21:04:28.227 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\9\渲染图\NG
+
+2025-12-03 21:04:30.144 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\10\原图\NG
+
+2025-12-03 21:04:30.222 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\10\渲染图\NG
+
+2025-12-03 21:04:30.597 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\10\原图\NG
+
+2025-12-03 21:04:30.675 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\10\渲染图\NG
+
+2025-12-03 21:04:32.656 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\11\原图\NG
+
+2025-12-03 21:04:32.734 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\11\渲染图\NG
+
+2025-12-03 21:04:33.172 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\11\原图\NG
+
+2025-12-03 21:04:33.250 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\11\渲染图\NG
+
+2025-12-03 21:04:35.207 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\12\原图\NG
+
+2025-12-03 21:04:35.286 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\12\渲染图\NG
+
+2025-12-03 21:04:35.645 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\12\原图\NG
+
+2025-12-03 21:04:35.723 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\12\渲染图\NG
+
+2025-12-03 21:04:37.745 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\13\原图\NG
+
+2025-12-03 21:04:37.821 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\13\渲染图\NG
+
+2025-12-03 21:04:38.247 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\13\原图\OK
+
+2025-12-03 21:04:38.319 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\13\渲染图\OK
+
+2025-12-03 21:04:40.441 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\14\原图\NG
+
+2025-12-03 21:04:40.504 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD1极性检测电芯\20251203\8\14\渲染图\NG
+
+2025-12-03 21:08:20.558 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\15\原图\OK
+
+2025-12-03 21:08:20.620 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\15\渲染图\OK
+
+2025-12-03 21:09:30.908 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\13\原图\NG
+
+2025-12-03 21:09:31.017 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\13\渲染图\NG
+
+2025-12-03 21:09:34.742 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\14\原图\NG
+
+2025-12-03 21:09:34.836 INFO  [9656] [Hkr_MkDir@286] hkr mkdir:D:\VisDummy\1_Image\CCD2极性检测电芯\20251203\8\14\渲染图\NG
+

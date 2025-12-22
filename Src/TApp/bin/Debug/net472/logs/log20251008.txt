@@ -1,0 +1,47 @@
+2025-10-08 16:27:43 [WRN] [TApp.Handlers.UILogNotificationHandler] 配置的方案路径不存在!请稍后手工加载
+2025-10-08 16:27:43 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[Loading]{ MST信号为空，将从PLC重新读取...}
+2025-10-08 16:27:43 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[Loading] MST信号已从PLC恢复
+2025-10-08 16:29:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-08 16:29:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-08 16:29:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：Floor:3,Column:1,Direction:2,X:158.73,Y:2227.786,Z:406.4118,A:-92.1598,B:0.2876,C:0.1154
+2025-10-08 16:30:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-08 17:02:05 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-08 17:02:05 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-08 17:02:05 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照失败：ErrMsg:无法将数据写入传输连接: 你的主机中的软件中止了一个已建立的连接。。
+2025-10-08 17:02:05 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：未知错误
+2025-10-08 17:02:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-08 17:02:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-08 17:02:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-08 17:02:22 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：Floor:3,Column:3,Direction:2,X:149.7672,Y:2194.569,Z:406.3509,A:87.939,B:-0.0014,C:0.003
+2025-10-08 17:03:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-08 17:06:30 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-08 17:06:30 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-08 17:06:33 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：Floor:3,Column:1,Direction:2,X:149.7948,Y:2194.496,Z:406.3553,A:87.9382,B:-0.0049,C:0.0093
+2025-10-08 17:06:33 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-08 17:09:10 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-08 17:09:10 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-08 17:09:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：Floor:3,Column:3,Direction:2,X:150.0036,Y:2194.642,Z:406.3522,A:87.9384,B:-0.0066,C:0.0037
+2025-10-08 17:09:14 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-08 17:10:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-08 17:10:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-08 17:10:27 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：Floor:3,Column:1,Direction:2,X:149.5558,Y:2194.47,Z:406.3576,A:87.9369,B:-0.0053,C:0.0072
+2025-10-08 17:10:27 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-08 17:17:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-08 17:17:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-08 17:17:20 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照失败：ErrMsg:Failed To Parse 110：数组长度=2,不足15
+2025-10-08 17:17:20 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：未知错误
+2025-10-08 17:17:25 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-08 17:17:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-08 17:17:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-08 17:17:34 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照失败：ErrMsg:Failed To Parse 110：数组长度=2,不足15
+2025-10-08 17:17:34 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：未知错误
+2025-10-08 17:17:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-08 17:17:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-08 17:17:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-08 17:17:48 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照失败：ErrMsg:Failed To Parse 110：数组长度=2,不足15
+2025-10-08 17:17:48 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：未知错误
+2025-10-08 17:17:53 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-08 17:17:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-08 17:17:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-08 17:18:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：Floor:2,Column:2,Direction:2,X:158.4092,Y:2523.869,Z:407.0759,A:87.8212,B:0.0574,C:0.0118
+2025-10-08 17:18:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化

@@ -1,0 +1,163 @@
+2025-10-30 08:54:35 [WRN] [TApp.Handlers.UILogNotificationHandler] 配置的方案路径不存在!请稍后手工加载
+2025-10-30 08:54:35 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
+2025-10-30 08:54:35 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
+2025-10-30 08:55:02 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录;【Account:Admin;Name:系统管理员】
+2025-10-30 09:00:13 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Error sending Data：OsSockerError=7;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.极性检测.极性检测Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\ShiJue\Src\VisDummy.Protocols\极性检测\PlcScanner.cs:行号 43
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-30 09:00:15 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-30 09:00:17 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-30 09:09:22 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 09:09:22 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;PhotoPosition:1;Batch:0
+2025-10-30 09:09:22 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Failed To Parse 输入参数状态:Cannot Find IO 输入参数状态 From Name;ImagePath:;ParameterStatus:0
+2025-10-30 09:09:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 09:09:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 09:09:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;PhotoPosition:1;Batch:0
+2025-10-30 09:09:58 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Failed To Parse 输入参数状态:Cannot Find IO 输入参数状态 From Name;ImagePath:;ParameterStatus:0
+2025-10-30 09:11:04 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 09:11:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 09:11:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 09:11:17 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Failed To Parse 图像路径:未将对象引用设置到对象的实例。;ImagePath:;ParameterStatus:0
+2025-10-30 09:13:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 09:13:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 09:13:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 09:13:12 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Failed To Parse 图像路径:未将对象引用设置到对象的实例。;ImagePath:;ParameterStatus:0
+2025-10-30 09:13:18 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 09:36:41 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录;【Account:Admin;Name:系统管理员】
+2025-10-30 09:43:45 [INF] [TApp.App] 正在停止后台服务: "VmSlnHostedService"
+2025-10-30 09:43:47 [INF] [TApp.App] 后台服务已停止: "VmSlnHostedService"
+2025-10-30 09:43:47 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 09:43:47 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 09:43:47 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 09:43:47 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 09:43:47 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 09:43:47 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 10:11:00 [WRN] [TApp.Handlers.UILogNotificationHandler] 配置的方案路径不存在!请稍后手工加载
+2025-10-30 10:11:00 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
+2025-10-30 10:11:00 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
+2025-10-30 10:11:21 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录;【Account:Admin;Name:系统管理员】
+2025-10-30 10:13:11 [INF] [TApp.App] 正在停止后台服务: "VmSlnHostedService"
+2025-10-30 10:13:13 [INF] [TApp.App] 后台服务已停止: "VmSlnHostedService"
+2025-10-30 10:13:13 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 10:13:13 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 10:13:13 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 10:13:13 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 10:13:13 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 10:13:13 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 10:13:21 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
+2025-10-30 10:13:21 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
+2025-10-30 10:13:26 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录;【Account:Admin;Name:系统管理员】
+2025-10-30 10:14:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 10:14:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;PhotoPosition:1;Batch:0
+2025-10-30 10:14:31 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Failed To Parse 输入参数状态:Cannot Find IO 输入参数状态 From Name;ImagePath:;ParameterStatus:0
+2025-10-30 10:14:32 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 10:14:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 10:14:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;PhotoPosition:1;Batch:0
+2025-10-30 10:14:57 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Failed To Parse 输入参数状态:Cannot Find IO 输入参数状态 From Name;ImagePath:;ParameterStatus:0
+2025-10-30 10:15:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 10:15:30 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 10:15:30 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 10:15:32 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Failed To Parse 输入参数状态:Cannot Find IO 输入参数状态 From Name;ImagePath:;ParameterStatus:0
+2025-10-30 10:16:05 [INF] [TApp.App] 正在停止后台服务: "VmSlnHostedService"
+2025-10-30 10:16:07 [INF] [TApp.App] 后台服务已停止: "VmSlnHostedService"
+2025-10-30 10:16:07 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 10:16:07 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 10:16:07 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 10:16:07 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 10:16:07 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 10:16:07 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 10:30:21 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
+2025-10-30 10:30:22 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
+2025-10-30 10:30:22 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 11:32:44 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录;【Account:Admin;Name:系统管理员】
+2025-10-30 11:34:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 11:34:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 11:36:54 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Msg_总输出状态NG;ImagePath:1111;ParameterStatus:1
+2025-10-30 11:36:54 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 11:41:27 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 11:41:27 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 11:41:30 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：CellLocation1:CellWhether:1;CellCode:001CBLC000000FF110108711;CellPolarity:1;CellVariety:2;;CellLocation2:CellWhether:1;CellCode:001CBLC000000FF2V0101433;CellPolarity:1;CellVariety:2;;ParameterStatus:1
+2025-10-30 11:41:30 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 11:56:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 11:56:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:0;PhotoPosition:1;Batch:0
+2025-10-30 11:56:56 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Failed To Parse 电芯码1:未将对象引用设置到对象的实例。;ImagePath:;ParameterStatus:0
+2025-10-30 11:56:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 11:58:05 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
+2025-10-30 11:58:05 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
+2025-10-30 11:58:05 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 11:58:05 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 11:59:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：CellLocation1:CellWhether:1;CellCode:001CBLC000000FF110108711;CellPolarity:1;CellVariety:2;;CellLocation2:CellWhether:1;CellCode:001CBLC000000FF2V0101433;CellPolarity:1;CellVariety:2;;ParameterStatus:1
+2025-10-30 11:59:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 11:59:48 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 11:59:48 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 11:59:55 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：CellLocation1:CellWhether:1;CellCode:001CBLC000000FF110108711;CellPolarity:1;CellVariety:2;;CellLocation2:CellWhether:1;CellCode:001CBLC000000FF2V0101433;CellPolarity:1;CellVariety:2;;ParameterStatus:1
+2025-10-30 11:59:55 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 13:09:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 13:09:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 13:09:34 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Msg_总输出状态NG;ImagePath:1111;ParameterStatus:1
+2025-10-30 13:09:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 13:09:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 13:09:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 13:09:58 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Msg_总输出状态NG;ImagePath:1111;ParameterStatus:1
+2025-10-30 13:09:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 13:10:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 13:10:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 13:10:02 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Msg_总输出状态NG;ImagePath:1111;ParameterStatus:1
+2025-10-30 13:10:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 13:10:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 13:10:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 13:10:04 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Msg_总输出状态NG;ImagePath:1111;ParameterStatus:1
+2025-10-30 13:10:04 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 13:12:10 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录;【Account:Admin;Name:系统管理员】
+2025-10-30 13:26:50 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 13:26:50 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 13:26:51 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:Msg_总输出状态NG;ImagePath:1111;ParameterStatus:1
+2025-10-30 13:27:36 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 13:52:39 [INF] [TApp.App] 正在停止后台服务: "VmSlnHostedService"
+2025-10-30 13:52:41 [INF] [TApp.App] 后台服务已停止: "VmSlnHostedService"
+2025-10-30 13:52:41 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 13:52:41 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 13:52:41 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 13:52:41 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 13:52:41 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 13:52:41 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 13:53:40 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
+2025-10-30 13:53:40 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
+2025-10-30 13:53:46 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录;【Account:Admin;Name:系统管理员】
+2025-10-30 13:53:55 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 13:53:55 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 13:53:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：CellLocation1:CellWhether:1;CellCode:001CBLC000000FF110108711;CellPolarity:1;CellVariety:2;;CellLocation2:CellWhether:1;CellCode:001CBLC000000FF2V0101433;CellPolarity:1;CellVariety:2;;ParameterStatus:1
+2025-10-30 13:53:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 13:54:47 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 13:54:47 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 13:54:47 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：CellLocation1:CellWhether:1;CellCode:001CBLC000000FF110108711;CellPolarity:1;CellVariety:2;;CellLocation2:CellWhether:1;CellCode:001CBLC000000FF2V0101433;CellPolarity:1;CellVariety:2;;ParameterStatus:1
+2025-10-30 13:54:47 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 14:01:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-30 14:01:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:3;PhotoPosition:1;Batch:0
+2025-10-30 14:01:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：CellLocation1:CellWhether:1;CellCode:001CBLC000000FF110108711;CellPolarity:1;CellVariety:2;;CellLocation2:CellWhether:1;CellCode:001CBLC000000FF2V0101433;CellPolarity:1;CellVariety:2;;ParameterStatus:1
+2025-10-30 14:01:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-30 14:10:10 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录;【Account:Admin;Name:系统管理员】
+2025-10-30 14:14:13 [INF] [TApp.App] 正在停止后台服务: "VmSlnHostedService"
+2025-10-30 14:14:15 [INF] [TApp.App] 后台服务已停止: "VmSlnHostedService"
+2025-10-30 14:14:15 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 14:14:15 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 14:14:15 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 14:14:15 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 14:14:15 [INF] [TApp.App] 正在停止后台服务: "PlcHostedService"
+2025-10-30 14:14:15 [INF] [TApp.App] 后台服务已停止: "PlcHostedService"
+2025-10-30 14:14:34 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
+2025-10-30 14:14:34 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
+2025-10-30 15:04:31 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
+2025-10-30 15:04:31 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
+2025-10-30 16:09:04 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录;【Account:Admin;Name:系统管理员】
+2025-10-30 16:26:35 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录;【Account:Admin;Name:系统管理员】

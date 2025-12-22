@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net472</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWPF>true</UseWPF>
+		<LangVersion>Latest</LangVersion>
+		<OutputType>Library</OutputType>
+		<VisionMasterDir>$(VisionMasterHome)</VisionMasterDir>
+		<VisionMasterHome>D:\VisionMaster4.4.0</VisionMasterHome>
+		<AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+	</PropertyGroup>
+	<ItemGroup>
+	  <PackageReference Include="Refit" Version="7.2.1" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\VisDummy.Lang\VisDummy.Lang.csproj" />
+		<ProjectReference Include="..\VisDummy.Shared\VisDummy.Shared.csproj" />
+		<ProjectReference Include="..\VisDummy.Abstractions\VisDummy.Abstractions.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<Reference Include="VM.PlatformSDKCS">
+			<HintPath>D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Development\V4.x\ComControls\Assembly\VM.PlatformSDKCS.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="VM.Core">
+			<HintPath>D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Development\V4.x\ComControls\Assembly\VM.Core.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="VMControls.Interface">
+			<HintPath>D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Development\V4.x\ComControls\Assembly\VMControls.Interface.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="VMControls.BaseInterface">
+			<HintPath>D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Development\V4.x\ComControls\Assembly\VMControls.BaseInterface.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="VMControls.RenderInterface">
+			<HintPath>D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Development\V4.x\ComControls\Assembly\VMControls.RenderInterface.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="VMControls.WPF.Release">
+			<HintPath>D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Development\V4.x\ComControls\Assembly\VMControls.WPF.Release.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="GlobalVariableModuleCs">
+			<HintPath>D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Development\V4.x\ComControls\Assembly\GlobalVariableModuleCs.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+	</ItemGroup>
+	<Import Project="..\.paket\Paket.Restore.targets" />
+</Project>
