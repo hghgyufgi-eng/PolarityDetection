@@ -52,6 +52,14 @@
 
                 <ctrl1:极性检测Station2DCtrl x:Name="station2d1" />
             </GroupBox>
+
+            <GroupBox
+                Grid.Row="3"
+                md:ColorZoneAssist.Foreground="White"
+                md:ColorZoneAssist.Mode="Custom">
+
+                <ctrl1:极性检测Station2DSpotCtrl x:Name="station2DSpot" />
+            </GroupBox>
         </Grid>
     </ScrollViewer>
 </UserControl>

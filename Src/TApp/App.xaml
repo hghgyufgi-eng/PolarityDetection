@@ -1,8 +1,8 @@
-﻿<Application
+<Application
     x:Class="TApp.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="clr-namespace:DummyShell"
+    xmlns:local="clr-namespace:TApp"
     xmlns:smartpack="clr-namespace:VisDummy.WPF.Converters;assembly=VisDummy.WPF"
     xmlns:sys="clr-namespace:System;assembly=System.Runtime"
     Startup="Application_Startup">
