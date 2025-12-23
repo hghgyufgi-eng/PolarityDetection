@@ -21,9 +21,14 @@ namespace VisDummy.WPF.ViewModels.Monitor
 
             ScanContextSubject.Select(c => c.DevMsg.Station2D).ToPropertyEx(this, x => x.DevMsg_2DStation, scheduler: RxApp.MainThreadScheduler);
             ScanContextSubject.Select(c => c.MstMsg.Station2D).ToPropertyEx(this, x => x.MstMsg_2DStation, scheduler: RxApp.MainThreadScheduler);
+
+            ScanContextSubject2.Select(c => c.DevMsg.Station2D1).ToPropertyEx(this, x => x.DevMsg_2DStation1, scheduler: RxApp.MainThreadScheduler);
+            ScanContextSubject2.Select(c => c.MstMsg.Station2D1).ToPropertyEx(this, x => x.MstMsg_2DStation1, scheduler: RxApp.MainThreadScheduler);
         }
 
-        public Subject<ScanContext> ScanContextSubject { get; } = new Subject<ScanContext>();
+        public Subject<Protocols.极性检测.ScanContext> ScanContextSubject { get; } = new Subject<Protocols.极性检测.ScanContext>();
+        public Subject<Protocols.极性检测2.ScanContext> ScanContextSubject2 { get; } = new Subject<Protocols.极性检测2.ScanContext>();
+
 
         [ObservableAsProperty]
         public Dev_CmdHeart Dev_CmdHeart { get; }
@@ -37,6 +42,11 @@ namespace VisDummy.WPF.ViewModels.Monitor
         [ObservableAsProperty]
         public MstMsg_2DStation MstMsg_2DStation { get; }
 
+        [ObservableAsProperty]
+        public DevMsg_2DStation DevMsg_2DStation1 { get; }
+
+        [ObservableAsProperty]
+        public MstMsg_2DStation MstMsg_2DStation1 { get; }
 
     }
 }

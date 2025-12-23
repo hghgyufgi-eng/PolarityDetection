@@ -8,7 +8,6 @@
              xmlns:common="clr-namespace:VisDummy.WPF.Common"
              xmlns:ctrl="clr-namespace:VisDummy.WPF.Views.Monitor.CommonCtrl"
              xmlns:ctrl1="clr-namespace:VisDummy.WPF.Views.Monitor.CommonCtrl.极性检测"
-             xmlns:ctrl2="clr-namespace:VisDummy.WPF.Views.Monitor.CommonCtrl.极性检测2"
              xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
              Background="White"
              mc:Ignorable="d"
@@ -51,7 +50,7 @@
                 md:ColorZoneAssist.Foreground="White"
                 md:ColorZoneAssist.Mode="Custom">
 
-                <ctrl2:极性检测Station2D1Ctrl x:Name="station2d1" />
+                <ctrl1:极性检测Station2DCtrl x:Name="station2d1" />
             </GroupBox>
         </Grid>
     </ScrollViewer>

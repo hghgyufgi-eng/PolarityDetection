@@ -635,3 +635,4 @@ E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\obj
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.sourcelink.json

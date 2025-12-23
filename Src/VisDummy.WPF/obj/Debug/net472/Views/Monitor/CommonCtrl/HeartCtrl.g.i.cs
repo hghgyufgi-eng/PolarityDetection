@@ -90,7 +90,7 @@ namespace VisDummy.WPF.Views.Monitor.CommonCtrl {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;V1.0.0.0;component/views/monitor/commonctrl/heartctrl.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;component/views/monitor/commonctrl/heartctrl.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\..\Views\Monitor\CommonCtrl\HeartCtrl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -37,7 +37,6 @@ namespace VisDummy.WPF
             Locator.CurrentMutable.RegisterLazySingletonEx<LoadingMonitorViewModel>(sp);
             Locator.CurrentMutable.RegisterLazySingletonEx<大面贴胶检测MonitorViewModel>(sp);
             Locator.CurrentMutable.RegisterLazySingletonEx<极性检测MonitorViewModel>(sp);
-            Locator.CurrentMutable.RegisterLazySingletonEx<极性检测2MonitorViewModel>(sp);
 
             //MT MES
             sp.RegisterMtMesViews();

@@ -1458,9 +1458,6 @@ E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.g.cs
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.g.cs
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.g.cs
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测2\极性检测DevTriggerCtrl.g.cs
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测2\极性检测MstReplyCtrl.g.cs
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测2\极性检测Station2D1Ctrl.g.cs
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.g.cs
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.g.cs
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.g.cs
@@ -1490,9 +1487,6 @@ E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测MstSpotCtrl.baml
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DCtrl.baml
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.baml
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测2\极性检测DevTriggerCtrl.baml
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测2\极性检测MstReplyCtrl.baml
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测2\极性检测Station2D1Ctrl.baml
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测DevTriggerCtrl.baml
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测MstReplyCtrl.baml
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\极性检测\极性检测Station2DCtrl.baml
@@ -1509,3 +1503,4 @@ E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.sourcelink.json

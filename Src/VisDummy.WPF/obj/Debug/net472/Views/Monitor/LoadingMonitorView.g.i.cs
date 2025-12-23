@@ -99,7 +99,7 @@ namespace VisDummy.WPF.Views.Monitor {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;V1.0.0.0;component/views/monitor/loadingmonitorview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;component/views/monitor/loadingmonitorview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\Monitor\LoadingMonitorView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

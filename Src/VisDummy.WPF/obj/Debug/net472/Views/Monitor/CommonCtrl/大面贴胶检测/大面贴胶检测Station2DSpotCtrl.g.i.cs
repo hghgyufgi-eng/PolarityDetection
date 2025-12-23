@@ -66,9 +66,9 @@ namespace VisDummy.WPF.Views.Monitor.CommonCtrl {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;V1.0.0.0;component/views/monitor/commonctrl/%e5%a4%a7%e9%9d%a2%e8%b" +
-                    "4%b4%e8%83%b6%e6%a3%80%e6%b5%8b/%e5%a4%a7%e9%9d%a2%e8%b4%b4%e8%83%b6%e6%a3%80%e6" +
-                    "%b5%8bstation2dspotctrl.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;component/views/monitor/commonctrl/%e5%a4%a7%e9%9d%a2%e8%b4%b4%e8%8" +
+                    "3%b6%e6%a3%80%e6%b5%8b/%e5%a4%a7%e9%9d%a2%e8%b4%b4%e8%83%b6%e6%a3%80%e6%b5%8bsta" +
+                    "tion2dspotctrl.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\..\..\Views\Monitor\CommonCtrl\大面贴胶检测\大面贴胶检测Station2DSpotCtrl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -16,5 +16,5 @@ TRACE;DEBUG;NETFRAMEWORK;NET472;;NET30_OR_GREATER;NET35_OR_GREATER;NET40_OR_GREA
 2482121403686
 CatlMes\CatlMesEditor.xaml;CatlMes\DataCollectForResourceFAICtrl.xaml;MtMes\MtMesCtrl.xaml;
 
-False
+True
 

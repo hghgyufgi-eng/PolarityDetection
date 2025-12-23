@@ -89,3 +89,4 @@ E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\obj
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.Mes.7E1DADA1.Up2Date
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.pdb
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\Catl.MesInvocation\obj\Debug\netstandard2.0\Catl.MesInvocation.sourcelink.json

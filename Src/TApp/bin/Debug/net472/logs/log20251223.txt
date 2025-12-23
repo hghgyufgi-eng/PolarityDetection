@@ -290,3 +290,13 @@
 2025-12-23 10:17:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:收到PLC拍照请求
 2025-12-23 10:17:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:视觉输入参数：Function:3;PhotoPosition:0;Batch:0,Phototimes:0
 2025-12-23 10:17:38 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：拍照失败：ErrMsg:加载流程失败:极性检测1;ImagePath:;ParameterStatus:0
+2025-12-23 11:50:44 [WRN] [TApp.Handlers.UILogNotificationHandler] 配置的方案路径不存在!请稍后手工加载
+2025-12-23 11:50:44 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
+2025-12-23 11:50:44 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测2]{ MST信号为空，将从PLC重新读取...}
+2025-12-23 11:50:44 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测2] MST信号已从PLC恢复
+2025-12-23 11:50:44 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
+2025-12-23 11:51:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：初始化
+2025-12-23 11:51:30 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:收到PLC拍照请求
+2025-12-23 11:51:30 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:视觉输入参数：Function:3;PhotoPosition:0;Batch:0,Phototimes:0
+2025-12-23 11:51:33 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：拍照失败：ErrMsg:加载流程失败:极性检测1;ImagePath:;ParameterStatus:0
+2025-12-23 11:51:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：初始化

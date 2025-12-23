@@ -27,7 +27,6 @@ namespace VisDummy.WPF.Views.Monitor
         {
             InitializeComponent();
             this.ViewModel = Locator.Current.GetRequiredService<极性检测MonitorViewModel>();
-            this.ViewModel2 = Locator.Current.GetRequiredService<极性检测2MonitorViewModel>();
             this.WhenActivated(d =>
             {
                 this.OneWayBind(this.ViewModel, vm => vm.Dev_CmdHeart, v => v.heart.DevMsg).DisposeWith(d);
@@ -36,8 +35,8 @@ namespace VisDummy.WPF.Views.Monitor
                 this.OneWayBind(this.ViewModel, vm => vm.DevMsg_2DStation, v => v.station2d.DevMsg).DisposeWith(d);
                 this.OneWayBind(this.ViewModel, vm => vm.MstMsg_2DStation, v => v.station2d.MstMsg).DisposeWith(d);
 
-                this.OneWayBind(this.ViewModel2, vm => vm.DevMsg_2DStation1, v => v.station2d1.DevMsg).DisposeWith(d);
-                this.OneWayBind(this.ViewModel2, vm => vm.MstMsg_2DStation1, v => v.station2d1.MstMsg).DisposeWith(d);
+                this.OneWayBind(this.ViewModel, vm => vm.DevMsg_2DStation1, v => v.station2d1.DevMsg).DisposeWith(d);
+                this.OneWayBind(this.ViewModel, vm => vm.MstMsg_2DStation1, v => v.station2d1.MstMsg).DisposeWith(d);
             });
         }
 
@@ -54,15 +53,6 @@ namespace VisDummy.WPF.Views.Monitor
             DependencyProperty.Register(nameof(ViewModel), typeof(极性检测MonitorViewModel), typeof(极性检测MonitorView), new PropertyMetadata(null));
         #endregion
 
-        #region ViewModel --极性检测2
-        public 极性检测2MonitorViewModel ViewModel2
-        {
-            get { return (极性检测2MonitorViewModel)GetValue(ViewModel2Property); }
-            set { SetValue(ViewModel2Property, value); }
-        }
-
-        public static readonly DependencyProperty ViewModel2Property =
-            DependencyProperty.Register(nameof(ViewModel2), typeof(极性检测2MonitorViewModel), typeof(极性检测MonitorView), new PropertyMetadata(null));
-        #endregion
+        
     }
 }
