@@ -1,7 +1,0 @@
-…			1970-01-01 08:06:29
-
-ExceptionCode : STACK_OVERFLOW
-
-CallStack:
-
-Frame 0: Unknow.dll!  Unknow

@@ -1,2 +1,0 @@
-2025-11-27 18:42:30 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
-2025-11-27 18:42:30 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
