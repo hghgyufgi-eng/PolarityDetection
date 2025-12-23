@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VisDummy.WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61fc1dbf74e6ea98f473e52cfb277d3e7f007150")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36fb4f636b759ef5ca085d83d4657b9f7d10a455")]
 [assembly: System.Reflection.AssemblyProductAttribute("VisDummy.WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VisDummy.WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

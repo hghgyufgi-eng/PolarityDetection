@@ -1503,4 +1503,3 @@ E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.sourcelink.json

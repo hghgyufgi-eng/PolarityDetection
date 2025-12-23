@@ -84,8 +84,8 @@ namespace VisDummy.WPF.Views.Monitor {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;V1.0.0.0;component/views/monitor/%e6%9e%81%e6%80%a7%e6%a3%80%e6%b5%" +
-                    "8bmonitorview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;component/views/monitor/%e6%9e%81%e6%80%a7%e6%a3%80%e6%b5%8bmonitor" +
+                    "view.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\Monitor\极性检测MonitorView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

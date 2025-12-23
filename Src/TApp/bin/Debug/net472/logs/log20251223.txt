@@ -300,3 +300,30 @@
 2025-12-23 11:51:30 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:视觉输入参数：Function:3;PhotoPosition:0;Batch:0,Phototimes:0
 2025-12-23 11:51:33 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：拍照失败：ErrMsg:加载流程失败:极性检测1;ImagePath:;ParameterStatus:0
 2025-12-23 11:51:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：初始化
+2025-12-23 13:45:01 [WRN] [TApp.Handlers.UILogNotificationHandler] 配置的方案路径不存在!请稍后手工加载
+2025-12-23 13:45:01 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
+2025-12-23 13:45:01 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测2]{ MST信号为空，将从PLC重新读取...}
+2025-12-23 13:45:01 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
+2025-12-23 13:45:01 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测2] MST信号已从PLC恢复
+2025-12-23 13:45:37 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.极性检测.极性检测Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测\PlcScanner.cs:行号 42
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 13:45:37 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.极性检测2.极性检测2Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测2\PlcScanner.cs:行号 42
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 13:45:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-12-23 13:45:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:收到PLC拍照请求
+2025-12-23 13:45:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:视觉输入参数：Function:0;PhotoPosition:0;Batch:0,Phototimes:0
+2025-12-23 13:45:57 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：拍照失败：ErrMsg:加载流程失败:极性检测1;ImagePath:;ParameterStatus:0
+2025-12-23 13:46:27 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-12-23 13:46:27 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:0;PhotoPosition:0;Batch:0,Phototimes:0
+2025-12-23 13:46:27 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:加载流程失败:极性检测1;ImagePath:;ParameterStatus:0
+2025-12-23 13:55:25 [WRN] [TApp.Handlers.UILogNotificationHandler] 配置的方案路径不存在!请稍后手工加载
+2025-12-23 13:55:25 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测2]{ MST信号为空，将从PLC重新读取...}
+2025-12-23 13:55:25 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
+2025-12-23 13:55:25 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
+2025-12-23 13:55:25 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测2] MST信号已从PLC恢复

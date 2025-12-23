@@ -9002,3 +9002,179 @@
 
 2025-12-23 11:51:01.684 INFO  [47068] [UnitPluginInstance@55] UnitPluginInstance - End
 
+2025-12-23 13:45:10.440 INFO  [31176] [CAuthorization::Init@57] Init begin.
+
+2025-12-23 13:45:10.440 INFO  [31176] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:45:10.440 ERROR [31176] [CDongleV4::LoadCfgParam@363] Load auth name file fail, [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server\ServerAuthName.ini].
+
+2025-12-23 13:45:10.447 ERROR [31176] [CDongleV4::GetLicenseWithState@412] MVIE_GetLicense return[-2]
+
+2025-12-23 13:45:10.447 ERROR [31176] [CDongleV4::GetLicenseInfo@473] GetLicenseWithState fail.
+
+2025-12-23 13:45:10.492 ERROR [31176] [CDongleV5::Login@70] MV_LoginLicense fail, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) ret[5], msg[There are no available local locks.]
+
+2025-12-23 13:45:10.492 ERROR [31176] [CDongleV5::GetLicenseInfo@242] Login fail. nRet[e0000700]
+
+2025-12-23 13:45:10.492 ERROR [31176] [CAuthorization::Init@110] Init MVIE_GetBurnParam failure.
+
+2025-12-23 13:45:10.492 ERROR [31176] [CAuthorization::Init@115] Not found usable dongle
+
+2025-12-23 13:45:10.492 INFO  [31176] [CAuthorization::StartCheckThread@208] StartCheckThread begin.
+
+2025-12-23 13:45:10.492 INFO  [31176] [CAuthorization::StartCheckThread@234] StartCheckThread end.
+
+2025-12-23 13:45:10.493 INFO  [31176] [CAuthorization::Init@119] Init end.
+
+2025-12-23 13:45:10.494 INFO  [23888] [CAuthorization::DoAuthCheck@260] DoAuthCheck begin.
+
+2025-12-23 13:45:10.496 ERROR [23888] [CDongleV4::GetLicenseWithState@412] MVIE_GetLicense return[-2]
+
+2025-12-23 13:45:10.496 ERROR [23888] [CDongleV4::GetLicenseInfo@473] GetLicenseWithState fail.
+
+2025-12-23 13:45:10.496 ERROR [23888] [CAuthorization::DoAuthCheck@273] Can not find v4 dongle
+
+2025-12-23 13:45:10.500 ERROR [23888] [CDongleV5::Login@70] MV_LoginLicense fail, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) ret[5], msg[There are no available local locks.]
+
+2025-12-23 13:45:10.500 ERROR [23888] [CDongleV5::GetLicenseInfo@242] Login fail. nRet[e0000700]
+
+2025-12-23 13:45:10.500 ERROR [23888] [CAuthorization::DoAuthCheck@296] Can not find v5 dongle and smart camera
+
+2025-12-23 13:45:13.543 ERROR [23888] [CDongleV4::GetLicenseWithState@412] MVIE_GetLicense return[-2]
+
+2025-12-23 13:45:13.543 ERROR [23888] [CDongleV4::GetLicenseInfo@473] GetLicenseWithState fail.
+
+2025-12-23 13:45:13.543 ERROR [23888] [CAuthorization::DoAuthCheck@273] Can not find v4 dongle
+
+2025-12-23 13:45:13.546 ERROR [23888] [CDongleV5::Login@70] MV_LoginLicense fail, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) ret[5], msg[There are no available local locks.]
+
+2025-12-23 13:45:13.546 ERROR [23888] [CDongleV5::GetLicenseInfo@242] Login fail. nRet[e0000700]
+
+2025-12-23 13:45:13.546 ERROR [23888] [CAuthorization::DoAuthCheck@296] Can not find v5 dongle and smart camera
+
+2025-12-23 13:45:16.016 INFO  [31176] [CAuthorization::StopCheckThead@245] StopCheckThead begin.
+
+2025-12-23 13:45:16.016 INFO  [23888] [CAuthorization::DoAuthCheck@358] DoAuthCheck end.
+
+2025-12-23 13:45:16.017 INFO  [31176] [CAuthorization::StopCheckThead@250] StopCheckThead end.
+
+2025-12-23 13:45:16.017 INFO  [31176] [CAuthorization::Uninit@134] Uninit end
+
+2025-12-23 13:45:10.497 INFO  [31176] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2025-12-23 13:45:10.497 INFO  [31176] [CMonitorResourceUsage::Init@47] Init begin.
+
+2025-12-23 13:45:10.497 INFO  [31176] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:45:10.498 INFO  [31176] [CMonitorResourceUsage::LoadCfgParam@449] Now resource monitor interval[5]
+
+2025-12-23 13:45:10.498 INFO  [31176] [CMonitorResourceUsage::StartMonitorThread@90] StartMonitorThread begin.
+
+2025-12-23 13:45:10.498 INFO  [31176] [CMonitorResourceUsage::StartMonitorThread@121] StartCheckThread end.
+
+2025-12-23 13:45:10.498 INFO  [31176] [InitPluginInstance@39] InitPluginInstance - End
+
+2025-12-23 13:45:10.498 INFO  [50104] [CMonitorResourceUsage::DoMonitorRes@176] DoMonitorResource begin.
+
+2025-12-23 13:45:10.498 INFO  [50104] [CMonitorResourceUsage::SystemVersionMoreThanWin10@155] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2025-12-23 13:45:10.498 INFO  [50104] [CMonitorResourceUsage::DoMonitorRes@200] Do not check process resource
+
+2025-12-23 13:45:16.017 INFO  [31176] [UnitPluginInstance@51] UnitPluginInstance - Begin
+
+2025-12-23 13:45:16.017 INFO  [31176] [CMonitorResourceUsage::StopMonitorThead@132] StopMonitorThead begin.
+
+2025-12-23 13:45:16.064 INFO  [50104] [CMonitorResourceUsage::DoMonitorRes@229] DoMonitorResource end, m_bExitMonitorThread is true
+
+2025-12-23 13:45:16.064 INFO  [31176] [CMonitorResourceUsage::StopMonitorThead@145] StopMonitorThead end.
+
+2025-12-23 13:45:16.064 INFO  [31176] [UnitPluginInstance@55] UnitPluginInstance - End
+
+2025-12-23 13:55:36.436 INFO  [21140] [CAuthorization::Init@57] Init begin.
+
+2025-12-23 13:55:36.436 INFO  [21140] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:55:36.436 ERROR [21140] [CDongleV4::LoadCfgParam@363] Load auth name file fail, [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server\ServerAuthName.ini].
+
+2025-12-23 13:55:36.446 ERROR [21140] [CDongleV4::GetLicenseWithState@412] MVIE_GetLicense return[-2]
+
+2025-12-23 13:55:36.446 ERROR [21140] [CDongleV4::GetLicenseInfo@473] GetLicenseWithState fail.
+
+2025-12-23 13:55:36.495 ERROR [21140] [CDongleV5::Login@70] MV_LoginLicense fail, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) ret[5], msg[There are no available local locks.]
+
+2025-12-23 13:55:36.495 ERROR [21140] [CDongleV5::GetLicenseInfo@242] Login fail. nRet[e0000700]
+
+2025-12-23 13:55:36.495 ERROR [21140] [CAuthorization::Init@110] Init MVIE_GetBurnParam failure.
+
+2025-12-23 13:55:36.495 ERROR [21140] [CAuthorization::Init@115] Not found usable dongle
+
+2025-12-23 13:55:36.495 INFO  [21140] [CAuthorization::StartCheckThread@208] StartCheckThread begin.
+
+2025-12-23 13:55:36.495 INFO  [21140] [CAuthorization::StartCheckThread@234] StartCheckThread end.
+
+2025-12-23 13:55:36.495 INFO  [21140] [CAuthorization::Init@119] Init end.
+
+2025-12-23 13:55:36.496 INFO  [49932] [CAuthorization::DoAuthCheck@260] DoAuthCheck begin.
+
+2025-12-23 13:55:36.497 ERROR [49932] [CDongleV4::GetLicenseWithState@412] MVIE_GetLicense return[-2]
+
+2025-12-23 13:55:36.497 ERROR [49932] [CDongleV4::GetLicenseInfo@473] GetLicenseWithState fail.
+
+2025-12-23 13:55:36.497 ERROR [49932] [CAuthorization::DoAuthCheck@273] Can not find v4 dongle
+
+2025-12-23 13:55:36.502 ERROR [49932] [CDongleV5::Login@70] MV_LoginLicense fail, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) ret[5], msg[There are no available local locks.]
+
+2025-12-23 13:55:36.502 ERROR [49932] [CDongleV5::GetLicenseInfo@242] Login fail. nRet[e0000700]
+
+2025-12-23 13:55:36.503 ERROR [49932] [CAuthorization::DoAuthCheck@296] Can not find v5 dongle and smart camera
+
+2025-12-23 13:55:39.560 ERROR [49932] [CDongleV4::GetLicenseWithState@412] MVIE_GetLicense return[-2]
+
+2025-12-23 13:55:39.560 ERROR [49932] [CDongleV4::GetLicenseInfo@473] GetLicenseWithState fail.
+
+2025-12-23 13:55:39.560 ERROR [49932] [CAuthorization::DoAuthCheck@273] Can not find v4 dongle
+
+2025-12-23 13:55:39.563 ERROR [49932] [CDongleV5::Login@70] MV_LoginLicense fail, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) ret[5], msg[There are no available local locks.]
+
+2025-12-23 13:55:39.563 ERROR [49932] [CDongleV5::GetLicenseInfo@242] Login fail. nRet[e0000700]
+
+2025-12-23 13:55:39.563 ERROR [49932] [CAuthorization::DoAuthCheck@296] Can not find v5 dongle and smart camera
+
+2025-12-23 13:55:41.994 INFO  [21140] [CAuthorization::StopCheckThead@245] StopCheckThead begin.
+
+2025-12-23 13:55:41.994 INFO  [49932] [CAuthorization::DoAuthCheck@358] DoAuthCheck end.
+
+2025-12-23 13:55:41.994 INFO  [21140] [CAuthorization::StopCheckThead@250] StopCheckThead end.
+
+2025-12-23 13:55:41.994 INFO  [21140] [CAuthorization::Uninit@134] Uninit end
+
+2025-12-23 13:55:36.499 INFO  [21140] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2025-12-23 13:55:36.499 INFO  [21140] [CMonitorResourceUsage::Init@47] Init begin.
+
+2025-12-23 13:55:36.499 INFO  [21140] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:55:36.500 INFO  [21140] [CMonitorResourceUsage::LoadCfgParam@449] Now resource monitor interval[5]
+
+2025-12-23 13:55:36.500 INFO  [21140] [CMonitorResourceUsage::StartMonitorThread@90] StartMonitorThread begin.
+
+2025-12-23 13:55:36.500 INFO  [21140] [CMonitorResourceUsage::StartMonitorThread@121] StartCheckThread end.
+
+2025-12-23 13:55:36.500 INFO  [21140] [InitPluginInstance@39] InitPluginInstance - End
+
+2025-12-23 13:55:36.501 INFO  [28800] [CMonitorResourceUsage::DoMonitorRes@176] DoMonitorResource begin.
+
+2025-12-23 13:55:36.501 INFO  [28800] [CMonitorResourceUsage::SystemVersionMoreThanWin10@155] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2025-12-23 13:55:36.501 INFO  [28800] [CMonitorResourceUsage::DoMonitorRes@200] Do not check process resource
+
+2025-12-23 13:55:41.995 INFO  [21140] [UnitPluginInstance@51] UnitPluginInstance - Begin
+
+2025-12-23 13:55:41.995 INFO  [21140] [CMonitorResourceUsage::StopMonitorThead@132] StopMonitorThead begin.
+
+2025-12-23 13:55:42.031 INFO  [28800] [CMonitorResourceUsage::DoMonitorRes@229] DoMonitorResource end, m_bExitMonitorThread is true
+
+2025-12-23 13:55:42.031 INFO  [21140] [CMonitorResourceUsage::StopMonitorThead@145] StopMonitorThead end.
+
+2025-12-23 13:55:42.031 INFO  [21140] [UnitPluginInstance@55] UnitPluginInstance - End
+

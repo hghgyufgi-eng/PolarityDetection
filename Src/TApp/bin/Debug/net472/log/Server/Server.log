@@ -143226,3 +143226,299 @@
 
 2025-12-23 11:51:01.688 INFO  [47068] [PF_M_Deinit@64] [Deinit] [End] PF_M_Deinit end.
 
+2025-12-23 13:45:10.232 INFO  [31176] [PF_M_Init@33] ===========PF_M_Init main begin. Version[V4.3.0, build Nov 28 2023, 13:54:13] Process[TApp.exe]===========
+
+2025-12-23 13:45:10.232 INFO  [31176] [PF_M_Init@34] [Init] [Begin]
+
+2025-12-23 13:45:10.232 INFO  [31176] [CiMVSWorkJob::Init@127] [Init] Client manager init begin.
+
+2025-12-23 13:45:10.232 INFO  [31176] [CiMVSWorkJob::Init@179] [Init] Client manager init end.
+
+2025-12-23 13:45:10.232 INFO  [31176] [CiMVSWorkJob::StartRun@1943] [Init] StartRun begin, client type[2], 0:vm, 1:export process, 2:other.
+
+2025-12-23 13:45:10.232 INFO  [31176] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:45:10.232 INFO  [21960] [LogDllOpr::ClearInvalidUiMapFileDir@432] [Init] Clear invalid ui mapping file dir begin, currunt pid[37188]
+
+2025-12-23 13:45:10.233 INFO  [31176] [CUiParamSetBase::SetChunkDataThreshold@663] ChunkDataThreshold[20971520]
+
+2025-12-23 13:45:10.233 INFO  [31176] [CUiParamSetBase::SetUiChunkMapWhenLoad@881] UiChunkDataMap[0] when load
+
+2025-12-23 13:45:10.233 INFO  [31176] [CiMVSWorkJob::LoadCfgParam@5092] [Init] Get config param, Now RepAddr[tcp://127.0.0.1:5556] memory[98] IsSamePc[1] loadTimeoutmin[180000] loadTimeoutmax[300000] AutoLoadSoluDelay[30000]
+
+2025-12-23 13:45:10.233 INFO  [31176] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:45:10.233 INFO  [31176] [CPluginMgr::LoadCfgParam@524] Now plugin type[0], dongle type[0]
+
+2025-12-23 13:45:10.233 INFO  [31176] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:45:10.234 INFO  [9764] [FilterNodeManagerForSP::Init@148] [Init] Module manager init begin
+
+2025-12-23 13:45:10.234 INFO  [9764] [FilterNodeManagerForSP::LoadCfgParam@555] Now procedure count[64], token source[VisionMasterServerApp.exe]
+
+2025-12-23 13:45:10.234 INFO  [9764] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:45:10.234 WARN  [31176] [CFileHandlerMng::InitAutoSaveSol@685] [Init] Can not find file, use default value
+
+2025-12-23 13:45:10.234 INFO  [31176] [CiMVSWorkJob::StartRun@1976] [Init] Process mode[0]
+
+2025-12-23 13:45:10.234 INFO  [31176] [CPluginMgr::Init@47] [Init] Plugin manager init begin
+
+2025-12-23 13:45:10.234 INFO  [31176] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:45:10.234 INFO  [43316] [CFileHandlerMng::DoSolutionOperate@317] DoSolutionOperate begin.
+
+2025-12-23 13:45:10.234 INFO  [9764] [CDynamicParam::GetMaxModuleCount@148] Max module count [1024]
+
+2025-12-23 13:45:10.234 INFO  [9764] [FilterNodeManagerForSP::Init@204] [Init] Load proxy dll
+
+2025-12-23 13:45:10.234 INFO  [9764] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:45:10.234 INFO  [31176] [CPluginMgr::LoadCfgParam@524] Now plugin type[0], dongle type[0]
+
+2025-12-23 13:45:10.234 INFO  [31176] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:45:10.234 INFO  [31176] [CPluginMgr::CheckAuthorityPlugFile@548] [Init] Read file begin
+
+2025-12-23 13:45:10.238 INFO  [31176] [CPluginMgr::CheckAuthorityPlugFile@550] [Init] Read file end
+
+2025-12-23 13:45:10.239 INFO  [9764] [CLoadProxyDll::LoadDll@38] Load [D:/Program Files/VMV4.4.0_240813/VM4.3.0_240813_setup/VisionMaster4.3.0/Applications/ModuleProxy/x64/ModuleProxy.dll] success.
+
+2025-12-23 13:45:10.243 INFO  [31176] [CPluginMgr::CheckAuthorityPlugFile@552] [Init] convert data end
+
+2025-12-23 13:45:10.243 INFO  [31176] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:45:10.245 INFO  [21960] [LogDllOpr::ClearInvalidUiMapFileDir@464] [Init] Pid[11856] does not exist, now remove it,[E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\TApp\bin\Debug\net472\UiMapFile\11856]
+
+2025-12-23 13:45:10.258 INFO  [21960] [LogDllOpr::ClearInvalidUiMapFileDir@469] [Init] Pid[37188] already exist
+
+2025-12-23 13:45:10.258 INFO  [21960] [LogDllOpr::ClearInvalidUiMapFileDir@477] [Init] Clear invalid ui mapping file dir end
+
+2025-12-23 13:45:10.435 INFO  [31176] [CPluginMgr::LoadComponent@137] Load [PlugAuthorization.dll] success.
+
+2025-12-23 13:45:10.435 INFO  [31176] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:45:10.437 INFO  [31176] [CPluginMgr::LoadComponent@137] Load [PlugMonitorResource.dll] success.
+
+2025-12-23 13:45:10.445 INFO  [9764] [FilterNodeManagerForSP::Init@224] [Init] VM_PROXY_Init finish
+
+2025-12-23 13:45:10.445 INFO  [9764] [FilterNodeManagerForSP::Init@232] [Init] VM_PROXY_SetServerCallBack finish
+
+2025-12-23 13:45:10.446 INFO  [9764] [FilterNodeManagerForSP::Init@240] [Init] Module manager init finish
+
+2025-12-23 13:45:10.498 INFO  [31176] [CPluginMgr::Init@89] [Init] Plugin manager init finish
+
+2025-12-23 13:45:10.498 ERROR [31176] [CPluginMgr::GetAuthorizationInfo@465] GetAuthorizationInfo auth[e0000700]
+
+2025-12-23 13:45:10.498 INFO  [31176] [CiMVSWorkJob::StartRun@2001] [Init] Now dongle state [e0000700]
+
+2025-12-23 13:45:10.498 INFO  [31176] [FilterNodeManagerForSP::UpdateDongleInfoToProxy@9556] Dongle state[-536869120] camera count[0]
+
+2025-12-23 13:45:10.498 INFO  [31176] [CiMVSWorkJob::StartRun@2021] [Init] StartRun end.
+
+2025-12-23 13:45:10.498 INFO  [31176] [PF_M_Init@49] [Init] [End] PF_M_Init end.
+
+2025-12-23 13:45:10.498 INFO  [31176] [FilterNodeManagerForSP::SPSetSdkCallback@9456] SPSetSdkCallback
+
+2025-12-23 13:45:10.498 INFO  [31176] [CGlobalSriptMng::SetCallback4Single@1922] pCallback[00007FFD0CF51DA0] userdata[00007FFD0D68A230]
+
+2025-12-23 13:45:10.498 ERROR [31176] [CPluginMgr::GetAuthorizationInfo@465] GetAuthorizationInfo auth[e0000700]
+
+2025-12-23 13:45:10.498 ERROR [31176] [CPluginMgr::GetAuthorizationInfo@465] GetAuthorizationInfo auth[e0000700]
+
+2025-12-23 13:45:10.498 INFO  [31176] [CiMVSWorkJob::SendMainPubMsg@4160] Callback msg to client begin, [2063--536869120**0*0]
+
+2025-12-23 13:45:10.498 INFO  [31176] [CiMVSWorkJob::SendMainPubMsg@4167] Callback msg to client end, ret[0]
+
+2025-12-23 13:45:10.499 INFO  [31176] [CiMVSWorkJob::SetPubMsgCallback@7130] Begin
+
+2025-12-23 13:45:10.499 INFO  [31176] [CiMVSWorkJob::SetPubMsgCallback@7134] End
+
+2025-12-23 13:45:10.499 INFO  [31176] [CiMVSWorkJob::SetReportModuleMsgCallback@7711] Begin
+
+2025-12-23 13:45:10.499 INFO  [31176] [CiMVSWorkJob::SetReportModuleMsgCallback@7715] End
+
+2025-12-23 13:45:10.499 INFO  [31176] [FilterNodeManagerForSP::SPSetSdkCallback@9456] SPSetSdkCallback
+
+2025-12-23 13:45:10.499 INFO  [31176] [PF_M_Deinit@56] [Deinit] [Begin] PF_M_Deinit begin.
+
+2025-12-23 13:45:10.499 INFO  [31176] [CiMVSWorkJob::StopRun@2031] [Deinit] StopRun begin.
+
+2025-12-23 13:45:10.499 INFO  [31176] [FilterNodeManagerForSP::DeInit@250] [Deinit] Module manager deinit begin.
+
+2025-12-23 13:45:16.015 INFO  [31176] [CModuleManagerBase::DeleteAllModule@514] DeleteAllModule.
+
+2025-12-23 13:45:16.015 INFO  [31176] [FilterNodeManagerForSP::DeleteAllProcedureMngPtr@3385] Delete all procedureMngPtr 
+
+2025-12-23 13:45:16.015 INFO  [31176] [FilterNodeManagerForSP::DeInit@290] [Deinit] Module manager deinit finish.
+
+2025-12-23 13:45:16.015 INFO  [31176] [CFileHandlerMng::Deinit@202] [Deinit] Deinit begin
+
+2025-12-23 13:45:16.015 INFO  [43316] [CFileHandlerMng::DoSolutionOperate@370] DoSolutionOperate end.
+
+2025-12-23 13:45:16.016 INFO  [31176] [CModuleManagerBase::DeleteAllModule@514] DeleteAllModule.
+
+2025-12-23 13:45:16.016 INFO  [31176] [FilterNodeManagerForSP::UnloadProxyDll@297] [Deinit] Unload proxy dll.
+
+2025-12-23 13:45:16.016 INFO  [31176] [CiMVSWorkJob::StopRun@2060] [Deinit] StopRun end.
+
+2025-12-23 13:45:16.016 INFO  [31176] [CiMVSWorkJob::DeInit@1872] [Deinit] Client manager deinit begin.
+
+2025-12-23 13:45:16.016 INFO  [31176] [CPluginMgr::Unit@100] [Deinit] Plugin manager Deinit begin
+
+2025-12-23 13:45:16.068 INFO  [31176] [CPluginMgr::Unit@107] [Deinit] Plugin manager Deinit finish
+
+2025-12-23 13:45:16.068 INFO  [31176] [CUiSolutionParam::~CUiSolutionParam@22] [Deinit] ~CUiSolutionParam
+
+2025-12-23 13:45:16.068 INFO  [31176] [CiMVSWorkJob::DeInit@1890] [Deinit] Client manager deinit finish.
+
+2025-12-23 13:45:16.068 INFO  [31176] [PF_M_Deinit@64] [Deinit] [End] PF_M_Deinit end.
+
+2025-12-23 13:55:36.235 INFO  [21140] [PF_M_Init@33] ===========PF_M_Init main begin. Version[V4.3.0, build Nov 28 2023, 13:54:13] Process[TApp.exe]===========
+
+2025-12-23 13:55:36.235 INFO  [21140] [PF_M_Init@34] [Init] [Begin]
+
+2025-12-23 13:55:36.235 INFO  [21140] [CiMVSWorkJob::Init@127] [Init] Client manager init begin.
+
+2025-12-23 13:55:36.235 INFO  [21140] [CiMVSWorkJob::Init@179] [Init] Client manager init end.
+
+2025-12-23 13:55:36.235 INFO  [21140] [CiMVSWorkJob::StartRun@1943] [Init] StartRun begin, client type[2], 0:vm, 1:export process, 2:other.
+
+2025-12-23 13:55:36.235 INFO  [21140] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:55:36.235 INFO  [34596] [LogDllOpr::ClearInvalidUiMapFileDir@432] [Init] Clear invalid ui mapping file dir begin, currunt pid[46420]
+
+2025-12-23 13:55:36.236 INFO  [21140] [CUiParamSetBase::SetChunkDataThreshold@663] ChunkDataThreshold[20971520]
+
+2025-12-23 13:55:36.236 INFO  [21140] [CUiParamSetBase::SetUiChunkMapWhenLoad@881] UiChunkDataMap[0] when load
+
+2025-12-23 13:55:36.236 INFO  [21140] [CiMVSWorkJob::LoadCfgParam@5092] [Init] Get config param, Now RepAddr[tcp://127.0.0.1:5556] memory[98] IsSamePc[1] loadTimeoutmin[180000] loadTimeoutmax[300000] AutoLoadSoluDelay[30000]
+
+2025-12-23 13:55:36.236 INFO  [21140] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:55:36.236 INFO  [21140] [CPluginMgr::LoadCfgParam@524] Now plugin type[0], dongle type[0]
+
+2025-12-23 13:55:36.236 INFO  [21140] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:55:36.236 INFO  [28724] [FilterNodeManagerForSP::Init@148] [Init] Module manager init begin
+
+2025-12-23 13:55:36.236 INFO  [28724] [FilterNodeManagerForSP::LoadCfgParam@555] Now procedure count[64], token source[VisionMasterServerApp.exe]
+
+2025-12-23 13:55:36.236 INFO  [28724] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:55:36.236 WARN  [21140] [CFileHandlerMng::InitAutoSaveSol@685] [Init] Can not find file, use default value
+
+2025-12-23 13:55:36.236 INFO  [21140] [CiMVSWorkJob::StartRun@1976] [Init] Process mode[0]
+
+2025-12-23 13:55:36.236 INFO  [21140] [CPluginMgr::Init@47] [Init] Plugin manager init begin
+
+2025-12-23 13:55:36.236 INFO  [21140] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:55:36.237 INFO  [50952] [CFileHandlerMng::DoSolutionOperate@317] DoSolutionOperate begin.
+
+2025-12-23 13:55:36.237 INFO  [28724] [CDynamicParam::GetMaxModuleCount@148] Max module count [1024]
+
+2025-12-23 13:55:36.237 INFO  [28724] [FilterNodeManagerForSP::Init@204] [Init] Load proxy dll
+
+2025-12-23 13:55:36.237 INFO  [28724] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:55:36.237 INFO  [21140] [CPluginMgr::LoadCfgParam@524] Now plugin type[0], dongle type[0]
+
+2025-12-23 13:55:36.237 INFO  [21140] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:55:36.237 INFO  [21140] [CPluginMgr::CheckAuthorityPlugFile@548] [Init] Read file begin
+
+2025-12-23 13:55:36.239 INFO  [21140] [CPluginMgr::CheckAuthorityPlugFile@550] [Init] Read file end
+
+2025-12-23 13:55:36.240 INFO  [28724] [CLoadProxyDll::LoadDll@38] Load [D:/Program Files/VMV4.4.0_240813/VM4.3.0_240813_setup/VisionMaster4.3.0/Applications/ModuleProxy/x64/ModuleProxy.dll] success.
+
+2025-12-23 13:55:36.245 INFO  [34596] [LogDllOpr::ClearInvalidUiMapFileDir@464] [Init] Pid[37188] does not exist, now remove it,[E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\TApp\bin\Debug\net472\UiMapFile\37188]
+
+2025-12-23 13:55:36.246 INFO  [21140] [CPluginMgr::CheckAuthorityPlugFile@552] [Init] convert data end
+
+2025-12-23 13:55:36.246 INFO  [21140] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:55:36.255 INFO  [34596] [LogDllOpr::ClearInvalidUiMapFileDir@469] [Init] Pid[46420] already exist
+
+2025-12-23 13:55:36.255 INFO  [34596] [LogDllOpr::ClearInvalidUiMapFileDir@477] [Init] Clear invalid ui mapping file dir end
+
+2025-12-23 13:55:36.429 INFO  [21140] [CPluginMgr::LoadComponent@137] Load [PlugAuthorization.dll] success.
+
+2025-12-23 13:55:36.429 INFO  [21140] [GetDllFilePath@262] path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\Server]
+
+2025-12-23 13:55:36.432 INFO  [21140] [CPluginMgr::LoadComponent@137] Load [PlugMonitorResource.dll] success.
+
+2025-12-23 13:55:36.444 INFO  [28724] [FilterNodeManagerForSP::Init@224] [Init] VM_PROXY_Init finish
+
+2025-12-23 13:55:36.444 INFO  [28724] [FilterNodeManagerForSP::Init@232] [Init] VM_PROXY_SetServerCallBack finish
+
+2025-12-23 13:55:36.444 INFO  [28724] [FilterNodeManagerForSP::Init@240] [Init] Module manager init finish
+
+2025-12-23 13:55:36.500 INFO  [21140] [CPluginMgr::Init@89] [Init] Plugin manager init finish
+
+2025-12-23 13:55:36.500 ERROR [21140] [CPluginMgr::GetAuthorizationInfo@465] GetAuthorizationInfo auth[e0000700]
+
+2025-12-23 13:55:36.500 INFO  [21140] [CiMVSWorkJob::StartRun@2001] [Init] Now dongle state [e0000700]
+
+2025-12-23 13:55:36.500 INFO  [21140] [FilterNodeManagerForSP::UpdateDongleInfoToProxy@9556] Dongle state[-536869120] camera count[0]
+
+2025-12-23 13:55:36.501 INFO  [21140] [CiMVSWorkJob::StartRun@2021] [Init] StartRun end.
+
+2025-12-23 13:55:36.501 INFO  [21140] [PF_M_Init@49] [Init] [End] PF_M_Init end.
+
+2025-12-23 13:55:36.501 INFO  [21140] [FilterNodeManagerForSP::SPSetSdkCallback@9456] SPSetSdkCallback
+
+2025-12-23 13:55:36.501 INFO  [21140] [CGlobalSriptMng::SetCallback4Single@1922] pCallback[00007FFD0CF51DA0] userdata[00007FFD0D68A230]
+
+2025-12-23 13:55:36.501 ERROR [21140] [CPluginMgr::GetAuthorizationInfo@465] GetAuthorizationInfo auth[e0000700]
+
+2025-12-23 13:55:36.501 ERROR [21140] [CPluginMgr::GetAuthorizationInfo@465] GetAuthorizationInfo auth[e0000700]
+
+2025-12-23 13:55:36.501 INFO  [21140] [CiMVSWorkJob::SendMainPubMsg@4160] Callback msg to client begin, [2063--536869120**0*0]
+
+2025-12-23 13:55:36.501 INFO  [21140] [CiMVSWorkJob::SendMainPubMsg@4167] Callback msg to client end, ret[0]
+
+2025-12-23 13:55:36.501 INFO  [21140] [CiMVSWorkJob::SetPubMsgCallback@7130] Begin
+
+2025-12-23 13:55:36.501 INFO  [21140] [CiMVSWorkJob::SetPubMsgCallback@7134] End
+
+2025-12-23 13:55:36.501 INFO  [21140] [CiMVSWorkJob::SetReportModuleMsgCallback@7711] Begin
+
+2025-12-23 13:55:36.501 INFO  [21140] [CiMVSWorkJob::SetReportModuleMsgCallback@7715] End
+
+2025-12-23 13:55:36.501 INFO  [21140] [FilterNodeManagerForSP::SPSetSdkCallback@9456] SPSetSdkCallback
+
+2025-12-23 13:55:36.501 INFO  [21140] [PF_M_Deinit@56] [Deinit] [Begin] PF_M_Deinit begin.
+
+2025-12-23 13:55:36.501 INFO  [21140] [CiMVSWorkJob::StopRun@2031] [Deinit] StopRun begin.
+
+2025-12-23 13:55:36.501 INFO  [21140] [FilterNodeManagerForSP::DeInit@250] [Deinit] Module manager deinit begin.
+
+2025-12-23 13:55:41.993 INFO  [21140] [CModuleManagerBase::DeleteAllModule@514] DeleteAllModule.
+
+2025-12-23 13:55:41.993 INFO  [21140] [FilterNodeManagerForSP::DeleteAllProcedureMngPtr@3385] Delete all procedureMngPtr 
+
+2025-12-23 13:55:41.993 INFO  [21140] [FilterNodeManagerForSP::DeInit@290] [Deinit] Module manager deinit finish.
+
+2025-12-23 13:55:41.993 INFO  [21140] [CFileHandlerMng::Deinit@202] [Deinit] Deinit begin
+
+2025-12-23 13:55:41.993 INFO  [50952] [CFileHandlerMng::DoSolutionOperate@370] DoSolutionOperate end.
+
+2025-12-23 13:55:41.993 INFO  [21140] [CModuleManagerBase::DeleteAllModule@514] DeleteAllModule.
+
+2025-12-23 13:55:41.993 INFO  [21140] [FilterNodeManagerForSP::UnloadProxyDll@297] [Deinit] Unload proxy dll.
+
+2025-12-23 13:55:41.994 INFO  [21140] [CiMVSWorkJob::StopRun@2060] [Deinit] StopRun end.
+
+2025-12-23 13:55:41.994 INFO  [21140] [CiMVSWorkJob::DeInit@1872] [Deinit] Client manager deinit begin.
+
+2025-12-23 13:55:41.994 INFO  [21140] [CPluginMgr::Unit@100] [Deinit] Plugin manager Deinit begin
+
+2025-12-23 13:55:42.034 INFO  [21140] [CPluginMgr::Unit@107] [Deinit] Plugin manager Deinit finish
+
+2025-12-23 13:55:42.034 INFO  [21140] [CUiSolutionParam::~CUiSolutionParam@22] [Deinit] ~CUiSolutionParam
+
+2025-12-23 13:55:42.034 INFO  [21140] [CiMVSWorkJob::DeInit@1890] [Deinit] Client manager deinit finish.
+
+2025-12-23 13:55:42.034 INFO  [21140] [PF_M_Deinit@64] [Deinit] [End] PF_M_Deinit end.
+

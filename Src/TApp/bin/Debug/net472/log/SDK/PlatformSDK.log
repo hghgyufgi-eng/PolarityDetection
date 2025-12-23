@@ -327846,3 +327846,431 @@
 
 2025-12-23 11:51:01.744 ERROR [47068] [CClientManager::PF_CreateHandle@1749] [Init] SDK: PF_CreateHandle SM_Init fail. nRet = [e0000700]
 
+2025-12-23 13:45:09.742 INFO  [31176] [CServerManager::InitLog@35999] [Init] [Begin]======================================== V4.3.0 Build Aug 22 2023 10:14:22 Start Print Log ========================================
+
+2025-12-23 13:45:09.742 INFO  [31176] [CClientManager::Init@5333] [Init] begin.
+
+2025-12-23 13:45:09.742 INFO  [31176] [CClientManager::Init@5355] [Init] end.nRet[0]
+
+2025-12-23 13:45:09.742 INFO  [31176] [CServerManager::SM_SP_LoadLib@377] [Init] start
+
+2025-12-23 13:45:09.742 INFO  [31176] [CServerManager::SM_SP_LoadLib@471] [Init] SDK: SM_SP_LoadLib Load Server Lib. Path: [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\PublicFile\x64\..\..\Server\PlatformManager.dll]
+
+2025-12-23 13:45:09.748 INFO  [31176] [CServerManager::SM_SP_LoadLib@561] [Init] end
+
+2025-12-23 13:45:09.748 INFO  [31176] [CGScriptManager::GM_SP_UnLoadLib@130] start
+
+2025-12-23 13:45:09.748 INFO  [31176] [CGScriptManager::GM_SP_UnLoadLib@150] end
+
+2025-12-23 13:45:09.748 INFO  [31176] [CGScriptManager::GM_SP_LoadLib@34] start
+
+2025-12-23 13:45:09.750 INFO  [31176] [CGScriptManager::GM_SP_LoadLib@123] end
+
+2025-12-23 13:45:09.750 INFO  [31176] [CClientManager::PF_CreateHandle@1685] [Init] begin. nHandleType:[0]
+
+2025-12-23 13:45:09.750 INFO  [31176] [CClientManager::PF_CreateHandle@1719] [Init] SDK: Third software start server by exe.
+
+2025-12-23 13:45:09.750 INFO  [31176] [CServerManager::SM_SP_InitGLobalScript@25173] [Init] start
+
+2025-12-23 13:45:09.750 INFO  [31176] [CGScriptManager::GM_SP_GScriptInit@156] start
+
+2025-12-23 13:45:09.751 INFO  [52652] [DoStartServerApp@29] Begin
+
+2025-12-23 13:45:09.751 INFO  [52652] [CClientManager::StartAndRegisterServerApp@253] Server app path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:45:09.762 INFO  [52652] [CClientManager::StartAndRegisterServerApp@259] Need start server app
+
+2025-12-23 13:45:09.762 INFO  [52652] [CClientManager::StartServerApp@104] [Init] Start serverApp process[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:45:10.227 INFO  [31176] [CGScriptManager::GM_SP_GScriptInit@177] end
+
+2025-12-23 13:45:10.227 INFO  [31176] [CServerManager::SM_SP_InitGLobalScript@25191] [Init] end
+
+2025-12-23 13:45:10.227 INFO  [31176] [CClientManager::PF_CreateHandle@1734] [Init] SDK: Init server by exe. Server proc id:[0]
+
+2025-12-23 13:45:10.227 INFO  [31176] [CServerManager::SM_Init@912] start
+
+2025-12-23 13:45:10.227 INFO  [31176] [CServerManager::DeInit@24205] start
+
+2025-12-23 13:45:10.227 INFO  [31176] [CServerManager::DeInitServerLib@692] start
+
+2025-12-23 13:45:10.227 INFO  [31176] [CServerManager::SM_SP_ServerSetMsgCallback@772] start
+
+2025-12-23 13:45:10.227 INFO  [31176] [CServerManager::SM_SP_ServerSetMsgCallback@786] end
+
+2025-12-23 13:45:10.227 INFO  [31176] [CServerManager::SM_SP_ServerSetModuleDataCallback@812] start
+
+2025-12-23 13:45:10.227 INFO  [31176] [CServerManager::SM_SP_ServerSetModuleDataCallback@826] end
+
+2025-12-23 13:45:10.227 INFO  [31176] [CServerManager::SM_SP_ServerSetRunResCallback@792] start
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::SM_SP_ServerSetRunResCallback@806] end
+
+2025-12-23 13:45:10.228 ERROR [31176] [CServerManager::DeInitServerLib@711] SDK: DeInitServerLib SM_SP_ServerSetRunResCallback fail. nRet = [e000000a]
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::SM_SP_ServerDeInit@752] start
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::SM_SP_ServerDeInit@766] end
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::DeInitServerLib@726] end
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::StopHeartPair@26204] start
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::StopHeartPair@26212] end
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::DeInitReadSendBuffer@24296] start
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::DeInitReadSendBuffer@24306] end
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::DeInit@24259] end
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::InitReadSendBuffer@24265] [Init] start
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::DeInitReadSendBuffer@24296] start
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::DeInitReadSendBuffer@24306] end
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::InitReadSendBuffer@24290] [Init] end
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::SM_Init@946] SDK: InitReadSendBuffer success.pstPlatformBasicInfo->nRepIp[0x7f000001],nport[56157]
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::SM_Init@965] SDK: GetAdapterInfo success. Info:[127.0.0.1]
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::InitServerLib@598] start
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::SM_SP_ServerSetMsgCallback@772] start
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::SM_SP_ServerSetMsgCallback@786] end
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::InitServerLib@608] SDK: InitServerLib SM_SP_ServerSetMsgCallback success.
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::SM_SP_ServerSetModuleDataCallback@812] start
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::SM_SP_ServerSetModuleDataCallback@826] end
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::InitServerLib@616] SDK: InitServerLib SM_SP_ServerSetModuleDataCallback success.
+
+2025-12-23 13:45:10.228 INFO  [31176] [CServerManager::SM_SP_ServerInit@732] start
+
+2025-12-23 13:45:10.498 INFO  [31176] [CServerManager::SM_SP_ServerInit@746] end
+
+2025-12-23 13:45:10.498 INFO  [31176] [CServerManager::InitServerLib@634] SDK: InitServerLib SM_SP_ServerInit success.
+
+2025-12-23 13:45:10.498 INFO  [31176] [CServerManager::SM_SP_ServerSetRunResCallback@792] start
+
+2025-12-23 13:45:10.498 INFO  [31176] [CServerManager::SM_SP_ServerSetRunResCallback@806] end
+
+2025-12-23 13:45:10.498 INFO  [31176] [CServerManager::InitServerLib@642] SDK: InitServerLib SM_SP_ServerSetRunResCallback success.
+
+2025-12-23 13:45:10.498 INFO  [31176] [CServerManager::SM_SP_ServerSetGlobalScriptCallback@832] start
+
+2025-12-23 13:45:10.498 INFO  [31176] [CServerManager::SM_SP_ServerSetGlobalScriptCallback@846] end
+
+2025-12-23 13:45:10.498 INFO  [31176] [CServerManager::InitServerLib@650] SDK: GM_SP_GScriptInit SM_SP_ServerSetGlobalScriptCallback success.
+
+2025-12-23 13:45:10.498 INFO  [31176] [CServerManager::InitServerLib@652] end
+
+2025-12-23 13:45:10.498 INFO  [31176] [CServerManager::SM_Init@1008] SDK: InitServerLib success.
+
+2025-12-23 13:45:10.498 INFO  [31176] [CServerManager::SM_MakeServerReportDongleInfo@36566] start.
+
+2025-12-23 13:45:10.498 INFO  [31176] [CServerManager::SM_MakeServerReportDongleInfo@36617] end
+
+2025-12-23 13:45:10.498 ERROR [31176] [CServerManager::SM_Init@1116] SDK: Dongle check fail. DongleStatus = [e0000700]
+
+2025-12-23 13:45:10.499 ERROR [31176] [CServerManager::SM_Init@1123] catch... nRet = [e0000700]
+
+2025-12-23 13:45:10.499 INFO  [31176] [CServerManager::DeInit@24205] start
+
+2025-12-23 13:45:10.499 INFO  [31176] [CServerManager::DeInitServerLib@692] start
+
+2025-12-23 13:45:10.499 INFO  [31176] [CServerManager::SM_SP_ServerSetMsgCallback@772] start
+
+2025-12-23 13:45:10.499 INFO  [31176] [CServerManager::SM_SP_ServerSetMsgCallback@786] end
+
+2025-12-23 13:45:10.499 INFO  [31176] [CServerManager::SM_SP_ServerSetModuleDataCallback@812] start
+
+2025-12-23 13:45:10.499 INFO  [31176] [CServerManager::SM_SP_ServerSetModuleDataCallback@826] end
+
+2025-12-23 13:45:10.499 INFO  [31176] [CServerManager::SM_SP_ServerSetRunResCallback@792] start
+
+2025-12-23 13:45:10.499 INFO  [31176] [CServerManager::SM_SP_ServerSetRunResCallback@806] end
+
+2025-12-23 13:45:10.499 INFO  [31176] [CServerManager::SM_SP_ServerDeInit@752] start
+
+2025-12-23 13:45:10.499 INFO  [21020] [CServerManager::HeartPairThreadProcess@26229] start
+
+2025-12-23 13:45:12.952 INFO  [52652] [CClientManager::StartServerApp@120] [Init] The serverApp pid[41924].
+
+2025-12-23 13:45:12.952 ERROR [52652] [CClientManager::RegisterOnServerApp@68] Can't find vServerApp, errMsg[0]. i[0].
+
+2025-12-23 13:45:13.452 INFO  [52652] [CClientManager::RegisterOnServerApp@56] RegisterOnServerApp success i[1].
+
+2025-12-23 13:45:13.773 INFO  [52652] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:45:13.773 INFO  [52652] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:45:14.088 INFO  [52652] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:45:14.088 INFO  [52652] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:45:14.398 INFO  [52652] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:45:14.398 INFO  [52652] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:45:14.712 INFO  [52652] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:45:14.712 INFO  [52652] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:45:15.024 INFO  [52652] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:45:15.024 INFO  [52652] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:45:15.334 INFO  [52652] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:45:15.334 INFO  [52652] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:45:15.642 INFO  [52652] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:45:15.642 INFO  [52652] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:45:15.951 INFO  [52652] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:45:15.951 INFO  [52652] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:45:15.951 INFO  [52652] [CClientManager::StartAndRegisterServerApp@293] Start App end.
+
+2025-12-23 13:45:15.952 INFO  [52652] [DoStartServerApp@38] End
+
+2025-12-23 13:45:16.069 INFO  [31176] [CServerManager::SM_SP_ServerDeInit@766] end
+
+2025-12-23 13:45:16.069 INFO  [31176] [CServerManager::DeInitServerLib@726] end
+
+2025-12-23 13:45:16.069 INFO  [31176] [CServerManager::StopHeartPair@26204] start
+
+2025-12-23 13:45:16.124 INFO  [21020] [CServerManager::HeartPairThreadProcess@26772] SDK: The heart process is normally disconnected.
+
+2025-12-23 13:45:16.124 INFO  [31176] [CServerManager::StopHeartPair@26212] end
+
+2025-12-23 13:45:16.124 INFO  [31176] [CServerManager::DeInitReadSendBuffer@24296] start
+
+2025-12-23 13:45:16.124 INFO  [31176] [CServerManager::DeInitReadSendBuffer@24306] end
+
+2025-12-23 13:45:16.124 INFO  [31176] [CServerManager::DeInit@24259] end
+
+2025-12-23 13:45:16.124 ERROR [31176] [CClientManager::PF_CreateHandle@1749] [Init] SDK: PF_CreateHandle SM_Init fail. nRet = [e0000700]
+
+2025-12-23 13:55:35.777 INFO  [21140] [CServerManager::InitLog@35999] [Init] [Begin]======================================== V4.3.0 Build Aug 22 2023 10:14:22 Start Print Log ========================================
+
+2025-12-23 13:55:35.777 INFO  [21140] [CClientManager::Init@5333] [Init] begin.
+
+2025-12-23 13:55:35.777 INFO  [21140] [CClientManager::Init@5355] [Init] end.nRet[0]
+
+2025-12-23 13:55:35.777 INFO  [21140] [CServerManager::SM_SP_LoadLib@377] [Init] start
+
+2025-12-23 13:55:35.777 INFO  [21140] [CServerManager::SM_SP_LoadLib@471] [Init] SDK: SM_SP_LoadLib Load Server Lib. Path: [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\PublicFile\x64\..\..\Server\PlatformManager.dll]
+
+2025-12-23 13:55:35.783 INFO  [21140] [CServerManager::SM_SP_LoadLib@561] [Init] end
+
+2025-12-23 13:55:35.783 INFO  [21140] [CGScriptManager::GM_SP_UnLoadLib@130] start
+
+2025-12-23 13:55:35.783 INFO  [21140] [CGScriptManager::GM_SP_UnLoadLib@150] end
+
+2025-12-23 13:55:35.783 INFO  [21140] [CGScriptManager::GM_SP_LoadLib@34] start
+
+2025-12-23 13:55:35.785 INFO  [21140] [CGScriptManager::GM_SP_LoadLib@123] end
+
+2025-12-23 13:55:35.785 INFO  [21140] [CClientManager::PF_CreateHandle@1685] [Init] begin. nHandleType:[0]
+
+2025-12-23 13:55:35.785 INFO  [21140] [CClientManager::PF_CreateHandle@1719] [Init] SDK: Third software start server by exe.
+
+2025-12-23 13:55:35.785 INFO  [21140] [CServerManager::SM_SP_InitGLobalScript@25173] [Init] start
+
+2025-12-23 13:55:35.785 INFO  [21140] [CGScriptManager::GM_SP_GScriptInit@156] start
+
+2025-12-23 13:55:35.786 INFO  [51532] [DoStartServerApp@29] Begin
+
+2025-12-23 13:55:35.786 INFO  [51532] [CClientManager::StartAndRegisterServerApp@253] Server app path[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:55:35.794 INFO  [51532] [CClientManager::StartAndRegisterServerApp@259] Need start server app
+
+2025-12-23 13:55:35.794 INFO  [51532] [CClientManager::StartServerApp@104] [Init] Start serverApp process[D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:55:36.232 INFO  [21140] [CGScriptManager::GM_SP_GScriptInit@177] end
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_InitGLobalScript@25191] [Init] end
+
+2025-12-23 13:55:36.232 INFO  [21140] [CClientManager::PF_CreateHandle@1734] [Init] SDK: Init server by exe. Server proc id:[0]
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_Init@912] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::DeInit@24205] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::DeInitServerLib@692] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_ServerSetMsgCallback@772] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_ServerSetMsgCallback@786] end
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_ServerSetModuleDataCallback@812] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_ServerSetModuleDataCallback@826] end
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_ServerSetRunResCallback@792] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_ServerSetRunResCallback@806] end
+
+2025-12-23 13:55:36.232 ERROR [21140] [CServerManager::DeInitServerLib@711] SDK: DeInitServerLib SM_SP_ServerSetRunResCallback fail. nRet = [e000000a]
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_ServerDeInit@752] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_ServerDeInit@766] end
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::DeInitServerLib@726] end
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::StopHeartPair@26204] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::StopHeartPair@26212] end
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::DeInitReadSendBuffer@24296] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::DeInitReadSendBuffer@24306] end
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::DeInit@24259] end
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::InitReadSendBuffer@24265] [Init] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::DeInitReadSendBuffer@24296] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::DeInitReadSendBuffer@24306] end
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::InitReadSendBuffer@24290] [Init] end
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_Init@946] SDK: InitReadSendBuffer success.pstPlatformBasicInfo->nRepIp[0x7f000001],nport[56487]
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_Init@965] SDK: GetAdapterInfo success. Info:[127.0.0.1]
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::InitServerLib@598] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_ServerSetMsgCallback@772] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_ServerSetMsgCallback@786] end
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::InitServerLib@608] SDK: InitServerLib SM_SP_ServerSetMsgCallback success.
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_ServerSetModuleDataCallback@812] start
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_ServerSetModuleDataCallback@826] end
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::InitServerLib@616] SDK: InitServerLib SM_SP_ServerSetModuleDataCallback success.
+
+2025-12-23 13:55:36.232 INFO  [21140] [CServerManager::SM_SP_ServerInit@732] start
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_SP_ServerInit@746] end
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::InitServerLib@634] SDK: InitServerLib SM_SP_ServerInit success.
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_SP_ServerSetRunResCallback@792] start
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_SP_ServerSetRunResCallback@806] end
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::InitServerLib@642] SDK: InitServerLib SM_SP_ServerSetRunResCallback success.
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_SP_ServerSetGlobalScriptCallback@832] start
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_SP_ServerSetGlobalScriptCallback@846] end
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::InitServerLib@650] SDK: GM_SP_GScriptInit SM_SP_ServerSetGlobalScriptCallback success.
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::InitServerLib@652] end
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_Init@1008] SDK: InitServerLib success.
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_MakeServerReportDongleInfo@36566] start.
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_MakeServerReportDongleInfo@36617] end
+
+2025-12-23 13:55:36.501 ERROR [21140] [CServerManager::SM_Init@1116] SDK: Dongle check fail. DongleStatus = [e0000700]
+
+2025-12-23 13:55:36.501 ERROR [21140] [CServerManager::SM_Init@1123] catch... nRet = [e0000700]
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::DeInit@24205] start
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::DeInitServerLib@692] start
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_SP_ServerSetMsgCallback@772] start
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_SP_ServerSetMsgCallback@786] end
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_SP_ServerSetModuleDataCallback@812] start
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_SP_ServerSetModuleDataCallback@826] end
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_SP_ServerSetRunResCallback@792] start
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_SP_ServerSetRunResCallback@806] end
+
+2025-12-23 13:55:36.501 INFO  [21140] [CServerManager::SM_SP_ServerDeInit@752] start
+
+2025-12-23 13:55:36.501 INFO  [37936] [CServerManager::HeartPairThreadProcess@26229] start
+
+2025-12-23 13:55:38.947 INFO  [51532] [CClientManager::StartServerApp@120] [Init] The serverApp pid[17404].
+
+2025-12-23 13:55:38.947 ERROR [51532] [CClientManager::RegisterOnServerApp@68] Can't find vServerApp, errMsg[0]. i[0].
+
+2025-12-23 13:55:39.450 INFO  [51532] [CClientManager::RegisterOnServerApp@56] RegisterOnServerApp success i[1].
+
+2025-12-23 13:55:39.766 INFO  [51532] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:55:39.766 INFO  [51532] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:55:40.074 INFO  [51532] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:55:40.074 INFO  [51532] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:55:40.384 INFO  [51532] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:55:40.384 INFO  [51532] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:55:40.692 INFO  [51532] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:55:40.692 INFO  [51532] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:55:41.001 INFO  [51532] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:55:41.001 INFO  [51532] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:55:41.310 INFO  [51532] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:55:41.310 INFO  [51532] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:55:41.619 INFO  [51532] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:55:41.619 INFO  [51532] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:55:41.929 INFO  [51532] [CClientManager::CheckCurrentServerApp@172] vServerApp path [D:\Program Files\VMV4.4.0_240813\VM4.3.0_240813_setup\VisionMaster4.3.0\Applications\ServerApp\vServerApp.exe]
+
+2025-12-23 13:55:41.929 INFO  [51532] [CClientManager::CheckCurrentServerApp@201] vServerApp is found
+
+2025-12-23 13:55:41.929 INFO  [51532] [CClientManager::StartAndRegisterServerApp@293] Start App end.
+
+2025-12-23 13:55:41.929 INFO  [51532] [DoStartServerApp@38] End
+
+2025-12-23 13:55:42.035 INFO  [21140] [CServerManager::SM_SP_ServerDeInit@766] end
+
+2025-12-23 13:55:42.035 INFO  [21140] [CServerManager::DeInitServerLib@726] end
+
+2025-12-23 13:55:42.035 INFO  [21140] [CServerManager::StopHeartPair@26204] start
+
+2025-12-23 13:55:42.091 INFO  [37936] [CServerManager::HeartPairThreadProcess@26772] SDK: The heart process is normally disconnected.
+
+2025-12-23 13:55:42.091 INFO  [21140] [CServerManager::StopHeartPair@26212] end
+
+2025-12-23 13:55:42.091 INFO  [21140] [CServerManager::DeInitReadSendBuffer@24296] start
+
+2025-12-23 13:55:42.091 INFO  [21140] [CServerManager::DeInitReadSendBuffer@24306] end
+
+2025-12-23 13:55:42.091 INFO  [21140] [CServerManager::DeInit@24259] end
+
+2025-12-23 13:55:42.091 ERROR [21140] [CClientManager::PF_CreateHandle@1749] [Init] SDK: PF_CreateHandle SM_Init fail. nRet = [e0000700]
+

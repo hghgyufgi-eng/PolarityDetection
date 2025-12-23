@@ -19798,3 +19798,265 @@
 
 2025-12-23 11:51:01.633 INFO  [47068] [CModuProxySingleManager::MP_DeInit@354] [Deinit][End] Consume 5461.314200 ms
 
+2025-12-23 13:45:10.241 ERROR [9764] [CModuProxyManager::PrintLog@163] =============================================== Start Print Log Async====================================================
+
+2025-12-23 13:45:10.241 INFO  [9764] [CModuProxyManager::PrintLog@164] Proxy Version: V4.3.0 build Jul 24 2023, 14:43:44
+
+2025-12-23 13:45:10.241 INFO  [9764] [CModuProxySingleManager::MP_Init@81] [Init][Begin]
+
+2025-12-23 13:45:10.241 INFO  [9764] [CModuProxySingleManager::MP_Init@82] [Init] VmPath Path:[E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\TApp\bin\Debug\net472]
+
+2025-12-23 13:45:10.245 INFO  [9764] [CHSLogManager::LoadDLL@37] LoadDLL HSLog Done
+
+2025-12-23 13:45:10.245 INFO  [9764] [CHSLogManager::E_HSlogInitModule@52] InitModuleLog Start
+
+2025-12-23 13:45:10.435 INFO  [9764] [CHSLogManager::E_HSlogInitModule@58] InitModuleLog End, nRet = 0
+
+2025-12-23 13:45:10.435 INFO  [9764] [CModuProxySingleManager::MP_Init@89] [Init] ModuleLogInit
+
+2025-12-23 13:45:10.435 INFO  [9764] [CModuProxySingleManager::MP_SINGLE_ParseInitParam@415] [Init] InitParam = SmGlobalProfix:0;MaxPort:10040;MinPort:10000;DongleType:0
+
+2025-12-23 13:45:10.435 INFO  [9764] [CModuProxyManager::InitModuleFrame@582] [Init] InitModuleFrame start
+
+2025-12-23 13:45:10.436 INFO  [9764] [CModuProxyManager::InitLoadModuleDataTempPath@758] Current sol file temp path[C:\Users\hongyang.xia\AppData\Local\Temp\VM37188ImgSrcTemp]
+
+2025-12-23 13:45:10.436 WARN  [9764] [CModuProxyManager::GetProxyCfgInfo@1884] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [PriorityClass]
+
+2025-12-23 13:45:10.436 WARN  [9764] [CModuProxyManager::GetProxyCfgInfo@1898] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [PriorityBoost]
+
+2025-12-23 13:45:10.436 WARN  [9764] [CModuProxyManager::GetProxyCfgInfo@1913] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [BDRecvTimeout]
+
+2025-12-23 13:45:10.436 WARN  [9764] [CModuProxyManager::GetProxyCfgInfo@1958] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [ReentrantOption]
+
+2025-12-23 13:45:10.436 WARN  [9764] [CModuProxyManager::GetProxyCfgInfo@1988] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [UnSupportReentrantModu]
+
+2025-12-23 13:45:10.436 WARN  [9764] [CModuProxyManager::GetProxyCfgInfo@2003] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [MaxReentrantTimes]
+
+2025-12-23 13:45:10.436 WARN  [9764] [CModuProxyManager::GetProxyCfgInfo@2018] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [ForceDeepCopyImage]
+
+2025-12-23 13:45:10.436 INFO  [9764] [CModuProxyManager::InitModuleFrame@597] GetProxyCfgInfo
+
+2025-12-23 13:45:10.440 INFO  [9764] [CFrameExportManager::InitFrame@181] LoadDLL Frame Done
+
+2025-12-23 13:45:10.440 INFO  [9764] [CModuProxyManager::InitModuleFrame@632] ModuleFrame: VM_M_Initialize start.
+
+2025-12-23 13:45:10.445 INFO  [9764] [CModuProxyManager::InitModuleFrame@639] ModuleFrame: VM_M_Initialize end.
+
+2025-12-23 13:45:10.445 INFO  [9764] [CModuProxyManager::InitModuleFrame@645] VM_M_EnableSharedMemGlobalPrefix false
+
+2025-12-23 13:45:10.445 INFO  [9764] [CModuProxyManager::InitModuleFrame@733] [Init] InitModuleFrame end
+
+2025-12-23 13:45:10.445 INFO  [9764] [CModuProxySingleManager::MP_Init@135] [Init] StartResourceThread
+
+2025-12-23 13:45:10.445 INFO  [9764] [CModuProxySingleManager::MP_Init@146] [Init][End] Consume 207.069900 ms
+
+2025-12-23 13:45:10.457 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@194] [Resource] Python load dll start
+
+2025-12-23 13:45:10.466 INFO  [29984] [CPythonExportManager::LoadDll@43] LoadDLL Python Done
+
+2025-12-23 13:45:10.466 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@201] [Resource] Python load dll end
+
+2025-12-23 13:45:10.466 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@204] [Resource] DependencyLibraries load dll start
+
+2025-12-23 13:45:10.473 INFO  [29984] [CDependencyLibrariesManager::LoadDLL@27] LoadDLL GateWay Done
+
+2025-12-23 13:45:10.473 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@210] [Resource] DependencyLibraries load dll end
+
+2025-12-23 13:45:10.473 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@224] [Resource] InitPython start
+
+2025-12-23 13:45:10.473 INFO  [29984] [CModuProxyManager::InitPython@505] InitPython Start
+
+2025-12-23 13:45:10.499 INFO  [31176] [CModuProxySingleManager::MP_DeInit@328] [Deinit][Begin]
+
+2025-12-23 13:45:10.499 INFO  [31176] [CModuProxySingleManager::MP_DeInit@330] [Deinit] VM_M_UnInitialize.
+
+2025-12-23 13:45:10.515 INFO  [29984] [CModuProxyManager::InitPython@548] InitPython End
+
+2025-12-23 13:45:10.515 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@230] [Resource] InitPython end
+
+2025-12-23 13:45:10.515 INFO  [29984] [CParseProtocol::SetAddModuleEnableSingle@14448] Resources are ready
+
+2025-12-23 13:45:10.515 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@235] [Resource] CreateGlobalInitToolInstance start.
+
+2025-12-23 13:45:10.567 INFO  [29984] [CMVDExportManager::E_MVD_SetLockType@131] [Init] Set SDK lock type[1]
+
+2025-12-23 13:45:10.611 WARN  [29984] [CModuProxyManager::InitOneMVDInstance@2071] CreateGlobalInitToolInstance fail return[80100015]
+
+2025-12-23 13:45:10.611 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@241] [Resource] CreateGlobalInitToolInstance end.
+
+2025-12-23 13:45:10.611 INFO  [29984] [CModuProxyManager::SetImageSrcTempPath@769] start
+
+2025-12-23 13:45:10.611 INFO  [29984] [CModuProxyManager::DetectProxyProcNum@867] start DetectProxyProcNum
+
+2025-12-23 13:45:10.620 INFO  [29984] [CModuProxyManager::DetectProxyProcNum@929] end DetectProxyProcNum; num=1
+
+2025-12-23 13:45:10.627 ERROR [29984] [CCommonFunction::IsProcessExist@1587] CreateToolhelp32Snapshot fail, error:[87]
+
+2025-12-23 13:45:10.627 INFO  [29984] [CModuProxyManager::SetImageSrcTempPath@825] Delete Last image source temp path:[C:\Users\hongyang.xia\AppData\Local\Temp\VM11856ImgSrcTemp]
+
+2025-12-23 13:45:10.628 INFO  [29984] [CModuProxyManager::SetImageSrcTempPath@848] Proxy: Current image source temp path:[C:\Users\hongyang.xia\AppData\Local\Temp\VM37188ImgSrcTemp]
+
+2025-12-23 13:45:10.628 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@253] [Resource] StartAwakGPUTool start
+
+2025-12-23 13:45:11.473 INFO  [31176] [CModuProxySingleManager::MP_DeInit@334] [Deinit] DestroyGlobalInitToolInstance.
+
+2025-12-23 13:45:11.473 INFO  [31176] [CModuProxySingleManager::MP_DeInit@337] [Deinit] Release resource thread
+
+2025-12-23 13:45:11.473 INFO  [31176] [CModuProxySingleManager::MP_DeInit@340] [Deinit] Wait resource thread
+
+2025-12-23 13:45:16.009 INFO  [29984] [CModuProxyManager::StartAwakGPUTool@977] Awake GPU Tool successed.
+
+2025-12-23 13:45:16.009 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@255] [Resource] StartAwakGPUTool end
+
+2025-12-23 13:45:16.010 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@266] Delete image temp path C:\Users\hongyang.xia\AppData\Local\Temp\VM11856ImgSrcTemp
+
+2025-12-23 13:45:16.011 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@271] [Resource] Init finish
+
+2025-12-23 13:45:16.011 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@289] [Resource] DeInitPython start.
+
+2025-12-23 13:45:16.013 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@295] [Resource] DeInitPython end.
+
+2025-12-23 13:45:16.013 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@304] [Resource] Deinit finish
+
+2025-12-23 13:45:16.013 INFO  [29984] [CModuProxySingleManager::ResourceThreadProcess@316] [Resource] ResourceThreadProcess finish
+
+2025-12-23 13:45:16.014 INFO  [31176] [CModuProxySingleManager::MP_DeInit@350] [Deinit] HSlogDeinit
+
+2025-12-23 13:45:16.014 INFO  [31176] [CHSLogManager::E_HSlogDeinit@67] DeInitModuleLog Start
+
+2025-12-23 13:45:16.015 INFO  [31176] [CHSLogManager::E_HSlogDeinit@72] DeInitModuleLog End, nRet = 0
+
+2025-12-23 13:45:16.015 INFO  [31176] [CModuProxySingleManager::MP_DeInit@354] [Deinit][End] Consume 5516.302200 ms
+
+2025-12-23 13:55:36.243 ERROR [28724] [CModuProxyManager::PrintLog@163] =============================================== Start Print Log Async====================================================
+
+2025-12-23 13:55:36.243 INFO  [28724] [CModuProxyManager::PrintLog@164] Proxy Version: V4.3.0 build Jul 24 2023, 14:43:44
+
+2025-12-23 13:55:36.243 INFO  [28724] [CModuProxySingleManager::MP_Init@81] [Init][Begin]
+
+2025-12-23 13:55:36.243 INFO  [28724] [CModuProxySingleManager::MP_Init@82] [Init] VmPath Path:[E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\TApp\bin\Debug\net472]
+
+2025-12-23 13:55:36.246 INFO  [28724] [CHSLogManager::LoadDLL@37] LoadDLL HSLog Done
+
+2025-12-23 13:55:36.246 INFO  [28724] [CHSLogManager::E_HSlogInitModule@52] InitModuleLog Start
+
+2025-12-23 13:55:36.429 INFO  [28724] [CHSLogManager::E_HSlogInitModule@58] InitModuleLog End, nRet = 0
+
+2025-12-23 13:55:36.430 INFO  [28724] [CModuProxySingleManager::MP_Init@89] [Init] ModuleLogInit
+
+2025-12-23 13:55:36.430 INFO  [28724] [CModuProxySingleManager::MP_SINGLE_ParseInitParam@415] [Init] InitParam = SmGlobalProfix:0;MaxPort:10040;MinPort:10000;DongleType:0
+
+2025-12-23 13:55:36.430 INFO  [28724] [CModuProxyManager::InitModuleFrame@582] [Init] InitModuleFrame start
+
+2025-12-23 13:55:36.430 INFO  [28724] [CModuProxyManager::InitLoadModuleDataTempPath@758] Current sol file temp path[C:\Users\hongyang.xia\AppData\Local\Temp\VM46420ImgSrcTemp]
+
+2025-12-23 13:55:36.431 WARN  [28724] [CModuProxyManager::GetProxyCfgInfo@1884] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [PriorityClass]
+
+2025-12-23 13:55:36.431 WARN  [28724] [CModuProxyManager::GetProxyCfgInfo@1898] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [PriorityBoost]
+
+2025-12-23 13:55:36.431 WARN  [28724] [CModuProxyManager::GetProxyCfgInfo@1913] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [BDRecvTimeout]
+
+2025-12-23 13:55:36.431 WARN  [28724] [CModuProxyManager::GetProxyCfgInfo@1958] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [ReentrantOption]
+
+2025-12-23 13:55:36.431 WARN  [28724] [CModuProxyManager::GetProxyCfgInfo@1988] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [UnSupportReentrantModu]
+
+2025-12-23 13:55:36.431 WARN  [28724] [CModuProxyManager::GetProxyCfgInfo@2003] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [MaxReentrantTimes]
+
+2025-12-23 13:55:36.431 WARN  [28724] [CModuProxyManager::GetProxyCfgInfo@2018] GetProxyCfgInfo (0 == strValue.compare(strEmpty)). strParam = [ForceDeepCopyImage]
+
+2025-12-23 13:55:36.431 INFO  [28724] [CModuProxyManager::InitModuleFrame@597] GetProxyCfgInfo
+
+2025-12-23 13:55:36.435 INFO  [28724] [CFrameExportManager::InitFrame@181] LoadDLL Frame Done
+
+2025-12-23 13:55:36.435 INFO  [28724] [CModuProxyManager::InitModuleFrame@632] ModuleFrame: VM_M_Initialize start.
+
+2025-12-23 13:55:36.443 INFO  [28724] [CModuProxyManager::InitModuleFrame@639] ModuleFrame: VM_M_Initialize end.
+
+2025-12-23 13:55:36.443 INFO  [28724] [CModuProxyManager::InitModuleFrame@645] VM_M_EnableSharedMemGlobalPrefix false
+
+2025-12-23 13:55:36.443 INFO  [28724] [CModuProxyManager::InitModuleFrame@733] [Init] InitModuleFrame end
+
+2025-12-23 13:55:36.444 INFO  [28724] [CModuProxySingleManager::MP_Init@135] [Init] StartResourceThread
+
+2025-12-23 13:55:36.444 INFO  [28724] [CModuProxySingleManager::MP_Init@146] [Init][End] Consume 203.615100 ms
+
+2025-12-23 13:55:36.454 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@194] [Resource] Python load dll start
+
+2025-12-23 13:55:36.463 INFO  [46460] [CPythonExportManager::LoadDll@43] LoadDLL Python Done
+
+2025-12-23 13:55:36.463 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@201] [Resource] Python load dll end
+
+2025-12-23 13:55:36.463 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@204] [Resource] DependencyLibraries load dll start
+
+2025-12-23 13:55:36.470 INFO  [46460] [CDependencyLibrariesManager::LoadDLL@27] LoadDLL GateWay Done
+
+2025-12-23 13:55:36.470 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@210] [Resource] DependencyLibraries load dll end
+
+2025-12-23 13:55:36.470 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@224] [Resource] InitPython start
+
+2025-12-23 13:55:36.470 INFO  [46460] [CModuProxyManager::InitPython@505] InitPython Start
+
+2025-12-23 13:55:36.501 INFO  [21140] [CModuProxySingleManager::MP_DeInit@328] [Deinit][Begin]
+
+2025-12-23 13:55:36.501 INFO  [21140] [CModuProxySingleManager::MP_DeInit@330] [Deinit] VM_M_UnInitialize.
+
+2025-12-23 13:55:36.508 INFO  [46460] [CModuProxyManager::InitPython@548] InitPython End
+
+2025-12-23 13:55:36.508 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@230] [Resource] InitPython end
+
+2025-12-23 13:55:36.508 INFO  [46460] [CParseProtocol::SetAddModuleEnableSingle@14448] Resources are ready
+
+2025-12-23 13:55:36.508 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@235] [Resource] CreateGlobalInitToolInstance start.
+
+2025-12-23 13:55:36.561 INFO  [46460] [CMVDExportManager::E_MVD_SetLockType@131] [Init] Set SDK lock type[1]
+
+2025-12-23 13:55:36.612 WARN  [46460] [CModuProxyManager::InitOneMVDInstance@2071] CreateGlobalInitToolInstance fail return[80100015]
+
+2025-12-23 13:55:36.612 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@241] [Resource] CreateGlobalInitToolInstance end.
+
+2025-12-23 13:55:36.612 INFO  [46460] [CModuProxyManager::SetImageSrcTempPath@769] start
+
+2025-12-23 13:55:36.612 INFO  [46460] [CModuProxyManager::DetectProxyProcNum@867] start DetectProxyProcNum
+
+2025-12-23 13:55:36.618 ERROR [46460] [CModuProxyManager::DetectProxyProcNum@884] CreateToolhelp32Snapshot fail, error:[24]
+
+2025-12-23 13:55:36.619 ERROR [46460] [CModuProxyManager::DetectProxyProcNum@923] catch... LastError = [0]
+
+2025-12-23 13:55:36.625 ERROR [46460] [CCommonFunction::IsProcessExist@1587] CreateToolhelp32Snapshot fail, error:[87]
+
+2025-12-23 13:55:36.625 INFO  [46460] [CModuProxyManager::SetImageSrcTempPath@825] Delete Last image source temp path:[C:\Users\hongyang.xia\AppData\Local\Temp\VM37188ImgSrcTemp]
+
+2025-12-23 13:55:36.627 INFO  [46460] [CModuProxyManager::SetImageSrcTempPath@848] Proxy: Current image source temp path:[C:\Users\hongyang.xia\AppData\Local\Temp\VM46420ImgSrcTemp]
+
+2025-12-23 13:55:36.627 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@253] [Resource] StartAwakGPUTool start
+
+2025-12-23 13:55:37.440 INFO  [21140] [CModuProxySingleManager::MP_DeInit@334] [Deinit] DestroyGlobalInitToolInstance.
+
+2025-12-23 13:55:37.440 INFO  [21140] [CModuProxySingleManager::MP_DeInit@337] [Deinit] Release resource thread
+
+2025-12-23 13:55:37.440 INFO  [21140] [CModuProxySingleManager::MP_DeInit@340] [Deinit] Wait resource thread
+
+2025-12-23 13:55:41.986 INFO  [46460] [CModuProxyManager::StartAwakGPUTool@977] Awake GPU Tool successed.
+
+2025-12-23 13:55:41.986 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@255] [Resource] StartAwakGPUTool end
+
+2025-12-23 13:55:41.987 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@266] Delete image temp path C:\Users\hongyang.xia\AppData\Local\Temp\VM37188ImgSrcTemp
+
+2025-12-23 13:55:41.988 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@271] [Resource] Init finish
+
+2025-12-23 13:55:41.988 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@289] [Resource] DeInitPython start.
+
+2025-12-23 13:55:41.990 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@295] [Resource] DeInitPython end.
+
+2025-12-23 13:55:41.990 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@304] [Resource] Deinit finish
+
+2025-12-23 13:55:41.990 INFO  [46460] [CModuProxySingleManager::ResourceThreadProcess@316] [Resource] ResourceThreadProcess finish
+
+2025-12-23 13:55:41.990 INFO  [21140] [CModuProxySingleManager::MP_DeInit@350] [Deinit] HSlogDeinit
+
+2025-12-23 13:55:41.990 INFO  [21140] [CHSLogManager::E_HSlogDeinit@67] DeInitModuleLog Start
+
+2025-12-23 13:55:41.992 INFO  [21140] [CHSLogManager::E_HSlogDeinit@72] DeInitModuleLog End, nRet = 0
+
+2025-12-23 13:55:41.992 INFO  [21140] [CModuProxySingleManager::MP_DeInit@354] [Deinit][End] Consume 5490.906300 ms
+
