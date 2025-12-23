@@ -1,10 +1,10 @@
 ﻿VisDummy.MKVMs
-1.0.0.0
+
 
 library
 C#
 .cs
-e:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.MKVMs\obj\Debug\net472\
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.MKVMs\obj\Debug\net472\
 VisDummy.MKVMs
 none
 false
@@ -12,8 +12,8 @@ TRACE;DEBUG;NETFRAMEWORK;NET472;;NET30_OR_GREATER;NET35_OR_GREATER;NET40_OR_GREA
 
 1-570454390
 
-10363396396
-209167939758
+8257901516
+209470124456
 Views\Vis3DRtView.xaml;
 
 False

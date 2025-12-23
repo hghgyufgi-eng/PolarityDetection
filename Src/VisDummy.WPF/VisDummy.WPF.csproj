@@ -21,9 +21,6 @@
 	  <Compile Update="Views\Monitor\CommonCtrl\极性检测2\极性检测DevTriggerCtrl.xaml.cs">
 	    <SubType>Code</SubType>
 	  </Compile>
-	  <Compile Update="Views\Monitor\CommonCtrl\极性检测2\极性检测MstReplyCtrl.xaml.cs">
-	    <SubType>Code</SubType>
-	  </Compile>
 	  <Compile Update="Views\Monitor\CommonCtrl\极性检测2\极性检测Station2D1Ctrl.xaml.cs">
 	    <SubType>Code</SubType>
 	  </Compile>

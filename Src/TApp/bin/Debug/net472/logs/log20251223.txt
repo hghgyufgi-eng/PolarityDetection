@@ -129,3 +129,164 @@
 2025-12-23 09:41:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:收到PLC拍照请求
 2025-12-23 09:41:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:视觉输入参数：Function:0;PhotoPosition:0;Batch:0,Phototimes:0
 2025-12-23 09:41:01 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：拍照失败：ErrMsg:加载流程失败:极性检测1;ImagePath:;ParameterStatus:0
+2025-12-23 10:16:01 [WRN] [TApp.Handlers.UILogNotificationHandler] 配置的方案路径不存在!请稍后手工加载
+2025-12-23 10:16:02 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测2]{ MST信号为空，将从PLC重新读取...}
+2025-12-23 10:16:02 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
+2025-12-23 10:16:02 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测2] MST信号已从PLC恢复
+2025-12-23 10:16:02 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
+2025-12-23 10:16:20 [ERR] [TApp.Handlers.UILogNotificationHandler] 【极性检测】向PLC写数据错误：极性检测: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.极性检测.极性检测Flusher.<FlushAsync>d__3.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测\PlcCtrlFlusher.cs:行号 28
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.极性检测.Middlewares.Common.FlushPendingMiddleware.<InvokeAsync>d__3.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测\Middlewares\Common\FlushPendingMiddleware.cs:行号 22
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 VisDummy.Protocols.极性检测.Middlewares.Common.FlushPendingMiddleware.<InvokeAsync>d__3.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测\Middlewares\Common\FlushPendingMiddleware.cs:行号 27
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.极性检测.Middlewares.Common.HandlePlcRequestMiddlewareBase`5.<InvokeAsync>d__2.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测\Middlewares\Common\HandleRequestMiddleware.cs:行号 68
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.极性检测.Middlewares.Common.MaintainMiddleware.<InvokeAsync>d__5.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测\Middlewares\Common\MaintainMiddleware.cs:行号 46
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.极性检测.Middlewares.Common.HeartBeatMiddleware.<InvokeAsync>d__1.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测\Middlewares\Common\HeartBeatMiddleware.cs:行号 19
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.极性检测.Middlewares.Common.PublishNotification.PublishNotificationMiddleware.<InvokeAsync>d__2.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测\Middlewares\Common\PulishNotification\PublishNotificationMiddleware.cs:行号 24
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.极性检测.ScanProcessor.<HandleAsync>d__1.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测\ScanProcessor.cs:行号 37
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.极性检测.极性检测Scanner.<HandleMsgAsync>d__9.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测\PlcScanner.cs:行号 87
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 10:16:20 [ERR] [TApp.Handlers.UILogNotificationHandler] 【极性检测2】向PLC写数据错误：极性检测2: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.极性检测2.极性检测2Flusher.<FlushAsync>d__3.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测2\PlcCtrlFlusher.cs:行号 28
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.极性检测2.Middlewares.Common.FlushPending2Middleware.<InvokeAsync>d__3.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测2\Middlewares\Common\FlushPendingMiddleware.cs:行号 22
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 VisDummy.Protocols.极性检测2.Middlewares.Common.FlushPending2Middleware.<InvokeAsync>d__3.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测2\Middlewares\Common\FlushPendingMiddleware.cs:行号 27
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.极性检测2.Middlewares.Common.HandlePlcRequestMiddleware2Base`5.<InvokeAsync>d__2.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测2\Middlewares\Common\HandleRequestMiddleware.cs:行号 68
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.极性检测2.Middlewares.Common.HandlePlcRequestMiddleware2Base`5.<InvokeAsync>d__2.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测2\Middlewares\Common\HandleRequestMiddleware.cs:行号 68
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.极性检测2.Middlewares.Common.PublishNotification.PublishNotificationMiddleware.<InvokeAsync>d__2.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测2\Middlewares\Common\PulishNotification\PublishNotificationMiddleware.cs:行号 24
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.极性检测2.ScanProcessor.<HandleAsync>d__1.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测2\ScanProcessor.cs:行号 38
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.极性检测2.极性检测2Scanner.<HandleMsgAsync>d__9.MoveNext() 位置 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Protocols\极性检测2\PlcScanner.cs:行号 87
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 10:16:24 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 10:16:24 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 10:16:26 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 10:16:26 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 10:16:28 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 10:16:28 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 10:16:29 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：初始化
+2025-12-23 10:16:29 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-12-23 10:16:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:收到PLC拍照请求
+2025-12-23 10:16:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:视觉输入参数：Function:0;PhotoPosition:0;Batch:0,Phototimes:0
+2025-12-23 10:16:51 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：拍照失败：ErrMsg:加载流程失败:极性检测1;ImagePath:;ParameterStatus:0
+2025-12-23 10:17:04 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：初始化
+2025-12-23 10:17:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:收到PLC拍照请求
+2025-12-23 10:17:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:视觉输入参数：Function:3;PhotoPosition:0;Batch:0,Phototimes:0
+2025-12-23 10:17:38 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：拍照失败：ErrMsg:加载流程失败:极性检测1;ImagePath:;ParameterStatus:0

@@ -1,20 +1,20 @@
 ﻿TApp
-1.0.0.0
+
 
 winexe
 C#
 .cs
-e:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\TApp\obj\Debug\net472\
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\TApp\obj\Debug\net472\
 TApp
 none
 false
 TRACE;DEBUG;NETFRAMEWORK;NET472;;NET30_OR_GREATER;NET35_OR_GREATER;NET40_OR_GREATER;NET45_OR_GREATER;NET451_OR_GREATER;NET452_OR_GREATER;NET46_OR_GREATER;NET461_OR_GREATER;NET462_OR_GREATER;NET47_OR_GREATER;NET471_OR_GREATER;NET472_OR_GREATER
-e:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\TApp\App.xaml
+E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\TApp\App.xaml
 12-284860543
 
-42-1920138762
-271-866010980
+401888522253
+2712102707911
 MainWindow.xaml;Views\Dbg\DbgToolsView.xaml;Views\LoginWindow.xaml;Views\ParamsMgmt\ParamsMgmtView.xaml;Views\Realtime\RealtimeView.xaml;Views\Realtime\UILogsView.xaml;Views\UnloadProgressWnd.xaml;Views\UserMgmt\ChangeUserPasswordView.xaml;Views\UserMgmt\CreateUserView.xaml;Views\UserMgmt\PrivilegeMgmtView.xaml;Views\UserMgmt\UserListView.xaml;Views\UserMgmt\UserMgmtView.xaml;
 backgroud.png
-True
+False
 
