@@ -1,0 +1,131 @@
+2025-12-23 09:39:30 [WRN] [TApp.Handlers.UILogNotificationHandler] 配置的方案路径不存在!请稍后手工加载
+2025-12-23 09:39:32 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:32 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:34 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:34 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:36 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:36 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:39 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:39 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:41 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:41 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:43 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:43 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:46 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:46 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:49 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:49 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:51 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:51 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:53 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:53 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:55 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:55 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:57 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:58 [ERR] [TApp.Handlers.UILogNotificationHandler] 极性检测2: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-12-23 09:39:58 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测]{ MST信号为空，将从PLC重新读取...}
+2025-12-23 09:39:58 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测] MST信号已从PLC恢复
+2025-12-23 09:39:58 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[极性检测2]{ MST信号为空，将从PLC重新读取...}
+2025-12-23 09:39:58 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[极性检测2] MST信号已从PLC恢复
+2025-12-23 09:40:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-12-23 09:40:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:0;PhotoPosition:0;Batch:0,Phototimes:0
+2025-12-23 09:40:51 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ErrMsg:加载流程失败:极性检测1;ImagePath:;ParameterStatus:0
+2025-12-23 09:41:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:收到PLC拍照请求
+2025-12-23 09:41:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：正常工作拍照2:视觉输入参数：Function:0;PhotoPosition:0;Batch:0,Phototimes:0
+2025-12-23 09:41:01 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照2：拍照失败：ErrMsg:加载流程失败:极性检测1;ImagePath:;ParameterStatus:0

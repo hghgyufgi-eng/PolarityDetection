@@ -1,0 +1,13 @@
+# 忽略所有日志文件
+*.log
+*.txt
+logs/
+
+# 忽略 Visual Studio / .NET 编译输出
+[Ss]rc/[Bb]in/
+[Ss]rc/[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.suo
+*.user
+*.cache
