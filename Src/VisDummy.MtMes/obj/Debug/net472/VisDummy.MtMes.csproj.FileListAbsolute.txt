@@ -1002,4 +1002,3 @@ E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.MtMes\obj\Deb
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.MtMes\obj\Debug\net472\VisDummy.9338901A.Up2Date
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.MtMes\obj\Debug\net472\VisDummy.MtMes.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.MtMes\obj\Debug\net472\VisDummy.MtMes.pdb
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.MtMes\obj\Debug\net472\VisDummy.MtMes.sourcelink.json

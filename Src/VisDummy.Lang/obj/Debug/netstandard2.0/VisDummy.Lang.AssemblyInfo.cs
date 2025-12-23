@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VisDummy.Lang")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65c34a6dd5eb6c21a91d8e75b0f6543272b97897")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61fc1dbf74e6ea98f473e52cfb277d3e7f007150")]
 [assembly: System.Reflection.AssemblyProductAttribute("VisDummy.Lang")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VisDummy.Lang")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

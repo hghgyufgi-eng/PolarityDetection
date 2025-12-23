@@ -1377,4 +1377,3 @@ E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\TApp\obj\Debug\net472\
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\TApp\obj\Debug\net472\TApp.csproj.Up2Date
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\TApp\obj\Debug\net472\TApp.exe
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\TApp\obj\Debug\net472\TApp.pdb
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\TApp\obj\Debug\net472\TApp.sourcelink.json

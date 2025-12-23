@@ -66,8 +66,8 @@ namespace VisDummy.WPF.Views.Monitor.CommonCtrl {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;component/views/monitor/commonctrl/loading/loadingstation2dctrl.xam" +
-                    "l", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;V1.0.0.0;component/views/monitor/commonctrl/loading/loadingstation2" +
+                    "dctrl.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\..\..\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

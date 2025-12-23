@@ -1237,4 +1237,3 @@ E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.VMs\obj\Debug
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.VMs\obj\Debug\net472\VisDummy.3E8B2206.Up2Date
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.VMs\obj\Debug\net472\VisDummy.VMs.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.VMs\obj\Debug\net472\VisDummy.VMs.pdb
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.VMs\obj\Debug\net472\VisDummy.VMs.sourcelink.json

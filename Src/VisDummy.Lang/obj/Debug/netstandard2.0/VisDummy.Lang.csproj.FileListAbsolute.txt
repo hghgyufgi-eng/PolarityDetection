@@ -124,5 +124,3 @@ E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debu
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.dll
 E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.pdb
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.cs
-E:\Github_Project\Gitea_Projects\印尼Pl04\Politeray\Src\VisDummy.Lang\obj\Debug\netstandard2.0\id\VisDummy.Lang.resources.cs

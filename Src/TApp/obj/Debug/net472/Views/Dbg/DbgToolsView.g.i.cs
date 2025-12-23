@@ -65,7 +65,7 @@ namespace TApp.Views.Dbg {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TApp;V1.0.0.0;component/views/dbg/dbgtoolsview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TApp;component/views/dbg/dbgtoolsview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\Dbg\DbgToolsView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

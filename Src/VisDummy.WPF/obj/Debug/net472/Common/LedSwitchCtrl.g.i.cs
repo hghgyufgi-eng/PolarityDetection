@@ -61,7 +61,7 @@ namespace VisDummy.WPF.Common {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;component/common/ledswitchctrl.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VisDummy.WPF;V1.0.0.0;component/common/ledswitchctrl.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Common\LedSwitchCtrl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

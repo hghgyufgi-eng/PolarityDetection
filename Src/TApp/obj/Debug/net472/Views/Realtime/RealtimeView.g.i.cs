@@ -75,7 +75,7 @@ namespace TApp.Views.Realtime {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TApp;V1.0.0.0;component/views/realtime/realtimeview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TApp;component/views/realtime/realtimeview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\Realtime\RealtimeView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
