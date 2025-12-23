@@ -37,9 +37,6 @@ namespace VisDummy.WPF.Views.Monitor
 
                 this.OneWayBind(this.ViewModel, vm => vm.DevMsg_2DStation1, v => v.station2d1.DevMsg).DisposeWith(d);
                 this.OneWayBind(this.ViewModel, vm => vm.MstMsg_2DStation1, v => v.station2d1.MstMsg).DisposeWith(d);
-
-                this.OneWayBind(this.ViewModel, vm => vm.DevMsg_2DSpotStation, v => v.station2DSpot.DevMsg).DisposeWith(d);
-                this.OneWayBind(this.ViewModel, vm => vm.MstMsg_2DSpotStation, v => v.station2DSpot.MstMsg).DisposeWith(d);
             });
         }
 
