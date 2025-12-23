@@ -71,7 +71,7 @@ namespace TApp.Views.UserMgmt {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TApp;component/views/usermgmt/privilegemgmtview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TApp;V1.0.0.0;component/views/usermgmt/privilegemgmtview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\UserMgmt\PrivilegeMgmtView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

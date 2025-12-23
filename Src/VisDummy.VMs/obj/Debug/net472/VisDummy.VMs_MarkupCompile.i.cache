@@ -16,5 +16,5 @@ TRACE;DEBUG;NETFRAMEWORK;NET472;;NET30_OR_GREATER;NET35_OR_GREATER;NET40_OR_GREA
 220-549735367
 Views\GlobalParamsView.xaml;Views\ManulVisCalibrationView.xaml;Views\VisDbgView.xaml;Views\VisRtView.xaml;
 
-False
+True
 
